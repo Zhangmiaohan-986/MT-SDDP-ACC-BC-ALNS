@@ -1,0 +1,9328 @@
+{
+  "air_arcs": [
+    {
+      "distance_km": 1.6164475507064862,
+      "duration_ticks": 39,
+      "source": 0,
+      "target": 15
+    },
+    {
+      "distance_km": 1.6164475507064862,
+      "duration_ticks": 39,
+      "source": 15,
+      "target": 0
+    },
+    {
+      "distance_km": 1.9994891601099023,
+      "duration_ticks": 48,
+      "source": 0,
+      "target": 39
+    },
+    {
+      "distance_km": 1.9994891601099023,
+      "duration_ticks": 48,
+      "source": 39,
+      "target": 0
+    },
+    {
+      "distance_km": 3.6347678574085034,
+      "duration_ticks": 88,
+      "source": 1,
+      "target": 28
+    },
+    {
+      "distance_km": 3.6347678574085034,
+      "duration_ticks": 88,
+      "source": 28,
+      "target": 1
+    },
+    {
+      "distance_km": 0.5024844886640774,
+      "duration_ticks": 13,
+      "source": 1,
+      "target": 33
+    },
+    {
+      "distance_km": 0.5024844886640774,
+      "duration_ticks": 13,
+      "source": 33,
+      "target": 1
+    },
+    {
+      "distance_km": 1.8576058600305918,
+      "duration_ticks": 45,
+      "source": 1,
+      "target": 34
+    },
+    {
+      "distance_km": 1.8576058600305918,
+      "duration_ticks": 45,
+      "source": 34,
+      "target": 1
+    },
+    {
+      "distance_km": 1.9008005142176283,
+      "duration_ticks": 46,
+      "source": 1,
+      "target": 36
+    },
+    {
+      "distance_km": 1.9008005142176283,
+      "duration_ticks": 46,
+      "source": 36,
+      "target": 1
+    },
+    {
+      "distance_km": 1.3567743018704312,
+      "duration_ticks": 33,
+      "source": 1,
+      "target": 37
+    },
+    {
+      "distance_km": 1.3567743018704312,
+      "duration_ticks": 33,
+      "source": 37,
+      "target": 1
+    },
+    {
+      "distance_km": 2.176006836620004,
+      "duration_ticks": 53,
+      "source": 1,
+      "target": 39
+    },
+    {
+      "distance_km": 2.176006836620004,
+      "duration_ticks": 53,
+      "source": 39,
+      "target": 1
+    },
+    {
+      "distance_km": 1.4207107562572328,
+      "duration_ticks": 35,
+      "source": 1,
+      "target": 41
+    },
+    {
+      "distance_km": 1.4207107562572328,
+      "duration_ticks": 35,
+      "source": 41,
+      "target": 1
+    },
+    {
+      "distance_km": 1.1222825759001147,
+      "duration_ticks": 27,
+      "source": 1,
+      "target": 43
+    },
+    {
+      "distance_km": 1.1222825759001147,
+      "duration_ticks": 27,
+      "source": 43,
+      "target": 1
+    },
+    {
+      "distance_km": 1.8071362557153794,
+      "duration_ticks": 44,
+      "source": 1,
+      "target": 46
+    },
+    {
+      "distance_km": 1.8071362557153794,
+      "duration_ticks": 44,
+      "source": 46,
+      "target": 1
+    },
+    {
+      "distance_km": 1.8149462352367358,
+      "duration_ticks": 44,
+      "source": 1,
+      "target": 48
+    },
+    {
+      "distance_km": 1.8149462352367358,
+      "duration_ticks": 44,
+      "source": 48,
+      "target": 1
+    },
+    {
+      "distance_km": 0.7440837505348439,
+      "duration_ticks": 18,
+      "source": 2,
+      "target": 21
+    },
+    {
+      "distance_km": 0.7440837505348439,
+      "duration_ticks": 18,
+      "source": 21,
+      "target": 2
+    },
+    {
+      "distance_km": 1.3252076042235796,
+      "duration_ticks": 32,
+      "source": 2,
+      "target": 23
+    },
+    {
+      "distance_km": 1.3252076042235796,
+      "duration_ticks": 32,
+      "source": 23,
+      "target": 2
+    },
+    {
+      "distance_km": 2.2944611622812436,
+      "duration_ticks": 56,
+      "source": 3,
+      "target": 24
+    },
+    {
+      "distance_km": 2.2944611622812436,
+      "duration_ticks": 56,
+      "source": 24,
+      "target": 3
+    },
+    {
+      "distance_km": 1.4774106138308338,
+      "duration_ticks": 36,
+      "source": 3,
+      "target": 28
+    },
+    {
+      "distance_km": 1.4774106138308338,
+      "duration_ticks": 36,
+      "source": 28,
+      "target": 3
+    },
+    {
+      "distance_km": 1.3817882103911587,
+      "duration_ticks": 34,
+      "source": 3,
+      "target": 30
+    },
+    {
+      "distance_km": 1.3817882103911587,
+      "duration_ticks": 34,
+      "source": 30,
+      "target": 3
+    },
+    {
+      "distance_km": 3.0077685704605,
+      "duration_ticks": 73,
+      "source": 3,
+      "target": 38
+    },
+    {
+      "distance_km": 3.0077685704605,
+      "duration_ticks": 73,
+      "source": 38,
+      "target": 3
+    },
+    {
+      "distance_km": 3.0222909817760764,
+      "duration_ticks": 73,
+      "source": 4,
+      "target": 18
+    },
+    {
+      "distance_km": 3.0222909817760764,
+      "duration_ticks": 73,
+      "source": 18,
+      "target": 4
+    },
+    {
+      "distance_km": 5.130407264342667,
+      "duration_ticks": 124,
+      "source": 4,
+      "target": 29
+    },
+    {
+      "distance_km": 5.130407264342667,
+      "duration_ticks": 124,
+      "source": 29,
+      "target": 4
+    },
+    {
+      "distance_km": 1.8650045795185057,
+      "duration_ticks": 45,
+      "source": 5,
+      "target": 17
+    },
+    {
+      "distance_km": 1.8650045795185057,
+      "duration_ticks": 45,
+      "source": 17,
+      "target": 5
+    },
+    {
+      "distance_km": 0.8619554302706133,
+      "duration_ticks": 21,
+      "source": 5,
+      "target": 38
+    },
+    {
+      "distance_km": 0.8619554302706133,
+      "duration_ticks": 21,
+      "source": 38,
+      "target": 5
+    },
+    {
+      "distance_km": 3.1646777991274244,
+      "duration_ticks": 76,
+      "source": 5,
+      "target": 44
+    },
+    {
+      "distance_km": 3.1646777991274244,
+      "duration_ticks": 76,
+      "source": 44,
+      "target": 5
+    },
+    {
+      "distance_km": 3.777782834864519,
+      "duration_ticks": 91,
+      "source": 6,
+      "target": 12
+    },
+    {
+      "distance_km": 3.777782834864519,
+      "duration_ticks": 91,
+      "source": 12,
+      "target": 6
+    },
+    {
+      "distance_km": 2.541135544520402,
+      "duration_ticks": 61,
+      "source": 6,
+      "target": 14
+    },
+    {
+      "distance_km": 2.541135544520402,
+      "duration_ticks": 61,
+      "source": 14,
+      "target": 6
+    },
+    {
+      "distance_km": 1.284086364281235,
+      "duration_ticks": 31,
+      "source": 7,
+      "target": 8
+    },
+    {
+      "distance_km": 1.284086364281235,
+      "duration_ticks": 31,
+      "source": 8,
+      "target": 7
+    },
+    {
+      "distance_km": 2.4893229365022136,
+      "duration_ticks": 60,
+      "source": 7,
+      "target": 20
+    },
+    {
+      "distance_km": 2.4893229365022136,
+      "duration_ticks": 60,
+      "source": 20,
+      "target": 7
+    },
+    {
+      "distance_km": 2.0807374964858023,
+      "duration_ticks": 50,
+      "source": 7,
+      "target": 40
+    },
+    {
+      "distance_km": 2.0807374964858023,
+      "duration_ticks": 50,
+      "source": 40,
+      "target": 7
+    },
+    {
+      "distance_km": 1.4149180718476257,
+      "duration_ticks": 34,
+      "source": 7,
+      "target": 47
+    },
+    {
+      "distance_km": 1.4149180718476257,
+      "duration_ticks": 34,
+      "source": 47,
+      "target": 7
+    },
+    {
+      "distance_km": 7.080060738888687,
+      "duration_ticks": 170,
+      "source": 8,
+      "target": 19
+    },
+    {
+      "distance_km": 7.080060738888687,
+      "duration_ticks": 170,
+      "source": 19,
+      "target": 8
+    },
+    {
+      "distance_km": 1.8267335483917753,
+      "duration_ticks": 44,
+      "source": 8,
+      "target": 47
+    },
+    {
+      "distance_km": 1.8267335483917753,
+      "duration_ticks": 44,
+      "source": 47,
+      "target": 8
+    },
+    {
+      "distance_km": 3.476554808876739,
+      "duration_ticks": 84,
+      "source": 9,
+      "target": 10
+    },
+    {
+      "distance_km": 3.476554808876739,
+      "duration_ticks": 84,
+      "source": 10,
+      "target": 9
+    },
+    {
+      "distance_km": 1.91141480273906,
+      "duration_ticks": 46,
+      "source": 9,
+      "target": 22
+    },
+    {
+      "distance_km": 1.91141480273906,
+      "duration_ticks": 46,
+      "source": 22,
+      "target": 9
+    },
+    {
+      "distance_km": 1.511281559691973,
+      "duration_ticks": 37,
+      "source": 10,
+      "target": 13
+    },
+    {
+      "distance_km": 1.511281559691973,
+      "duration_ticks": 37,
+      "source": 13,
+      "target": 10
+    },
+    {
+      "distance_km": 3.929162969540713,
+      "duration_ticks": 95,
+      "source": 11,
+      "target": 13
+    },
+    {
+      "distance_km": 3.929162969540713,
+      "duration_ticks": 95,
+      "source": 13,
+      "target": 11
+    },
+    {
+      "distance_km": 1.3934821379551319,
+      "duration_ticks": 34,
+      "source": 11,
+      "target": 25
+    },
+    {
+      "distance_km": 1.3934821379551319,
+      "duration_ticks": 34,
+      "source": 25,
+      "target": 11
+    },
+    {
+      "distance_km": 4.473351740666165,
+      "duration_ticks": 108,
+      "source": 12,
+      "target": 29
+    },
+    {
+      "distance_km": 4.473351740666165,
+      "duration_ticks": 108,
+      "source": 29,
+      "target": 12
+    },
+    {
+      "distance_km": 2.010603439545949,
+      "duration_ticks": 49,
+      "source": 14,
+      "target": 31
+    },
+    {
+      "distance_km": 2.010603439545949,
+      "duration_ticks": 49,
+      "source": 31,
+      "target": 14
+    },
+    {
+      "distance_km": 2.776368058885744,
+      "duration_ticks": 67,
+      "source": 15,
+      "target": 32
+    },
+    {
+      "distance_km": 2.776368058885744,
+      "duration_ticks": 67,
+      "source": 32,
+      "target": 15
+    },
+    {
+      "distance_km": 0.7912834227519249,
+      "duration_ticks": 19,
+      "source": 16,
+      "target": 26
+    },
+    {
+      "distance_km": 0.7912834227519249,
+      "duration_ticks": 19,
+      "source": 26,
+      "target": 16
+    },
+    {
+      "distance_km": 3.7277376675835163,
+      "duration_ticks": 90,
+      "source": 16,
+      "target": 27
+    },
+    {
+      "distance_km": 3.7277376675835163,
+      "duration_ticks": 90,
+      "source": 27,
+      "target": 16
+    },
+    {
+      "distance_km": 5.482194779766952,
+      "duration_ticks": 132,
+      "source": 17,
+      "target": 25
+    },
+    {
+      "distance_km": 5.482194779766952,
+      "duration_ticks": 132,
+      "source": 25,
+      "target": 17
+    },
+    {
+      "distance_km": 2.2197296704184484,
+      "duration_ticks": 54,
+      "source": 17,
+      "target": 38
+    },
+    {
+      "distance_km": 2.2197296704184484,
+      "duration_ticks": 54,
+      "source": 38,
+      "target": 17
+    },
+    {
+      "distance_km": 2.1326780740751743,
+      "duration_ticks": 52,
+      "source": 17,
+      "target": 45
+    },
+    {
+      "distance_km": 2.1326780740751743,
+      "duration_ticks": 52,
+      "source": 45,
+      "target": 17
+    },
+    {
+      "distance_km": 2.03965267236189,
+      "duration_ticks": 49,
+      "source": 18,
+      "target": 19
+    },
+    {
+      "distance_km": 2.03965267236189,
+      "duration_ticks": 49,
+      "source": 19,
+      "target": 18
+    },
+    {
+      "distance_km": 1.885159827472726,
+      "duration_ticks": 46,
+      "source": 20,
+      "target": 26
+    },
+    {
+      "distance_km": 1.885159827472726,
+      "duration_ticks": 46,
+      "source": 26,
+      "target": 20
+    },
+    {
+      "distance_km": 1.789501795298904,
+      "duration_ticks": 43,
+      "source": 21,
+      "target": 23
+    },
+    {
+      "distance_km": 1.789501795298904,
+      "duration_ticks": 43,
+      "source": 23,
+      "target": 21
+    },
+    {
+      "distance_km": 4.284587136321188,
+      "duration_ticks": 103,
+      "source": 21,
+      "target": 31
+    },
+    {
+      "distance_km": 4.284587136321188,
+      "duration_ticks": 103,
+      "source": 31,
+      "target": 21
+    },
+    {
+      "distance_km": 1.9889787621653987,
+      "duration_ticks": 48,
+      "source": 22,
+      "target": 37
+    },
+    {
+      "distance_km": 1.9889787621653987,
+      "duration_ticks": 48,
+      "source": 37,
+      "target": 22
+    },
+    {
+      "distance_km": 6.20326081295765,
+      "duration_ticks": 149,
+      "source": 23,
+      "target": 27
+    },
+    {
+      "distance_km": 6.20326081295765,
+      "duration_ticks": 149,
+      "source": 27,
+      "target": 23
+    },
+    {
+      "distance_km": 3.194197349545579,
+      "duration_ticks": 77,
+      "source": 24,
+      "target": 40
+    },
+    {
+      "distance_km": 3.194197349545579,
+      "duration_ticks": 77,
+      "source": 40,
+      "target": 24
+    },
+    {
+      "distance_km": 3.060340241951049,
+      "duration_ticks": 74,
+      "source": 24,
+      "target": 42
+    },
+    {
+      "distance_km": 3.060340241951049,
+      "duration_ticks": 74,
+      "source": 42,
+      "target": 24
+    },
+    {
+      "distance_km": 0.6462516764635888,
+      "duration_ticks": 16,
+      "source": 28,
+      "target": 30
+    },
+    {
+      "distance_km": 0.6462516764635888,
+      "duration_ticks": 16,
+      "source": 30,
+      "target": 28
+    },
+    {
+      "distance_km": 4.881600885589993,
+      "duration_ticks": 118,
+      "source": 32,
+      "target": 46
+    },
+    {
+      "distance_km": 4.881600885589993,
+      "duration_ticks": 118,
+      "source": 46,
+      "target": 32
+    },
+    {
+      "distance_km": 2.1148828486173867,
+      "duration_ticks": 51,
+      "source": 33,
+      "target": 34
+    },
+    {
+      "distance_km": 2.1148828486173867,
+      "duration_ticks": 51,
+      "source": 34,
+      "target": 33
+    },
+    {
+      "distance_km": 2.099848376014325,
+      "duration_ticks": 51,
+      "source": 33,
+      "target": 36
+    },
+    {
+      "distance_km": 2.099848376014325,
+      "duration_ticks": 51,
+      "source": 36,
+      "target": 33
+    },
+    {
+      "distance_km": 1.7860794853813178,
+      "duration_ticks": 43,
+      "source": 33,
+      "target": 37
+    },
+    {
+      "distance_km": 1.7860794853813178,
+      "duration_ticks": 43,
+      "source": 37,
+      "target": 33
+    },
+    {
+      "distance_km": 1.7907350082178544,
+      "duration_ticks": 43,
+      "source": 33,
+      "target": 39
+    },
+    {
+      "distance_km": 1.7907350082178544,
+      "duration_ticks": 43,
+      "source": 39,
+      "target": 33
+    },
+    {
+      "distance_km": 1.6976136157527117,
+      "duration_ticks": 41,
+      "source": 33,
+      "target": 41
+    },
+    {
+      "distance_km": 1.6976136157527117,
+      "duration_ticks": 41,
+      "source": 41,
+      "target": 33
+    },
+    {
+      "distance_km": 1.3331448120099312,
+      "duration_ticks": 32,
+      "source": 33,
+      "target": 43
+    },
+    {
+      "distance_km": 1.3331448120099312,
+      "duration_ticks": 32,
+      "source": 43,
+      "target": 33
+    },
+    {
+      "distance_km": 1.937513151899878,
+      "duration_ticks": 47,
+      "source": 33,
+      "target": 46
+    },
+    {
+      "distance_km": 1.937513151899878,
+      "duration_ticks": 47,
+      "source": 46,
+      "target": 33
+    },
+    {
+      "distance_km": 1.5340110580787876,
+      "duration_ticks": 37,
+      "source": 33,
+      "target": 48
+    },
+    {
+      "distance_km": 1.5340110580787876,
+      "duration_ticks": 37,
+      "source": 48,
+      "target": 33
+    },
+    {
+      "distance_km": 0.2593559605831335,
+      "duration_ticks": 7,
+      "source": 34,
+      "target": 36
+    },
+    {
+      "distance_km": 0.2593559605831335,
+      "duration_ticks": 7,
+      "source": 36,
+      "target": 34
+    },
+    {
+      "distance_km": 0.9442286115406586,
+      "duration_ticks": 23,
+      "source": 34,
+      "target": 37
+    },
+    {
+      "distance_km": 0.9442286115406586,
+      "duration_ticks": 23,
+      "source": 37,
+      "target": 34
+    },
+    {
+      "distance_km": 0.4377995449392327,
+      "duration_ticks": 11,
+      "source": 34,
+      "target": 41
+    },
+    {
+      "distance_km": 0.4377995449392327,
+      "duration_ticks": 11,
+      "source": 41,
+      "target": 34
+    },
+    {
+      "distance_km": 0.7834231075102392,
+      "duration_ticks": 19,
+      "source": 34,
+      "target": 43
+    },
+    {
+      "distance_km": 0.7834231075102392,
+      "duration_ticks": 19,
+      "source": 43,
+      "target": 34
+    },
+    {
+      "distance_km": 0.5403970465583605,
+      "duration_ticks": 13,
+      "source": 34,
+      "target": 46
+    },
+    {
+      "distance_km": 0.5403970465583605,
+      "duration_ticks": 13,
+      "source": 46,
+      "target": 34
+    },
+    {
+      "distance_km": 1.9791784005339175,
+      "duration_ticks": 48,
+      "source": 34,
+      "target": 48
+    },
+    {
+      "distance_km": 1.9791784005339175,
+      "duration_ticks": 48,
+      "source": 48,
+      "target": 34
+    },
+    {
+      "distance_km": 0.8901751685174107,
+      "duration_ticks": 22,
+      "source": 35,
+      "target": 40
+    },
+    {
+      "distance_km": 0.8901751685174107,
+      "duration_ticks": 22,
+      "source": 40,
+      "target": 35
+    },
+    {
+      "distance_km": 1.3676784361157404,
+      "duration_ticks": 33,
+      "source": 35,
+      "target": 42
+    },
+    {
+      "distance_km": 1.3676784361157404,
+      "duration_ticks": 33,
+      "source": 42,
+      "target": 35
+    },
+    {
+      "distance_km": 0.5064936263103413,
+      "duration_ticks": 13,
+      "source": 35,
+      "target": 44
+    },
+    {
+      "distance_km": 0.5064936263103413,
+      "duration_ticks": 13,
+      "source": 44,
+      "target": 35
+    },
+    {
+      "distance_km": 1.5102224075112252,
+      "duration_ticks": 37,
+      "source": 35,
+      "target": 45
+    },
+    {
+      "distance_km": 1.5102224075112252,
+      "duration_ticks": 37,
+      "source": 45,
+      "target": 35
+    },
+    {
+      "distance_km": 1.362112534502931,
+      "duration_ticks": 33,
+      "source": 35,
+      "target": 47
+    },
+    {
+      "distance_km": 1.362112534502931,
+      "duration_ticks": 33,
+      "source": 47,
+      "target": 35
+    },
+    {
+      "distance_km": 1.155424275082535,
+      "duration_ticks": 28,
+      "source": 36,
+      "target": 37
+    },
+    {
+      "distance_km": 1.155424275082535,
+      "duration_ticks": 28,
+      "source": 37,
+      "target": 36
+    },
+    {
+      "distance_km": 0.5422202185284134,
+      "duration_ticks": 14,
+      "source": 36,
+      "target": 41
+    },
+    {
+      "distance_km": 0.5422202185284134,
+      "duration_ticks": 14,
+      "source": 41,
+      "target": 36
+    },
+    {
+      "distance_km": 0.7821096011921874,
+      "duration_ticks": 19,
+      "source": 36,
+      "target": 43
+    },
+    {
+      "distance_km": 0.7821096011921874,
+      "duration_ticks": 19,
+      "source": 43,
+      "target": 36
+    },
+    {
+      "distance_km": 0.3080746106270359,
+      "duration_ticks": 8,
+      "source": 36,
+      "target": 46
+    },
+    {
+      "distance_km": 0.3080746106270359,
+      "duration_ticks": 8,
+      "source": 46,
+      "target": 36
+    },
+    {
+      "distance_km": 1.786069927222896,
+      "duration_ticks": 43,
+      "source": 36,
+      "target": 48
+    },
+    {
+      "distance_km": 1.786069927222896,
+      "duration_ticks": 43,
+      "source": 48,
+      "target": 36
+    },
+    {
+      "distance_km": 0.6797539062903578,
+      "duration_ticks": 17,
+      "source": 37,
+      "target": 41
+    },
+    {
+      "distance_km": 0.6797539062903578,
+      "duration_ticks": 17,
+      "source": 41,
+      "target": 37
+    },
+    {
+      "distance_km": 0.8749805006861577,
+      "duration_ticks": 21,
+      "source": 37,
+      "target": 43
+    },
+    {
+      "distance_km": 0.8749805006861577,
+      "duration_ticks": 21,
+      "source": 43,
+      "target": 37
+    },
+    {
+      "distance_km": 1.3060283656326155,
+      "duration_ticks": 32,
+      "source": 37,
+      "target": 46
+    },
+    {
+      "distance_km": 1.3060283656326155,
+      "duration_ticks": 32,
+      "source": 46,
+      "target": 37
+    },
+    {
+      "distance_km": 1.9106443352816882,
+      "duration_ticks": 46,
+      "source": 38,
+      "target": 42
+    },
+    {
+      "distance_km": 1.9106443352816882,
+      "duration_ticks": 46,
+      "source": 42,
+      "target": 38
+    },
+    {
+      "distance_km": 2.043183633568456,
+      "duration_ticks": 50,
+      "source": 39,
+      "target": 43
+    },
+    {
+      "distance_km": 2.043183633568456,
+      "duration_ticks": 50,
+      "source": 43,
+      "target": 39
+    },
+    {
+      "distance_km": 2.075042884192036,
+      "duration_ticks": 50,
+      "source": 39,
+      "target": 46
+    },
+    {
+      "distance_km": 2.075042884192036,
+      "duration_ticks": 50,
+      "source": 46,
+      "target": 39
+    },
+    {
+      "distance_km": 0.5947166665707294,
+      "duration_ticks": 15,
+      "source": 39,
+      "target": 48
+    },
+    {
+      "distance_km": 0.5947166665707294,
+      "duration_ticks": 15,
+      "source": 48,
+      "target": 39
+    },
+    {
+      "distance_km": 2.180563486384425,
+      "duration_ticks": 53,
+      "source": 40,
+      "target": 42
+    },
+    {
+      "distance_km": 2.180563486384425,
+      "duration_ticks": 53,
+      "source": 42,
+      "target": 40
+    },
+    {
+      "distance_km": 1.1202016706156082,
+      "duration_ticks": 27,
+      "source": 40,
+      "target": 44
+    },
+    {
+      "distance_km": 1.1202016706156082,
+      "duration_ticks": 27,
+      "source": 44,
+      "target": 40
+    },
+    {
+      "distance_km": 1.0300474567343967,
+      "duration_ticks": 25,
+      "source": 40,
+      "target": 47
+    },
+    {
+      "distance_km": 1.0300474567343967,
+      "duration_ticks": 25,
+      "source": 47,
+      "target": 40
+    },
+    {
+      "distance_km": 0.394573879338205,
+      "duration_ticks": 10,
+      "source": 41,
+      "target": 43
+    },
+    {
+      "distance_km": 0.394573879338205,
+      "duration_ticks": 10,
+      "source": 43,
+      "target": 41
+    },
+    {
+      "distance_km": 0.6303029533946353,
+      "duration_ticks": 16,
+      "source": 41,
+      "target": 46
+    },
+    {
+      "distance_km": 0.6303029533946353,
+      "duration_ticks": 16,
+      "source": 46,
+      "target": 41
+    },
+    {
+      "distance_km": 1.7975737470226356,
+      "duration_ticks": 44,
+      "source": 41,
+      "target": 48
+    },
+    {
+      "distance_km": 1.7975737470226356,
+      "duration_ticks": 44,
+      "source": 48,
+      "target": 41
+    },
+    {
+      "distance_km": 1.0793444993258638,
+      "duration_ticks": 26,
+      "source": 42,
+      "target": 44
+    },
+    {
+      "distance_km": 1.0793444993258638,
+      "duration_ticks": 26,
+      "source": 44,
+      "target": 42
+    },
+    {
+      "distance_km": 0.5329062041382134,
+      "duration_ticks": 13,
+      "source": 42,
+      "target": 45
+    },
+    {
+      "distance_km": 0.5329062041382134,
+      "duration_ticks": 13,
+      "source": 45,
+      "target": 42
+    },
+    {
+      "distance_km": 0.7016644374129289,
+      "duration_ticks": 17,
+      "source": 43,
+      "target": 46
+    },
+    {
+      "distance_km": 0.7016644374129289,
+      "duration_ticks": 17,
+      "source": 46,
+      "target": 43
+    },
+    {
+      "distance_km": 1.4784893592613373,
+      "duration_ticks": 36,
+      "source": 43,
+      "target": 48
+    },
+    {
+      "distance_km": 1.4784893592613373,
+      "duration_ticks": 36,
+      "source": 48,
+      "target": 43
+    },
+    {
+      "distance_km": 1.3891452870488392,
+      "duration_ticks": 34,
+      "source": 44,
+      "target": 45
+    },
+    {
+      "distance_km": 1.3891452870488392,
+      "duration_ticks": 34,
+      "source": 45,
+      "target": 44
+    },
+    {
+      "distance_km": 1.8258972628581807,
+      "duration_ticks": 44,
+      "source": 44,
+      "target": 47
+    },
+    {
+      "distance_km": 1.8258972628581807,
+      "duration_ticks": 44,
+      "source": 47,
+      "target": 44
+    },
+    {
+      "distance_km": 1.4825054291168722,
+      "duration_ticks": 36,
+      "source": 46,
+      "target": 48
+    },
+    {
+      "distance_km": 1.4825054291168722,
+      "duration_ticks": 36,
+      "source": 48,
+      "target": 46
+    }
+  ],
+  "construction_options": [
+    {
+      "customer_id": 1,
+      "ranked_vtps": [
+        {
+          "distance_km": 4.429765697234774,
+          "nominal_ticks": 214,
+          "vtp": 73
+        },
+        {
+          "distance_km": 6.066414747412115,
+          "nominal_ticks": 254,
+          "vtp": 62
+        },
+        {
+          "distance_km": 11.043995864296706,
+          "nominal_ticks": 374,
+          "vtp": 72
+        },
+        {
+          "distance_km": 11.18474743487819,
+          "nominal_ticks": 378,
+          "vtp": 68
+        },
+        {
+          "distance_km": 12.477250787805367,
+          "nominal_ticks": 410,
+          "vtp": 70
+        },
+        {
+          "distance_km": 12.579663555842071,
+          "nominal_ticks": 412,
+          "vtp": 55
+        },
+        {
+          "distance_km": 16.84235397064371,
+          "nominal_ticks": 514,
+          "vtp": 50
+        },
+        {
+          "distance_km": 18.728490987102344,
+          "nominal_ticks": 562,
+          "vtp": 64
+        },
+        {
+          "distance_km": 19.864917090027657,
+          "nominal_ticks": 588,
+          "vtp": 53
+        },
+        {
+          "distance_km": 24.594565144297757,
+          "nominal_ticks": 704,
+          "vtp": 57
+        },
+        {
+          "distance_km": 27.72324302910908,
+          "nominal_ticks": 778,
+          "vtp": 51
+        },
+        {
+          "distance_km": 30.510207305019346,
+          "nominal_ticks": 846,
+          "vtp": 65
+        },
+        {
+          "distance_km": 34.257006552169535,
+          "nominal_ticks": 936,
+          "vtp": 60
+        },
+        {
+          "distance_km": 38.02732620711499,
+          "nominal_ticks": 1028,
+          "vtp": 66
+        },
+        {
+          "distance_km": 39.60989305261884,
+          "nominal_ticks": 1066,
+          "vtp": 56
+        },
+        {
+          "distance_km": 44.990569174223225,
+          "nominal_ticks": 1194,
+          "vtp": 59
+        },
+        {
+          "distance_km": 47.06536838778587,
+          "nominal_ticks": 1246,
+          "vtp": 67
+        },
+        {
+          "distance_km": 49.069874518947,
+          "nominal_ticks": 1292,
+          "vtp": 58
+        },
+        {
+          "distance_km": 59.47189001370117,
+          "nominal_ticks": 1544,
+          "vtp": 63
+        },
+        {
+          "distance_km": 63.05089360429898,
+          "nominal_ticks": 1630,
+          "vtp": 61
+        },
+        {
+          "distance_km": 65.3752710111845,
+          "nominal_ticks": 1686,
+          "vtp": 69
+        },
+        {
+          "distance_km": 71.62006787694135,
+          "nominal_ticks": 1836,
+          "vtp": 71
+        },
+        {
+          "distance_km": 74.32197449251683,
+          "nominal_ticks": 1902,
+          "vtp": 52
+        },
+        {
+          "distance_km": 75.64127475603324,
+          "nominal_ticks": 1934,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 2,
+      "ranked_vtps": [
+        {
+          "distance_km": 7.485800963172799,
+          "nominal_ticks": 290,
+          "vtp": 57
+        },
+        {
+          "distance_km": 8.36874503612598,
+          "nominal_ticks": 310,
+          "vtp": 64
+        },
+        {
+          "distance_km": 10.73270708570554,
+          "nominal_ticks": 366,
+          "vtp": 60
+        },
+        {
+          "distance_km": 14.503026740650991,
+          "nominal_ticks": 458,
+          "vtp": 66
+        },
+        {
+          "distance_km": 15.535759104498176,
+          "nominal_ticks": 484,
+          "vtp": 70
+        },
+        {
+          "distance_km": 15.727003911377526,
+          "nominal_ticks": 488,
+          "vtp": 68
+        },
+        {
+          "distance_km": 16.085593586154843,
+          "nominal_ticks": 496,
+          "vtp": 56
+        },
+        {
+          "distance_km": 18.450190522706702,
+          "nominal_ticks": 554,
+          "vtp": 65
+        },
+        {
+          "distance_km": 20.737813643566785,
+          "nominal_ticks": 606,
+          "vtp": 59
+        },
+        {
+          "distance_km": 21.237154798616967,
+          "nominal_ticks": 622,
+          "vtp": 51
+        },
+        {
+          "distance_km": 23.541068921321873,
+          "nominal_ticks": 676,
+          "vtp": 67
+        },
+        {
+          "distance_km": 24.001508603522687,
+          "nominal_ticks": 690,
+          "vtp": 73
+        },
+        {
+          "distance_km": 24.817118988290563,
+          "nominal_ticks": 704,
+          "vtp": 58
+        },
+        {
+          "distance_km": 29.09548073769839,
+          "nominal_ticks": 812,
+          "vtp": 53
+        },
+        {
+          "distance_km": 29.68804575426619,
+          "nominal_ticks": 826,
+          "vtp": 62
+        },
+        {
+          "distance_km": 32.11804385708234,
+          "nominal_ticks": 886,
+          "vtp": 50
+        },
+        {
+          "distance_km": 34.580426721067326,
+          "nominal_ticks": 944,
+          "vtp": 55
+        },
+        {
+          "distance_km": 35.947590547237176,
+          "nominal_ticks": 974,
+          "vtp": 63
+        },
+        {
+          "distance_km": 36.37401390880528,
+          "nominal_ticks": 988,
+          "vtp": 72
+        },
+        {
+          "distance_km": 39.526594137834984,
+          "nominal_ticks": 1060,
+          "vtp": 61
+        },
+        {
+          "distance_km": 41.12251548052805,
+          "nominal_ticks": 1098,
+          "vtp": 69
+        },
+        {
+          "distance_km": 48.09576841047736,
+          "nominal_ticks": 1266,
+          "vtp": 71
+        },
+        {
+          "distance_km": 50.06921896186038,
+          "nominal_ticks": 1314,
+          "vtp": 52
+        },
+        {
+          "distance_km": 52.11697528956926,
+          "nominal_ticks": 1364,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 3,
+      "ranked_vtps": [
+        {
+          "distance_km": 4.3996967520286505,
+          "nominal_ticks": 214,
+          "vtp": 73
+        },
+        {
+          "distance_km": 6.4888060744958675,
+          "nominal_ticks": 264,
+          "vtp": 62
+        },
+        {
+          "distance_km": 10.579350992434057,
+          "nominal_ticks": 364,
+          "vtp": 72
+        },
+        {
+          "distance_km": 11.271136743252264,
+          "nominal_ticks": 380,
+          "vtp": 68
+        },
+        {
+          "distance_km": 12.193446609220025,
+          "nominal_ticks": 402,
+          "vtp": 55
+        },
+        {
+          "distance_km": 12.56364009617944,
+          "nominal_ticks": 412,
+          "vtp": 70
+        },
+        {
+          "distance_km": 17.264745297727465,
+          "nominal_ticks": 524,
+          "vtp": 50
+        },
+        {
+          "distance_km": 18.814880295476417,
+          "nominal_ticks": 564,
+          "vtp": 64
+        },
+        {
+          "distance_km": 20.28730841711141,
+          "nominal_ticks": 598,
+          "vtp": 53
+        },
+        {
+          "distance_km": 24.68095445267183,
+          "nominal_ticks": 706,
+          "vtp": 57
+        },
+        {
+          "distance_km": 28.145634356192836,
+          "nominal_ticks": 788,
+          "vtp": 51
+        },
+        {
+          "distance_km": 30.9325986321031,
+          "nominal_ticks": 856,
+          "vtp": 65
+        },
+        {
+          "distance_km": 34.34339586054361,
+          "nominal_ticks": 938,
+          "vtp": 60
+        },
+        {
+          "distance_km": 38.11371551548906,
+          "nominal_ticks": 1030,
+          "vtp": 66
+        },
+        {
+          "distance_km": 39.69628236099291,
+          "nominal_ticks": 1068,
+          "vtp": 56
+        },
+        {
+          "distance_km": 45.0769584825973,
+          "nominal_ticks": 1196,
+          "vtp": 59
+        },
+        {
+          "distance_km": 47.15175769615994,
+          "nominal_ticks": 1248,
+          "vtp": 67
+        },
+        {
+          "distance_km": 49.15626382732108,
+          "nominal_ticks": 1294,
+          "vtp": 58
+        },
+        {
+          "distance_km": 59.55827932207524,
+          "nominal_ticks": 1546,
+          "vtp": 63
+        },
+        {
+          "distance_km": 63.137282912673044,
+          "nominal_ticks": 1632,
+          "vtp": 61
+        },
+        {
+          "distance_km": 65.46166031955856,
+          "nominal_ticks": 1688,
+          "vtp": 69
+        },
+        {
+          "distance_km": 71.70645718531541,
+          "nominal_ticks": 1838,
+          "vtp": 71
+        },
+        {
+          "distance_km": 74.4083638008909,
+          "nominal_ticks": 1904,
+          "vtp": 52
+        },
+        {
+          "distance_km": 75.7276640644073,
+          "nominal_ticks": 1936,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 4,
+      "ranked_vtps": [
+        {
+          "distance_km": 3.7721589707626357,
+          "nominal_ticks": 198,
+          "vtp": 73
+        },
+        {
+          "distance_km": 4.177957524330798,
+          "nominal_ticks": 208,
+          "vtp": 62
+        },
+        {
+          "distance_km": 10.183084318557869,
+          "nominal_ticks": 354,
+          "vtp": 68
+        },
+        {
+          "distance_km": 11.475587671485046,
+          "nominal_ticks": 386,
+          "vtp": 70
+        },
+        {
+          "distance_km": 12.575258502445216,
+          "nominal_ticks": 412,
+          "vtp": 72
+        },
+        {
+          "distance_km": 13.268201690142003,
+          "nominal_ticks": 428,
+          "vtp": 55
+        },
+        {
+          "distance_km": 14.953896747562395,
+          "nominal_ticks": 468,
+          "vtp": 50
+        },
+        {
+          "distance_km": 17.726827870782024,
+          "nominal_ticks": 538,
+          "vtp": 64
+        },
+        {
+          "distance_km": 17.97645986694634,
+          "nominal_ticks": 542,
+          "vtp": 53
+        },
+        {
+          "distance_km": 23.592902027977434,
+          "nominal_ticks": 680,
+          "vtp": 57
+        },
+        {
+          "distance_km": 25.834785806027764,
+          "nominal_ticks": 732,
+          "vtp": 51
+        },
+        {
+          "distance_km": 28.62175008193803,
+          "nominal_ticks": 800,
+          "vtp": 65
+        },
+        {
+          "distance_km": 33.25534343584922,
+          "nominal_ticks": 912,
+          "vtp": 60
+        },
+        {
+          "distance_km": 37.02566309079467,
+          "nominal_ticks": 1004,
+          "vtp": 66
+        },
+        {
+          "distance_km": 38.60822993629852,
+          "nominal_ticks": 1042,
+          "vtp": 56
+        },
+        {
+          "distance_km": 43.9889060579029,
+          "nominal_ticks": 1170,
+          "vtp": 59
+        },
+        {
+          "distance_km": 46.06370527146555,
+          "nominal_ticks": 1222,
+          "vtp": 67
+        },
+        {
+          "distance_km": 48.06821140262668,
+          "nominal_ticks": 1268,
+          "vtp": 58
+        },
+        {
+          "distance_km": 58.470226897380854,
+          "nominal_ticks": 1520,
+          "vtp": 63
+        },
+        {
+          "distance_km": 62.04923048797866,
+          "nominal_ticks": 1606,
+          "vtp": 61
+        },
+        {
+          "distance_km": 64.37360789486416,
+          "nominal_ticks": 1662,
+          "vtp": 69
+        },
+        {
+          "distance_km": 70.61840476062103,
+          "nominal_ticks": 1812,
+          "vtp": 71
+        },
+        {
+          "distance_km": 73.3203113761965,
+          "nominal_ticks": 1878,
+          "vtp": 52
+        },
+        {
+          "distance_km": 74.63961163971292,
+          "nominal_ticks": 1910,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 5,
+      "ranked_vtps": [
+        {
+          "distance_km": 4.639459340836897,
+          "nominal_ticks": 220,
+          "vtp": 57
+        },
+        {
+          "distance_km": 8.979113561703317,
+          "nominal_ticks": 326,
+          "vtp": 70
+        },
+        {
+          "distance_km": 9.170358368582667,
+          "nominal_ticks": 330,
+          "vtp": 68
+        },
+        {
+          "distance_km": 10.141969154465475,
+          "nominal_ticks": 352,
+          "vtp": 64
+        },
+        {
+          "distance_km": 15.6038489003708,
+          "nominal_ticks": 484,
+          "vtp": 65
+        },
+        {
+          "distance_km": 17.289352628500396,
+          "nominal_ticks": 524,
+          "vtp": 60
+        },
+        {
+          "distance_km": 17.44486306072783,
+          "nominal_ticks": 532,
+          "vtp": 73
+        },
+        {
+          "distance_km": 18.390813176281064,
+          "nominal_ticks": 552,
+          "vtp": 51
+        },
+        {
+          "distance_km": 21.05967228344585,
+          "nominal_ticks": 616,
+          "vtp": 66
+        },
+        {
+          "distance_km": 22.642239128949697,
+          "nominal_ticks": 654,
+          "vtp": 56
+        },
+        {
+          "distance_km": 23.131400211471334,
+          "nominal_ticks": 668,
+          "vtp": 62
+        },
+        {
+          "distance_km": 26.24913911536249,
+          "nominal_ticks": 742,
+          "vtp": 53
+        },
+        {
+          "distance_km": 27.294459186361642,
+          "nominal_ticks": 764,
+          "vtp": 59
+        },
+        {
+          "distance_km": 28.02378117827246,
+          "nominal_ticks": 786,
+          "vtp": 55
+        },
+        {
+          "distance_km": 29.271702234746435,
+          "nominal_ticks": 816,
+          "vtp": 50
+        },
+        {
+          "distance_km": 29.81736836601042,
+          "nominal_ticks": 830,
+          "vtp": 72
+        },
+        {
+          "distance_km": 30.09771446411673,
+          "nominal_ticks": 834,
+          "vtp": 67
+        },
+        {
+          "distance_km": 31.373764531085424,
+          "nominal_ticks": 862,
+          "vtp": 58
+        },
+        {
+          "distance_km": 42.50423609003204,
+          "nominal_ticks": 1132,
+          "vtp": 63
+        },
+        {
+          "distance_km": 46.083239680629845,
+          "nominal_ticks": 1218,
+          "vtp": 61
+        },
+        {
+          "distance_km": 47.67916102332292,
+          "nominal_ticks": 1256,
+          "vtp": 69
+        },
+        {
+          "distance_km": 54.65241395327222,
+          "nominal_ticks": 1424,
+          "vtp": 71
+        },
+        {
+          "distance_km": 56.62586450465525,
+          "nominal_ticks": 1472,
+          "vtp": 52
+        },
+        {
+          "distance_km": 58.67362083236412,
+          "nominal_ticks": 1522,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 6,
+      "ranked_vtps": [
+        {
+          "distance_km": 3.781470016435709,
+          "nominal_ticks": 198,
+          "vtp": 73
+        },
+        {
+          "distance_km": 7.431873421632777,
+          "nominal_ticks": 286,
+          "vtp": 55
+        },
+        {
+          "distance_km": 10.014285792840024,
+          "nominal_ticks": 350,
+          "vtp": 62
+        },
+        {
+          "distance_km": 11.821549388057015,
+          "nominal_ticks": 394,
+          "vtp": 68
+        },
+        {
+          "distance_km": 12.984609539404264,
+          "nominal_ticks": 420,
+          "vtp": 72
+        },
+        {
+          "distance_km": 13.114052740984192,
+          "nominal_ticks": 426,
+          "vtp": 70
+        },
+        {
+          "distance_km": 19.36529294028117,
+          "nominal_ticks": 578,
+          "vtp": 64
+        },
+        {
+          "distance_km": 20.79022501607162,
+          "nominal_ticks": 610,
+          "vtp": 50
+        },
+        {
+          "distance_km": 23.812788135455566,
+          "nominal_ticks": 684,
+          "vtp": 53
+        },
+        {
+          "distance_km": 25.231367097476582,
+          "nominal_ticks": 720,
+          "vtp": 57
+        },
+        {
+          "distance_km": 31.67111407453699,
+          "nominal_ticks": 874,
+          "vtp": 51
+        },
+        {
+          "distance_km": 34.45807835044726,
+          "nominal_ticks": 942,
+          "vtp": 65
+        },
+        {
+          "distance_km": 34.89380850534836,
+          "nominal_ticks": 952,
+          "vtp": 60
+        },
+        {
+          "distance_km": 38.664128160293814,
+          "nominal_ticks": 1044,
+          "vtp": 66
+        },
+        {
+          "distance_km": 40.24669500579766,
+          "nominal_ticks": 1082,
+          "vtp": 56
+        },
+        {
+          "distance_km": 45.62737112740205,
+          "nominal_ticks": 1210,
+          "vtp": 59
+        },
+        {
+          "distance_km": 47.70217034096469,
+          "nominal_ticks": 1262,
+          "vtp": 67
+        },
+        {
+          "distance_km": 49.70667647212583,
+          "nominal_ticks": 1308,
+          "vtp": 58
+        },
+        {
+          "distance_km": 60.10869196687999,
+          "nominal_ticks": 1560,
+          "vtp": 63
+        },
+        {
+          "distance_km": 63.687695557477795,
+          "nominal_ticks": 1646,
+          "vtp": 61
+        },
+        {
+          "distance_km": 66.01207296436331,
+          "nominal_ticks": 1702,
+          "vtp": 69
+        },
+        {
+          "distance_km": 72.25686983012017,
+          "nominal_ticks": 1852,
+          "vtp": 71
+        },
+        {
+          "distance_km": 74.95877644569565,
+          "nominal_ticks": 1918,
+          "vtp": 52
+        },
+        {
+          "distance_km": 76.27807670921206,
+          "nominal_ticks": 1950,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 7,
+      "ranked_vtps": [
+        {
+          "distance_km": 6.588394699091158,
+          "nominal_ticks": 266,
+          "vtp": 64
+        },
+        {
+          "distance_km": 9.26615130020762,
+          "nominal_ticks": 334,
+          "vtp": 57
+        },
+        {
+          "distance_km": 9.340120865976031,
+          "nominal_ticks": 332,
+          "vtp": 60
+        },
+        {
+          "distance_km": 13.110440520921482,
+          "nominal_ticks": 424,
+          "vtp": 66
+        },
+        {
+          "distance_km": 13.940893444435963,
+          "nominal_ticks": 446,
+          "vtp": 70
+        },
+        {
+          "distance_km": 14.132138251315313,
+          "nominal_ticks": 450,
+          "vtp": 68
+        },
+        {
+          "distance_km": 14.693007366425332,
+          "nominal_ticks": 462,
+          "vtp": 56
+        },
+        {
+          "distance_km": 20.07368348802972,
+          "nominal_ticks": 590,
+          "vtp": 59
+        },
+        {
+          "distance_km": 20.230540859741524,
+          "nominal_ticks": 598,
+          "vtp": 65
+        },
+        {
+          "distance_km": 22.148482701592364,
+          "nominal_ticks": 642,
+          "vtp": 67
+        },
+        {
+          "distance_km": 22.406642943460472,
+          "nominal_ticks": 652,
+          "vtp": 73
+        },
+        {
+          "distance_km": 23.01750513565179,
+          "nominal_ticks": 666,
+          "vtp": 51
+        },
+        {
+          "distance_km": 24.152988832753497,
+          "nominal_ticks": 688,
+          "vtp": 58
+        },
+        {
+          "distance_km": 28.093180094203976,
+          "nominal_ticks": 788,
+          "vtp": 62
+        },
+        {
+          "distance_km": 30.875831074733213,
+          "nominal_ticks": 856,
+          "vtp": 53
+        },
+        {
+          "distance_km": 32.98556106100511,
+          "nominal_ticks": 906,
+          "vtp": 55
+        },
+        {
+          "distance_km": 33.89839419411716,
+          "nominal_ticks": 930,
+          "vtp": 50
+        },
+        {
+          "distance_km": 34.55500432750767,
+          "nominal_ticks": 940,
+          "vtp": 63
+        },
+        {
+          "distance_km": 34.77914824874307,
+          "nominal_ticks": 950,
+          "vtp": 72
+        },
+        {
+          "distance_km": 38.134007918105475,
+          "nominal_ticks": 1026,
+          "vtp": 61
+        },
+        {
+          "distance_km": 40.458385324990985,
+          "nominal_ticks": 1082,
+          "vtp": 69
+        },
+        {
+          "distance_km": 46.70318219074785,
+          "nominal_ticks": 1232,
+          "vtp": 71
+        },
+        {
+          "distance_km": 49.40508880632331,
+          "nominal_ticks": 1298,
+          "vtp": 52
+        },
+        {
+          "distance_km": 50.72438906983975,
+          "nominal_ticks": 1330,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 8,
+      "ranked_vtps": [
+        {
+          "distance_km": 3.5952272315054237,
+          "nominal_ticks": 194,
+          "vtp": 73
+        },
+        {
+          "distance_km": 5.537465336911513,
+          "nominal_ticks": 242,
+          "vtp": 62
+        },
+        {
+          "distance_km": 10.310957227331471,
+          "nominal_ticks": 358,
+          "vtp": 68
+        },
+        {
+          "distance_km": 11.223807677969257,
+          "nominal_ticks": 380,
+          "vtp": 72
+        },
+        {
+          "distance_km": 11.603460580258648,
+          "nominal_ticks": 390,
+          "vtp": 70
+        },
+        {
+          "distance_km": 12.216454248819506,
+          "nominal_ticks": 404,
+          "vtp": 55
+        },
+        {
+          "distance_km": 16.31340456014311,
+          "nominal_ticks": 502,
+          "vtp": 50
+        },
+        {
+          "distance_km": 17.854700779555625,
+          "nominal_ticks": 542,
+          "vtp": 64
+        },
+        {
+          "distance_km": 19.335967679527055,
+          "nominal_ticks": 576,
+          "vtp": 53
+        },
+        {
+          "distance_km": 23.720774936751038,
+          "nominal_ticks": 684,
+          "vtp": 57
+        },
+        {
+          "distance_km": 27.19429361860848,
+          "nominal_ticks": 766,
+          "vtp": 51
+        },
+        {
+          "distance_km": 29.981257894518745,
+          "nominal_ticks": 834,
+          "vtp": 65
+        },
+        {
+          "distance_km": 33.38321634462282,
+          "nominal_ticks": 916,
+          "vtp": 60
+        },
+        {
+          "distance_km": 37.15353599956827,
+          "nominal_ticks": 1008,
+          "vtp": 66
+        },
+        {
+          "distance_km": 38.73610284507212,
+          "nominal_ticks": 1046,
+          "vtp": 56
+        },
+        {
+          "distance_km": 44.116778966676506,
+          "nominal_ticks": 1174,
+          "vtp": 59
+        },
+        {
+          "distance_km": 46.19157818023915,
+          "nominal_ticks": 1226,
+          "vtp": 67
+        },
+        {
+          "distance_km": 48.196084311400284,
+          "nominal_ticks": 1272,
+          "vtp": 58
+        },
+        {
+          "distance_km": 58.59809980615445,
+          "nominal_ticks": 1524,
+          "vtp": 63
+        },
+        {
+          "distance_km": 62.17710339675226,
+          "nominal_ticks": 1610,
+          "vtp": 61
+        },
+        {
+          "distance_km": 64.50148080363778,
+          "nominal_ticks": 1666,
+          "vtp": 69
+        },
+        {
+          "distance_km": 70.74627766939463,
+          "nominal_ticks": 1816,
+          "vtp": 71
+        },
+        {
+          "distance_km": 73.44818428497011,
+          "nominal_ticks": 1882,
+          "vtp": 52
+        },
+        {
+          "distance_km": 74.76748454848652,
+          "nominal_ticks": 1914,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 9,
+      "ranked_vtps": [
+        {
+          "distance_km": 5.531168556426776,
+          "nominal_ticks": 242,
+          "vtp": 57
+        },
+        {
+          "distance_km": 6.320680483902098,
+          "nominal_ticks": 260,
+          "vtp": 64
+        },
+        {
+          "distance_km": 12.800402232266695,
+          "nominal_ticks": 418,
+          "vtp": 70
+        },
+        {
+          "distance_km": 12.991647039146045,
+          "nominal_ticks": 422,
+          "vtp": 68
+        },
+        {
+          "distance_km": 13.46806395793702,
+          "nominal_ticks": 432,
+          "vtp": 60
+        },
+        {
+          "distance_km": 16.49555811596068,
+          "nominal_ticks": 506,
+          "vtp": 65
+        },
+        {
+          "distance_km": 17.238383612882473,
+          "nominal_ticks": 524,
+          "vtp": 66
+        },
+        {
+          "distance_km": 18.82095045838632,
+          "nominal_ticks": 562,
+          "vtp": 56
+        },
+        {
+          "distance_km": 19.282522391870945,
+          "nominal_ticks": 574,
+          "vtp": 51
+        },
+        {
+          "distance_km": 21.266151731291206,
+          "nominal_ticks": 624,
+          "vtp": 73
+        },
+        {
+          "distance_km": 23.473170515798266,
+          "nominal_ticks": 672,
+          "vtp": 59
+        },
+        {
+          "distance_km": 26.276425793553354,
+          "nominal_ticks": 742,
+          "vtp": 67
+        },
+        {
+          "distance_km": 26.95268888203471,
+          "nominal_ticks": 760,
+          "vtp": 62
+        },
+        {
+          "distance_km": 27.14084833095237,
+          "nominal_ticks": 764,
+          "vtp": 53
+        },
+        {
+          "distance_km": 27.552475860522048,
+          "nominal_ticks": 770,
+          "vtp": 58
+        },
+        {
+          "distance_km": 30.163411450336316,
+          "nominal_ticks": 838,
+          "vtp": 50
+        },
+        {
+          "distance_km": 31.845069848835838,
+          "nominal_ticks": 878,
+          "vtp": 55
+        },
+        {
+          "distance_km": 33.638657036573804,
+          "nominal_ticks": 922,
+          "vtp": 72
+        },
+        {
+          "distance_km": 38.68294741946866,
+          "nominal_ticks": 1040,
+          "vtp": 63
+        },
+        {
+          "distance_km": 42.26195101006647,
+          "nominal_ticks": 1126,
+          "vtp": 61
+        },
+        {
+          "distance_km": 43.85787235275954,
+          "nominal_ticks": 1164,
+          "vtp": 69
+        },
+        {
+          "distance_km": 50.83112528270885,
+          "nominal_ticks": 1332,
+          "vtp": 71
+        },
+        {
+          "distance_km": 52.80457583409187,
+          "nominal_ticks": 1380,
+          "vtp": 52
+        },
+        {
+          "distance_km": 54.852332161800746,
+          "nominal_ticks": 1430,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 10,
+      "ranked_vtps": [
+        {
+          "distance_km": 2.8662896240198625,
+          "nominal_ticks": 176,
+          "vtp": 73
+        },
+        {
+          "distance_km": 5.927918525703113,
+          "nominal_ticks": 250,
+          "vtp": 62
+        },
+        {
+          "distance_km": 9.714100866617235,
+          "nominal_ticks": 342,
+          "vtp": 68
+        },
+        {
+          "distance_km": 11.006604219544412,
+          "nominal_ticks": 374,
+          "vtp": 70
+        },
+        {
+          "distance_km": 11.366530646005844,
+          "nominal_ticks": 382,
+          "vtp": 72
+        },
+        {
+          "distance_km": 11.518240688769687,
+          "nominal_ticks": 386,
+          "vtp": 55
+        },
+        {
+          "distance_km": 16.703857748934713,
+          "nominal_ticks": 510,
+          "vtp": 50
+        },
+        {
+          "distance_km": 17.25784441884139,
+          "nominal_ticks": 526,
+          "vtp": 64
+        },
+        {
+          "distance_km": 19.72642086831866,
+          "nominal_ticks": 584,
+          "vtp": 53
+        },
+        {
+          "distance_km": 23.1239185760368,
+          "nominal_ticks": 668,
+          "vtp": 57
+        },
+        {
+          "distance_km": 27.584746807400084,
+          "nominal_ticks": 774,
+          "vtp": 51
+        },
+        {
+          "distance_km": 30.37171108331035,
+          "nominal_ticks": 842,
+          "vtp": 65
+        },
+        {
+          "distance_km": 32.78635998390858,
+          "nominal_ticks": 900,
+          "vtp": 60
+        },
+        {
+          "distance_km": 36.556679638854035,
+          "nominal_ticks": 992,
+          "vtp": 66
+        },
+        {
+          "distance_km": 38.139246484357884,
+          "nominal_ticks": 1030,
+          "vtp": 56
+        },
+        {
+          "distance_km": 43.51992260596227,
+          "nominal_ticks": 1158,
+          "vtp": 59
+        },
+        {
+          "distance_km": 45.59472181952491,
+          "nominal_ticks": 1210,
+          "vtp": 67
+        },
+        {
+          "distance_km": 47.59922795068605,
+          "nominal_ticks": 1256,
+          "vtp": 58
+        },
+        {
+          "distance_km": 58.00124344544021,
+          "nominal_ticks": 1508,
+          "vtp": 63
+        },
+        {
+          "distance_km": 61.58024703603802,
+          "nominal_ticks": 1594,
+          "vtp": 61
+        },
+        {
+          "distance_km": 63.904624442923534,
+          "nominal_ticks": 1650,
+          "vtp": 69
+        },
+        {
+          "distance_km": 70.14942130868039,
+          "nominal_ticks": 1800,
+          "vtp": 71
+        },
+        {
+          "distance_km": 72.85132792425587,
+          "nominal_ticks": 1866,
+          "vtp": 52
+        },
+        {
+          "distance_km": 74.17062818777228,
+          "nominal_ticks": 1898,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 11,
+      "ranked_vtps": [
+        {
+          "distance_km": 7.243646722248028,
+          "nominal_ticks": 284,
+          "vtp": 57
+        },
+        {
+          "distance_km": 8.479369482553825,
+          "nominal_ticks": 312,
+          "vtp": 64
+        },
+        {
+          "distance_km": 11.580524207207247,
+          "nominal_ticks": 386,
+          "vtp": 60
+        },
+        {
+          "distance_km": 14.959091230918421,
+          "nominal_ticks": 470,
+          "vtp": 70
+        },
+        {
+          "distance_km": 15.150336037797771,
+          "nominal_ticks": 474,
+          "vtp": 68
+        },
+        {
+          "distance_km": 15.350843862152699,
+          "nominal_ticks": 478,
+          "vtp": 66
+        },
+        {
+          "distance_km": 16.93341070765655,
+          "nominal_ticks": 516,
+          "vtp": 56
+        },
+        {
+          "distance_km": 18.208036281781933,
+          "nominal_ticks": 548,
+          "vtp": 65
+        },
+        {
+          "distance_km": 20.995000557692197,
+          "nominal_ticks": 616,
+          "vtp": 51
+        },
+        {
+          "distance_km": 21.665383100277285,
+          "nominal_ticks": 628,
+          "vtp": 59
+        },
+        {
+          "distance_km": 23.424840729942932,
+          "nominal_ticks": 676,
+          "vtp": 73
+        },
+        {
+          "distance_km": 24.388886042823582,
+          "nominal_ticks": 696,
+          "vtp": 67
+        },
+        {
+          "distance_km": 25.744688445001064,
+          "nominal_ticks": 726,
+          "vtp": 58
+        },
+        {
+          "distance_km": 28.853326496773622,
+          "nominal_ticks": 806,
+          "vtp": 53
+        },
+        {
+          "distance_km": 29.111377880686437,
+          "nominal_ticks": 812,
+          "vtp": 62
+        },
+        {
+          "distance_km": 31.87588961615757,
+          "nominal_ticks": 880,
+          "vtp": 50
+        },
+        {
+          "distance_km": 34.00375884748757,
+          "nominal_ticks": 930,
+          "vtp": 55
+        },
+        {
+          "distance_km": 35.79734603522553,
+          "nominal_ticks": 974,
+          "vtp": 72
+        },
+        {
+          "distance_km": 36.79540766873889,
+          "nominal_ticks": 994,
+          "vtp": 63
+        },
+        {
+          "distance_km": 40.374411259336696,
+          "nominal_ticks": 1080,
+          "vtp": 61
+        },
+        {
+          "distance_km": 42.05008493723855,
+          "nominal_ticks": 1120,
+          "vtp": 69
+        },
+        {
+          "distance_km": 48.943585531979075,
+          "nominal_ticks": 1286,
+          "vtp": 71
+        },
+        {
+          "distance_km": 50.99678841857088,
+          "nominal_ticks": 1336,
+          "vtp": 52
+        },
+        {
+          "distance_km": 52.964792411070974,
+          "nominal_ticks": 1384,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 12,
+      "ranked_vtps": [
+        {
+          "distance_km": 4.465356148150349,
+          "nominal_ticks": 216,
+          "vtp": 57
+        },
+        {
+          "distance_km": 7.386492892178525,
+          "nominal_ticks": 286,
+          "vtp": 64
+        },
+        {
+          "distance_km": 13.753151900727989,
+          "nominal_ticks": 440,
+          "vtp": 60
+        },
+        {
+          "distance_km": 13.86621464054312,
+          "nominal_ticks": 444,
+          "vtp": 70
+        },
+        {
+          "distance_km": 14.05745944742247,
+          "nominal_ticks": 448,
+          "vtp": 68
+        },
+        {
+          "distance_km": 15.429745707684251,
+          "nominal_ticks": 480,
+          "vtp": 65
+        },
+        {
+          "distance_km": 17.523471555673442,
+          "nominal_ticks": 532,
+          "vtp": 66
+        },
+        {
+          "distance_km": 18.216709983594516,
+          "nominal_ticks": 548,
+          "vtp": 51
+        },
+        {
+          "distance_km": 19.10603840117729,
+          "nominal_ticks": 570,
+          "vtp": 56
+        },
+        {
+          "distance_km": 22.33196413956763,
+          "nominal_ticks": 650,
+          "vtp": 73
+        },
+        {
+          "distance_km": 23.758258458589236,
+          "nominal_ticks": 680,
+          "vtp": 59
+        },
+        {
+          "distance_km": 26.07503592267594,
+          "nominal_ticks": 738,
+          "vtp": 53
+        },
+        {
+          "distance_km": 26.561513736344324,
+          "nominal_ticks": 750,
+          "vtp": 67
+        },
+        {
+          "distance_km": 27.837563803313014,
+          "nominal_ticks": 778,
+          "vtp": 58
+        },
+        {
+          "distance_km": 28.018501290311136,
+          "nominal_ticks": 786,
+          "vtp": 62
+        },
+        {
+          "distance_km": 29.097599042059887,
+          "nominal_ticks": 812,
+          "vtp": 50
+        },
+        {
+          "distance_km": 32.91088225711227,
+          "nominal_ticks": 904,
+          "vtp": 55
+        },
+        {
+          "distance_km": 34.704469444850226,
+          "nominal_ticks": 948,
+          "vtp": 72
+        },
+        {
+          "distance_km": 38.96803536225963,
+          "nominal_ticks": 1048,
+          "vtp": 63
+        },
+        {
+          "distance_km": 42.547038952857434,
+          "nominal_ticks": 1134,
+          "vtp": 61
+        },
+        {
+          "distance_km": 44.14296029555051,
+          "nominal_ticks": 1172,
+          "vtp": 69
+        },
+        {
+          "distance_km": 51.11621322549981,
+          "nominal_ticks": 1340,
+          "vtp": 71
+        },
+        {
+          "distance_km": 53.08966377688284,
+          "nominal_ticks": 1388,
+          "vtp": 52
+        },
+        {
+          "distance_km": 55.13742010459171,
+          "nominal_ticks": 1438,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 13,
+      "ranked_vtps": [
+        {
+          "distance_km": 4.075026303799756,
+          "nominal_ticks": 206,
+          "vtp": 73
+        },
+        {
+          "distance_km": 6.790014255596028,
+          "nominal_ticks": 272,
+          "vtp": 62
+        },
+        {
+          "distance_km": 9.963201771179985,
+          "nominal_ticks": 348,
+          "vtp": 72
+        },
+        {
+          "distance_km": 11.083808226247765,
+          "nominal_ticks": 376,
+          "vtp": 68
+        },
+        {
+          "distance_km": 11.581959190016846,
+          "nominal_ticks": 386,
+          "vtp": 55
+        },
+        {
+          "distance_km": 12.376311579174942,
+          "nominal_ticks": 408,
+          "vtp": 70
+        },
+        {
+          "distance_km": 17.565953478827627,
+          "nominal_ticks": 532,
+          "vtp": 50
+        },
+        {
+          "distance_km": 18.627551778471922,
+          "nominal_ticks": 560,
+          "vtp": 64
+        },
+        {
+          "distance_km": 20.588516598211573,
+          "nominal_ticks": 606,
+          "vtp": 53
+        },
+        {
+          "distance_km": 24.493625935667332,
+          "nominal_ticks": 702,
+          "vtp": 57
+        },
+        {
+          "distance_km": 28.446842537292998,
+          "nominal_ticks": 796,
+          "vtp": 51
+        },
+        {
+          "distance_km": 31.233806813203262,
+          "nominal_ticks": 864,
+          "vtp": 65
+        },
+        {
+          "distance_km": 34.156067343539114,
+          "nominal_ticks": 934,
+          "vtp": 60
+        },
+        {
+          "distance_km": 37.92638699848457,
+          "nominal_ticks": 1026,
+          "vtp": 66
+        },
+        {
+          "distance_km": 39.508953843988415,
+          "nominal_ticks": 1064,
+          "vtp": 56
+        },
+        {
+          "distance_km": 44.8896299655928,
+          "nominal_ticks": 1192,
+          "vtp": 59
+        },
+        {
+          "distance_km": 46.964429179155445,
+          "nominal_ticks": 1244,
+          "vtp": 67
+        },
+        {
+          "distance_km": 48.96893531031658,
+          "nominal_ticks": 1290,
+          "vtp": 58
+        },
+        {
+          "distance_km": 59.37095080507075,
+          "nominal_ticks": 1542,
+          "vtp": 63
+        },
+        {
+          "distance_km": 62.949954395668556,
+          "nominal_ticks": 1628,
+          "vtp": 61
+        },
+        {
+          "distance_km": 65.27433180255407,
+          "nominal_ticks": 1684,
+          "vtp": 69
+        },
+        {
+          "distance_km": 71.51912866831093,
+          "nominal_ticks": 1834,
+          "vtp": 71
+        },
+        {
+          "distance_km": 74.22103528388641,
+          "nominal_ticks": 1900,
+          "vtp": 52
+        },
+        {
+          "distance_km": 75.54033554740282,
+          "nominal_ticks": 1932,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 14,
+      "ranked_vtps": [
+        {
+          "distance_km": 8.008482016699679,
+          "nominal_ticks": 300,
+          "vtp": 60
+        },
+        {
+          "distance_km": 8.64848961255995,
+          "nominal_ticks": 316,
+          "vtp": 64
+        },
+        {
+          "distance_km": 10.21002603217866,
+          "nominal_ticks": 356,
+          "vtp": 57
+        },
+        {
+          "distance_km": 11.77880167164513,
+          "nominal_ticks": 392,
+          "vtp": 66
+        },
+        {
+          "distance_km": 13.36136851714898,
+          "nominal_ticks": 430,
+          "vtp": 56
+        },
+        {
+          "distance_km": 16.000988357904756,
+          "nominal_ticks": 496,
+          "vtp": 70
+        },
+        {
+          "distance_km": 16.192233164784106,
+          "nominal_ticks": 500,
+          "vtp": 68
+        },
+        {
+          "distance_km": 18.013588574560924,
+          "nominal_ticks": 540,
+          "vtp": 59
+        },
+        {
+          "distance_km": 20.816843852316012,
+          "nominal_ticks": 610,
+          "vtp": 67
+        },
+        {
+          "distance_km": 21.174415591712563,
+          "nominal_ticks": 620,
+          "vtp": 65
+        },
+        {
+          "distance_km": 22.092893919284702,
+          "nominal_ticks": 638,
+          "vtp": 58
+        },
+        {
+          "distance_km": 23.961379867622828,
+          "nominal_ticks": 688,
+          "vtp": 51
+        },
+        {
+          "distance_km": 24.466737856929267,
+          "nominal_ticks": 702,
+          "vtp": 73
+        },
+        {
+          "distance_km": 30.15327500767277,
+          "nominal_ticks": 838,
+          "vtp": 62
+        },
+        {
+          "distance_km": 31.819705806704253,
+          "nominal_ticks": 878,
+          "vtp": 53
+        },
+        {
+          "distance_km": 33.223365478231315,
+          "nominal_ticks": 908,
+          "vtp": 63
+        },
+        {
+          "distance_km": 34.8422689260882,
+          "nominal_ticks": 952,
+          "vtp": 50
+        },
+        {
+          "distance_km": 35.0456559744739,
+          "nominal_ticks": 956,
+          "vtp": 55
+        },
+        {
+          "distance_km": 36.80236906882912,
+          "nominal_ticks": 994,
+          "vtp": 61
+        },
+        {
+          "distance_km": 36.83924316221186,
+          "nominal_ticks": 1000,
+          "vtp": 72
+        },
+        {
+          "distance_km": 38.3982904115222,
+          "nominal_ticks": 1032,
+          "vtp": 69
+        },
+        {
+          "distance_km": 45.3715433414715,
+          "nominal_ticks": 1200,
+          "vtp": 71
+        },
+        {
+          "distance_km": 47.344993892854525,
+          "nominal_ticks": 1248,
+          "vtp": 52
+        },
+        {
+          "distance_km": 49.3927502205634,
+          "nominal_ticks": 1298,
+          "vtp": 54
+        }
+      ]
+    },
+    {
+      "customer_id": 15,
+      "ranked_vtps": [
+        {
+          "distance_km": 3.2680221161575753,
+          "nominal_ticks": 186,
+          "vtp": 73
+        },
+        {
+          "distance_km": 8.621306754774235,
+          "nominal_ticks": 316,
+          "vtp": 55
+        },
+        {
+          "distance_km": 8.884897244225787,
+          "nominal_ticks": 322,
+          "vtp": 62
+        },
+        {
+          "distance_km": 11.099428185290478,
+          "nominal_ticks": 376,
+          "vtp": 68
+        },
+        {
+          "distance_km": 12.391931538217655,
+          "nominal_ticks": 408,
+          "vtp": 70
+        },
+        {
+          "distance_km": 12.92821262941373,
+          "nominal_ticks": 420,
+          "vtp": 72
+        },
+        {
+          "distance_km": 18.64317173751463,
+          "nominal_ticks": 560,
+          "vtp": 64
+        },
+        {
+          "distance_km": 19.660836467457383,
+          "nominal_ticks": 582,
+          "vtp": 50
+        },
+        {
+          "distance_km": 22.68339958684133,
+          "nominal_ticks": 656,
+          "vtp": 53
+        },
+        {
+          "distance_km": 24.509245894710045,
+          "nominal_ticks": 702,
+          "vtp": 57
+        },
+        {
+          "distance_km": 30.541725525922754,
+          "nominal_ticks": 846,
+          "vtp": 51
+        },
+        {
+          "distance_km": 33.32868980183302,
+          "nominal_ticks": 914,
+          "vtp": 65
+        },
+        {
+          "distance_km": 34.17168730258182,
+          "nominal_ticks": 934,
+          "vtp": 60
+        },
+        {
+          "distance_km": 37.942006957527276,
+          "nominal_ticks": 1026,
+          "vtp": 66
+        },
+        {
+          "distance_km": 39.524573803031124,
+          "nominal_ticks": 1064,
+          "vtp": 56
+        },
+        {
+          "distance_km": 44.90524992463551,
+          "nominal_ticks": 1192,
+          "vtp": 59
+        },
+        {
+          "distance_km": 46.980049138198154,
+          "nominal_ticks": 1244,
+          "vtp": 67
+        },
+        {
+          "distance_km": 48.98455526935929,
+          "nominal_ticks": 1290,
+          "vtp": 58
+        },
+        {
+          "distance_km": 59.38657076411346,
+          "nominal_ticks": 1542,
+          "vtp": 63
+        },
+        {
+          "distance_km": 62.965574354711265,
+          "nominal_ticks": 1628,
+          "vtp": 61
+        },
+        {
+          "distance_km": 65.28995176159678,
+          "nominal_ticks": 1684,
+          "vtp": 69
+        },
+        {
+          "distance_km": 71.53474862735364,
+          "nominal_ticks": 1834,
+          "vtp": 71
+        },
+        {
+          "distance_km": 74.23665524292912,
+          "nominal_ticks": 1900,
+          "vtp": 52
+        },
+        {
+          "distance_km": 75.55595550644553,
+          "nominal_ticks": 1932,
+          "vtp": 54
+        }
+      ]
+    }
+  ],
+  "costs": {
+    "drone_per_km": 1.5,
+    "early_per_hour": 5.0,
+    "late_per_hour": 20.0,
+    "truck_per_km": 2.0
+  },
+  "customer_count": 15,
+  "customers": [
+    {
+      "air_node": 34,
+      "customer_id": 1,
+      "ground_node": 74,
+      "payload_lbs": 4,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 1,
+        "due_h": 4.150833333333334,
+        "ready_h": 2.7258333333333336,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 4981,
+      "window_start": 3271
+    },
+    {
+      "air_node": 35,
+      "customer_id": 2,
+      "ground_node": 75,
+      "payload_lbs": 3,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 2,
+        "due_h": 6.04,
+        "ready_h": 3.9033333333333338,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 7248,
+      "window_start": 4684
+    },
+    {
+      "air_node": 36,
+      "customer_id": 3,
+      "ground_node": 76,
+      "payload_lbs": 5,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 3,
+        "due_h": 3.9325,
+        "ready_h": 0.9941666666666668,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 4719,
+      "window_start": 1193
+    },
+    {
+      "air_node": 37,
+      "customer_id": 4,
+      "ground_node": 77,
+      "payload_lbs": 5,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 4,
+        "due_h": 4.309166666666667,
+        "ready_h": 2.5408333333333335,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 5171,
+      "window_start": 3049
+    },
+    {
+      "air_node": 38,
+      "customer_id": 5,
+      "ground_node": 78,
+      "payload_lbs": 5,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 5,
+        "due_h": 2.68,
+        "ready_h": 1.1508333333333334,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 3216,
+      "window_start": 1381
+    },
+    {
+      "air_node": 39,
+      "customer_id": 6,
+      "ground_node": 79,
+      "payload_lbs": 1,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 6,
+        "due_h": 4.878333333333334,
+        "ready_h": 2.3333333333333335,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 5854,
+      "window_start": 2800
+    },
+    {
+      "air_node": 40,
+      "customer_id": 7,
+      "ground_node": 80,
+      "payload_lbs": 1,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 7,
+        "due_h": 5.364166666666667,
+        "ready_h": 2.5483333333333333,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 6437,
+      "window_start": 3058
+    },
+    {
+      "air_node": 41,
+      "customer_id": 8,
+      "ground_node": 81,
+      "payload_lbs": 3,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 8,
+        "due_h": 4.310833333333334,
+        "ready_h": 3.1433333333333335,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 5173,
+      "window_start": 3772
+    },
+    {
+      "air_node": 42,
+      "customer_id": 9,
+      "ground_node": 82,
+      "payload_lbs": 1,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 9,
+        "due_h": 5.043333333333334,
+        "ready_h": 2.5825,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 6052,
+      "window_start": 3099
+    },
+    {
+      "air_node": 43,
+      "customer_id": 10,
+      "ground_node": 83,
+      "payload_lbs": 2,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 10,
+        "due_h": 3.4691666666666667,
+        "ready_h": 1.7433333333333334,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 4163,
+      "window_start": 2092
+    },
+    {
+      "air_node": 44,
+      "customer_id": 11,
+      "ground_node": 84,
+      "payload_lbs": 3,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 11,
+        "due_h": 5.567500000000001,
+        "ready_h": 3.796666666666667,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 6681,
+      "window_start": 4556
+    },
+    {
+      "air_node": 45,
+      "customer_id": 12,
+      "ground_node": 85,
+      "payload_lbs": 2,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 12,
+        "due_h": 4.460833333333333,
+        "ready_h": 2.694166666666667,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 5353,
+      "window_start": 3233
+    },
+    {
+      "air_node": 46,
+      "customer_id": 13,
+      "ground_node": 86,
+      "payload_lbs": 1,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 13,
+        "due_h": 4.135000000000001,
+        "ready_h": 1.9091666666666667,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 4962,
+      "window_start": 2291
+    },
+    {
+      "air_node": 47,
+      "customer_id": 14,
+      "ground_node": 87,
+      "payload_lbs": 5,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 14,
+        "due_h": 4.265833333333334,
+        "ready_h": 2.1458333333333335,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 5119,
+      "window_start": 2575
+    },
+    {
+      "air_node": 48,
+      "customer_id": 15,
+      "ground_node": 88,
+      "payload_lbs": 5,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 15,
+        "due_h": 3.6766666666666667,
+        "ready_h": 2.0725000000000002,
+        "service_h": 0.08333333333333333
+      },
+      "window_end": 4412,
+      "window_start": 2487
+    }
+  ],
+  "depot": 49,
+  "distribution": "clustered",
+  "district_split": {
+    "cross_district_edges": [
+      [
+        42,
+        38
+      ],
+      [
+        45,
+        17
+      ],
+      [
+        24,
+        3
+      ],
+      [
+        44,
+        5
+      ]
+    ],
+    "cut_x_km": 11.886746500000001,
+    "left_nodes": [
+      2,
+      4,
+      6,
+      7,
+      8,
+      12,
+      14,
+      16,
+      18,
+      19,
+      20,
+      21,
+      23,
+      24,
+      26,
+      27,
+      29,
+      31,
+      35,
+      40,
+      42,
+      44,
+      45,
+      47
+    ],
+    "right_nodes": [
+      0,
+      1,
+      3,
+      5,
+      9,
+      10,
+      11,
+      13,
+      15,
+      17,
+      22,
+      25,
+      28,
+      30,
+      32,
+      33,
+      34,
+      36,
+      37,
+      38,
+      39,
+      41,
+      43,
+      46,
+      48
+    ]
+  },
+  "drones": [
+    {
+      "capacity_lbs": 5,
+      "drone_id": 11,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    },
+    {
+      "capacity_lbs": 5,
+      "drone_id": 12,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    },
+    {
+      "capacity_lbs": 5,
+      "drone_id": 13,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    },
+    {
+      "capacity_lbs": 5,
+      "drone_id": 14,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    }
+  ],
+  "epsilon_ticks": 1,
+  "geometry_seed": 25125101,
+  "ground_arcs": [
+    {
+      "distance_km": 15.854047109629798,
+      "duration_ticks": 635,
+      "source": 49,
+      "target": 50
+    },
+    {
+      "distance_km": 19.333829441492856,
+      "duration_ticks": 774,
+      "source": 49,
+      "target": 51
+    },
+    {
+      "distance_km": 10.70823355033761,
+      "duration_ticks": 429,
+      "source": 49,
+      "target": 52
+    },
+    {
+      "distance_km": 17.1866697455439,
+      "duration_ticks": 688,
+      "source": 49,
+      "target": 53
+    },
+    {
+      "distance_km": 6.536728645906606,
+      "duration_ticks": 262,
+      "source": 49,
+      "target": 54
+    },
+    {
+      "distance_km": 3.9185433747494742,
+      "duration_ticks": 157,
+      "source": 49,
+      "target": 55
+    },
+    {
+      "distance_km": 12.999618470031187,
+      "duration_ticks": 520,
+      "source": 49,
+      "target": 56
+    },
+    {
+      "distance_km": 15.438164515663122,
+      "duration_ticks": 618,
+      "source": 49,
+      "target": 57
+    },
+    {
+      "distance_km": 18.85250841492288,
+      "duration_ticks": 755,
+      "source": 49,
+      "target": 58
+    },
+    {
+      "distance_km": 20.89200072997943,
+      "duration_ticks": 836,
+      "source": 49,
+      "target": 59
+    },
+    {
+      "distance_km": 15.45260851868412,
+      "duration_ticks": 619,
+      "source": 49,
+      "target": 60
+    },
+    {
+      "distance_km": 1.6732382980953429,
+      "duration_ticks": 67,
+      "source": 49,
+      "target": 61
+    },
+    {
+      "distance_km": 11.020560822073303,
+      "duration_ticks": 441,
+      "source": 49,
+      "target": 62
+    },
+    {
+      "distance_km": 3.216989023208037,
+      "duration_ticks": 129,
+      "source": 49,
+      "target": 63
+    },
+    {
+      "distance_km": 12.266404084254399,
+      "duration_ticks": 491,
+      "source": 49,
+      "target": 64
+    },
+    {
+      "distance_km": 20.6832975815792,
+      "duration_ticks": 828,
+      "source": 49,
+      "target": 65
+    },
+    {
+      "distance_km": 13.56851306436376,
+      "duration_ticks": 543,
+      "source": 49,
+      "target": 66
+    },
+    {
+      "distance_km": 9.407432217407948,
+      "duration_ticks": 377,
+      "source": 49,
+      "target": 67
+    },
+    {
+      "distance_km": 10.442639941143332,
+      "duration_ticks": 418,
+      "source": 49,
+      "target": 68
+    },
+    {
+      "distance_km": 13.294818315619699,
+      "duration_ticks": 532,
+      "source": 49,
+      "target": 69
+    },
+    {
+      "distance_km": 11.046724568547639,
+      "duration_ticks": 442,
+      "source": 49,
+      "target": 70
+    },
+    {
+      "distance_km": 5.651691461854053,
+      "duration_ticks": 227,
+      "source": 49,
+      "target": 71
+    },
+    {
+      "distance_km": 6.540844028679173,
+      "duration_ticks": 262,
+      "source": 49,
+      "target": 72
+    },
+    {
+      "distance_km": 7.920868262061427,
+      "duration_ticks": 317,
+      "source": 49,
+      "target": 73
+    },
+    {
+      "distance_km": 15.854047109629798,
+      "duration_ticks": 635,
+      "source": 50,
+      "target": 49
+    },
+    {
+      "distance_km": 5.236190110755052,
+      "duration_ticks": 210,
+      "source": 50,
+      "target": 51
+    },
+    {
+      "distance_km": 19.918785945368683,
+      "duration_ticks": 797,
+      "source": 50,
+      "target": 52
+    },
+    {
+      "distance_km": 1.511281559691973,
+      "duration_ticks": 61,
+      "source": 50,
+      "target": 53
+    },
+    {
+      "distance_km": 16.93738383202757,
+      "duration_ticks": 678,
+      "source": 50,
+      "target": 54
+    },
+    {
+      "distance_km": 12.913283847127731,
+      "duration_ticks": 517,
+      "source": 50,
+      "target": 55
+    },
+    {
+      "distance_km": 12.820313186617126,
+      "duration_ticks": 513,
+      "source": 50,
+      "target": 56
+    },
+    {
+      "distance_km": 5.165337458640722,
+      "duration_ticks": 207,
+      "source": 50,
+      "target": 57
+    },
+    {
+      "distance_km": 17.17921728962274,
+      "duration_ticks": 688,
+      "source": 50,
+      "target": 58
+    },
+    {
+      "distance_km": 18.48626449428061,
+      "duration_ticks": 740,
+      "source": 50,
+      "target": 59
+    },
+    {
+      "distance_km": 12.984262884663725,
+      "duration_ticks": 520,
+      "source": 50,
+      "target": 60
+    },
+    {
+      "distance_km": 15.508772179994455,
+      "duration_ticks": 621,
+      "source": 50,
+      "target": 61
+    },
+    {
+      "distance_km": 4.833489491966025,
+      "duration_ticks": 194,
+      "source": 50,
+      "target": 62
+    },
+    {
+      "distance_km": 14.134103295865357,
+      "duration_ticks": 566,
+      "source": 50,
+      "target": 63
+    },
+    {
+      "distance_km": 8.141011029144352,
+      "duration_ticks": 326,
+      "source": 50,
+      "target": 64
+    },
+    {
+      "distance_km": 6.505851967539457,
+      "duration_ticks": 261,
+      "source": 50,
+      "target": 65
+    },
+    {
+      "distance_km": 12.431416083162246,
+      "duration_ticks": 498,
+      "source": 50,
+      "target": 66
+    },
+    {
+      "distance_km": 13.281372462506122,
+      "duration_ticks": 532,
+      "source": 50,
+      "target": 67
+    },
+    {
+      "distance_km": 6.333666549731283,
+      "duration_ticks": 254,
+      "source": 50,
+      "target": 68
+    },
+    {
+      "distance_km": 18.37327209881816,
+      "duration_ticks": 735,
+      "source": 50,
+      "target": 69
+    },
+    {
+      "distance_km": 6.045325227222186,
+      "duration_ticks": 242,
+      "source": 50,
+      "target": 70
+    },
+    {
+      "distance_km": 18.164348699154093,
+      "duration_ticks": 727,
+      "source": 50,
+      "target": 71
+    },
+    {
+      "distance_km": 12.332965753195497,
+      "duration_ticks": 494,
+      "source": 50,
+      "target": 72
+    },
+    {
+      "distance_km": 7.976505813498851,
+      "duration_ticks": 320,
+      "source": 50,
+      "target": 73
+    },
+    {
+      "distance_km": 19.333829441492856,
+      "duration_ticks": 774,
+      "source": 51,
+      "target": 49
+    },
+    {
+      "distance_km": 5.236190110755052,
+      "duration_ticks": 210,
+      "source": 51,
+      "target": 50
+    },
+    {
+      "distance_km": 20.819155092374714,
+      "duration_ticks": 833,
+      "source": 51,
+      "target": 52
+    },
+    {
+      "distance_km": 3.929162969540713,
+      "duration_ticks": 158,
+      "source": 51,
+      "target": 53
+    },
+    {
+      "distance_km": 18.757923166283625,
+      "duration_ticks": 751,
+      "source": 51,
+      "target": 54
+    },
+    {
+      "distance_km": 17.037989696221587,
+      "duration_ticks": 682,
+      "source": 51,
+      "target": 55
+    },
+    {
+      "distance_km": 12.284952827951763,
+      "duration_ticks": 492,
+      "source": 51,
+      "target": 56
+    },
+    {
+      "distance_km": 4.30903399942493,
+      "duration_ticks": 173,
+      "source": 51,
+      "target": 57
+    },
+    {
+      "distance_km": 14.849504897908549,
+      "duration_ticks": 594,
+      "source": 51,
+      "target": 58
+    },
+    {
+      "distance_km": 15.67764669912768,
+      "duration_ticks": 628,
+      "source": 51,
+      "target": 59
+    },
+    {
+      "distance_km": 11.407353621901487,
+      "duration_ticks": 457,
+      "source": 51,
+      "target": 60
+    },
+    {
+      "distance_km": 18.614652569500535,
+      "duration_ticks": 745,
+      "source": 51,
+      "target": 61
+    },
+    {
+      "distance_km": 8.932629349990124,
+      "duration_ticks": 358,
+      "source": 51,
+      "target": 62
+    },
+    {
+      "distance_km": 16.987073737123087,
+      "duration_ticks": 680,
+      "source": 51,
+      "target": 63
+    },
+    {
+      "distance_km": 8.486562470914416,
+      "duration_ticks": 340,
+      "source": 51,
+      "target": 64
+    },
+    {
+      "distance_km": 1.3934821379551319,
+      "duration_ticks": 56,
+      "source": 51,
+      "target": 65
+    },
+    {
+      "distance_km": 11.646085959414947,
+      "duration_ticks": 466,
+      "source": 51,
+      "target": 66
+    },
+    {
+      "distance_km": 14.15505176052638,
+      "duration_ticks": 567,
+      "source": 51,
+      "target": 67
+    },
+    {
+      "distance_km": 8.903202762046138,
+      "duration_ticks": 357,
+      "source": 51,
+      "target": 68
+    },
+    {
+      "distance_km": 18.204570502411777,
+      "duration_ticks": 729,
+      "source": 51,
+      "target": 69
+    },
+    {
+      "distance_km": 8.324475436366306,
+      "duration_ticks": 333,
+      "source": 51,
+      "target": 70
+    },
+    {
+      "distance_km": 20.355552735312152,
+      "duration_ticks": 815,
+      "source": 51,
+      "target": 71
+    },
+    {
+      "distance_km": 16.9891067771022,
+      "duration_ticks": 680,
+      "source": 51,
+      "target": 72
+    },
+    {
+      "distance_km": 11.98998765480015,
+      "duration_ticks": 480,
+      "source": 51,
+      "target": 73
+    },
+    {
+      "distance_km": 10.70823355033761,
+      "duration_ticks": 429,
+      "source": 52,
+      "target": 49
+    },
+    {
+      "distance_km": 19.918785945368683,
+      "duration_ticks": 797,
+      "source": 52,
+      "target": 50
+    },
+    {
+      "distance_km": 20.819155092374714,
+      "duration_ticks": 833,
+      "source": 52,
+      "target": 51
+    },
+    {
+      "distance_km": 20.676467657400913,
+      "duration_ticks": 828,
+      "source": 52,
+      "target": 53
+    },
+    {
+      "distance_km": 4.3013058689556125,
+      "duration_ticks": 173,
+      "source": 52,
+      "target": 54
+    },
+    {
+      "distance_km": 13.630093845218859,
+      "duration_ticks": 546,
+      "source": 52,
+      "target": 55
+    },
+    {
+      "distance_km": 9.055010017049788,
+      "duration_ticks": 363,
+      "source": 52,
+      "target": 56
+    },
+    {
+      "distance_km": 16.56600039579886,
+      "duration_ticks": 663,
+      "source": 52,
+      "target": 57
+    },
+    {
+      "distance_km": 12.083519295060443,
+      "duration_ticks": 484,
+      "source": 52,
+      "target": 58
+    },
+    {
+      "distance_km": 13.869235766707444,
+      "duration_ticks": 555,
+      "source": 52,
+      "target": 59
+    },
+    {
+      "distance_km": 11.154723361835783,
+      "duration_ticks": 447,
+      "source": 52,
+      "target": 60
+    },
+    {
+      "distance_km": 9.15473777705364,
+      "duration_ticks": 367,
+      "source": 52,
+      "target": 61
+    },
+    {
+      "distance_km": 16.049512037249013,
+      "duration_ticks": 642,
+      "source": 52,
+      "target": 62
+    },
+    {
+      "distance_km": 8.618589973042285,
+      "duration_ticks": 345,
+      "source": 52,
+      "target": 63
+    },
+    {
+      "distance_km": 12.383009108350564,
+      "duration_ticks": 496,
+      "source": 52,
+      "target": 64
+    },
+    {
+      "distance_km": 21.81694527577094,
+      "duration_ticks": 873,
+      "source": 52,
+      "target": 65
+    },
+    {
+      "distance_km": 9.836545135651745,
+      "duration_ticks": 394,
+      "source": 52,
+      "target": 66
+    },
+    {
+      "distance_km": 6.732128969699037,
+      "duration_ticks": 270,
+      "source": 52,
+      "target": 67
+    },
+    {
+      "distance_km": 13.667413974323965,
+      "duration_ticks": 547,
+      "source": 52,
+      "target": 68
+    },
+    {
+      "distance_km": 4.473351740666165,
+      "duration_ticks": 179,
+      "source": 52,
+      "target": 69
+    },
+    {
+      "distance_km": 13.88037674450121,
+      "duration_ticks": 556,
+      "source": 52,
+      "target": 70
+    },
+    {
+      "distance_km": 5.231544661540222,
+      "duration_ticks": 210,
+      "source": 52,
+      "target": 71
+    },
+    {
+      "distance_km": 16.364399694380115,
+      "duration_ticks": 655,
+      "source": 52,
+      "target": 72
+    },
+    {
+      "distance_km": 14.325879767791577,
+      "duration_ticks": 574,
+      "source": 52,
+      "target": 73
+    },
+    {
+      "distance_km": 17.1866697455439,
+      "duration_ticks": 688,
+      "source": 53,
+      "target": 49
+    },
+    {
+      "distance_km": 1.511281559691973,
+      "duration_ticks": 61,
+      "source": 53,
+      "target": 50
+    },
+    {
+      "distance_km": 3.929162969540713,
+      "duration_ticks": 158,
+      "source": 53,
+      "target": 51
+    },
+    {
+      "distance_km": 20.676467657400913,
+      "duration_ticks": 828,
+      "source": 53,
+      "target": 52
+    },
+    {
+      "distance_km": 17.905670529261116,
+      "duration_ticks": 717,
+      "source": 53,
+      "target": 54
+    },
+    {
+      "distance_km": 14.350516507958346,
+      "duration_ticks": 575,
+      "source": 53,
+      "target": 55
+    },
+    {
+      "distance_km": 13.115379099721439,
+      "duration_ticks": 525,
+      "source": 53,
+      "target": 56
+    },
+    {
+      "distance_km": 4.9824146089720385,
+      "duration_ticks": 200,
+      "source": 53,
+      "target": 57
+    },
+    {
+      "distance_km": 17.011824706110747,
+      "duration_ticks": 681,
+      "source": 53,
+      "target": 58
+    },
+    {
+      "distance_km": 18.18231416990876,
+      "duration_ticks": 728,
+      "source": 53,
+      "target": 59
+    },
+    {
+      "distance_km": 12.985250895776058,
+      "duration_ticks": 520,
+      "source": 53,
+      "target": 60
+    },
+    {
+      "distance_km": 16.76369079724823,
+      "duration_ticks": 671,
+      "source": 53,
+      "target": 61
+    },
+    {
+      "distance_km": 6.195240490364922,
+      "duration_ticks": 248,
+      "source": 53,
+      "target": 62
+    },
+    {
+      "distance_km": 15.325387198302069,
+      "duration_ticks": 614,
+      "source": 53,
+      "target": 63
+    },
+    {
+      "distance_km": 8.557818886305375,
+      "duration_ticks": 343,
+      "source": 53,
+      "target": 64
+    },
+    {
+      "distance_km": 5.112392403437945,
+      "duration_ticks": 205,
+      "source": 53,
+      "target": 65
+    },
+    {
+      "distance_km": 12.648782148204623,
+      "duration_ticks": 506,
+      "source": 53,
+      "target": 66
+    },
+    {
+      "distance_km": 13.97045916710646,
+      "duration_ticks": 559,
+      "source": 53,
+      "target": 67
+    },
+    {
+      "distance_km": 7.322354969274023,
+      "duration_ticks": 293,
+      "source": 53,
+      "target": 68
+    },
+    {
+      "distance_km": 18.836703792056532,
+      "duration_ticks": 754,
+      "source": 53,
+      "target": 69
+    },
+    {
+      "distance_km": 6.935964990163083,
+      "duration_ticks": 278,
+      "source": 53,
+      "target": 70
+    },
+    {
+      "distance_km": 19.228904177893966,
+      "duration_ticks": 770,
+      "source": 53,
+      "target": 71
+    },
+    {
+      "distance_km": 13.835135485022546,
+      "duration_ticks": 554,
+      "source": 53,
+      "target": 72
+    },
+    {
+      "distance_km": 9.366202747344838,
+      "duration_ticks": 375,
+      "source": 53,
+      "target": 73
+    },
+    {
+      "distance_km": 6.536728645906606,
+      "duration_ticks": 262,
+      "source": 54,
+      "target": 49
+    },
+    {
+      "distance_km": 16.93738383202757,
+      "duration_ticks": 678,
+      "source": 54,
+      "target": 50
+    },
+    {
+      "distance_km": 18.757923166283625,
+      "duration_ticks": 751,
+      "source": 54,
+      "target": 51
+    },
+    {
+      "distance_km": 4.3013058689556125,
+      "duration_ticks": 173,
+      "source": 54,
+      "target": 52
+    },
+    {
+      "distance_km": 17.905670529261116,
+      "duration_ticks": 717,
+      "source": 54,
+      "target": 53
+    },
+    {
+      "distance_km": 9.330794289948365,
+      "duration_ticks": 374,
+      "source": 54,
+      "target": 55
+    },
+    {
+      "distance_km": 8.655918978271457,
+      "duration_ticks": 347,
+      "source": 54,
+      "target": 56
+    },
+    {
+      "distance_km": 14.455242993106687,
+      "duration_ticks": 579,
+      "source": 54,
+      "target": 57
+    },
+    {
+      "distance_km": 13.54559369423762,
+      "duration_ticks": 542,
+      "source": 54,
+      "target": 58
+    },
+    {
+      "distance_km": 15.540023785346309,
+      "duration_ticks": 622,
+      "source": 54,
+      "target": 59
+    },
+    {
+      "distance_km": 11.16077734883413,
+      "duration_ticks": 447,
+      "source": 54,
+      "target": 60
+    },
+    {
+      "distance_km": 4.919858971534957,
+      "duration_ticks": 197,
+      "source": 54,
+      "target": 61
+    },
+    {
+      "distance_km": 12.618798069612057,
+      "duration_ticks": 505,
+      "source": 54,
+      "target": 62
+    },
+    {
+      "distance_km": 4.334835529188738,
+      "duration_ticks": 174,
+      "source": 54,
+      "target": 63
+    },
+    {
+      "distance_km": 10.360154396818272,
+      "duration_ticks": 415,
+      "source": 54,
+      "target": 64
+    },
+    {
+      "distance_km": 19.92025505787815,
+      "duration_ticks": 797,
+      "source": 54,
+      "target": 65
+    },
+    {
+      "distance_km": 9.409225688338122,
+      "duration_ticks": 377,
+      "source": 54,
+      "target": 66
+    },
+    {
+      "distance_km": 5.105823272162973,
+      "duration_ticks": 205,
+      "source": 54,
+      "target": 67
+    },
+    {
+      "distance_km": 10.610113883299558,
+      "duration_ticks": 425,
+      "source": 54,
+      "target": 68
+    },
+    {
+      "distance_km": 6.966480085686099,
+      "duration_ticks": 279,
+      "source": 54,
+      "target": 69
+    },
+    {
+      "distance_km": 10.969973211142587,
+      "duration_ticks": 439,
+      "source": 54,
+      "target": 70
+    },
+    {
+      "distance_km": 2.010603439545949,
+      "duration_ticks": 81,
+      "source": 54,
+      "target": 71
+    },
+    {
+      "distance_km": 12.072736130171155,
+      "duration_ticks": 483,
+      "source": 54,
+      "target": 72
+    },
+    {
+      "distance_km": 10.466210666995961,
+      "duration_ticks": 419,
+      "source": 54,
+      "target": 73
+    },
+    {
+      "distance_km": 3.9185433747494742,
+      "duration_ticks": 157,
+      "source": 55,
+      "target": 49
+    },
+    {
+      "distance_km": 12.913283847127731,
+      "duration_ticks": 517,
+      "source": 55,
+      "target": 50
+    },
+    {
+      "distance_km": 17.037989696221587,
+      "duration_ticks": 682,
+      "source": 55,
+      "target": 51
+    },
+    {
+      "distance_km": 13.630093845218859,
+      "duration_ticks": 546,
+      "source": 55,
+      "target": 52
+    },
+    {
+      "distance_km": 14.350516507958346,
+      "duration_ticks": 575,
+      "source": 55,
+      "target": 53
+    },
+    {
+      "distance_km": 9.330794289948365,
+      "duration_ticks": 374,
+      "source": 55,
+      "target": 54
+    },
+    {
+      "distance_km": 13.449225669465623,
+      "duration_ticks": 538,
+      "source": 55,
+      "target": 56
+    },
+    {
+      "distance_km": 13.600041617469447,
+      "duration_ticks": 545,
+      "source": 55,
+      "target": 57
+    },
+    {
+      "distance_km": 19.588321749486376,
+      "duration_ticks": 784,
+      "source": 55,
+      "target": 58
+    },
+    {
+      "distance_km": 21.58586534639948,
+      "duration_ticks": 864,
+      "source": 55,
+      "target": 59
+    },
+    {
+      "distance_km": 15.636029784473871,
+      "duration_ticks": 626,
+      "source": 55,
+      "target": 60
+    },
+    {
+      "distance_km": 4.793023729390456,
+      "duration_ticks": 192,
+      "source": 55,
+      "target": 61
+    },
+    {
+      "distance_km": 8.204041048931922,
+      "duration_ticks": 329,
+      "source": 55,
+      "target": 62
+    },
+    {
+      "distance_km": 5.029063557476481,
+      "duration_ticks": 202,
+      "source": 55,
+      "target": 63
+    },
+    {
+      "distance_km": 11.31296784824389,
+      "duration_ticks": 453,
+      "source": 55,
+      "target": 64
+    },
+    {
+      "distance_km": 18.426749207996753,
+      "duration_ticks": 738,
+      "source": 55,
+      "target": 65
+    },
+    {
+      "distance_km": 13.836456904609829,
+      "duration_ticks": 554,
+      "source": 55,
+      "target": 66
+    },
+    {
+      "distance_km": 10.391773456242106,
+      "duration_ticks": 416,
+      "source": 55,
+      "target": 67
+    },
+    {
+      "distance_km": 8.54715933098319,
+      "duration_ticks": 342,
+      "source": 55,
+      "target": 68
+    },
+    {
+      "distance_km": 15.315222090926007,
+      "duration_ticks": 613,
+      "source": 55,
+      "target": 69
+    },
+    {
+      "distance_km": 9.193386473794355,
+      "duration_ticks": 368,
+      "source": 55,
+      "target": 70
+    },
+    {
+      "distance_km": 9.054049525394094,
+      "duration_ticks": 363,
+      "source": 55,
+      "target": 71
+    },
+    {
+      "distance_km": 2.776368058885744,
+      "duration_ticks": 112,
+      "source": 55,
+      "target": 72
+    },
+    {
+      "distance_km": 5.056128719957297,
+      "duration_ticks": 203,
+      "source": 55,
+      "target": 73
+    },
+    {
+      "distance_km": 12.999618470031187,
+      "duration_ticks": 520,
+      "source": 56,
+      "target": 49
+    },
+    {
+      "distance_km": 12.820313186617126,
+      "duration_ticks": 513,
+      "source": 56,
+      "target": 50
+    },
+    {
+      "distance_km": 12.284952827951763,
+      "duration_ticks": 492,
+      "source": 56,
+      "target": 51
+    },
+    {
+      "distance_km": 9.055010017049788,
+      "duration_ticks": 363,
+      "source": 56,
+      "target": 52
+    },
+    {
+      "distance_km": 13.115379099721439,
+      "duration_ticks": 525,
+      "source": 56,
+      "target": 53
+    },
+    {
+      "distance_km": 8.655918978271457,
+      "duration_ticks": 347,
+      "source": 56,
+      "target": 54
+    },
+    {
+      "distance_km": 13.449225669465623,
+      "duration_ticks": 538,
+      "source": 56,
+      "target": 55
+    },
+    {
+      "distance_km": 8.332952313834515,
+      "duration_ticks": 334,
+      "source": 56,
+      "target": 57
+    },
+    {
+      "distance_km": 6.154462968676471,
+      "duration_ticks": 247,
+      "source": 56,
+      "target": 58
+    },
+    {
+      "distance_km": 8.137447046011975,
+      "duration_ticks": 326,
+      "source": 56,
+      "target": 59
+    },
+    {
+      "distance_km": 2.5373712595379105,
+      "duration_ticks": 102,
+      "source": 56,
+      "target": 60
+    },
+    {
+      "distance_km": 11.484635047134628,
+      "duration_ticks": 460,
+      "source": 56,
+      "target": 61
+    },
+    {
+      "distance_km": 10.611255229743792,
+      "duration_ticks": 425,
+      "source": 56,
+      "target": 62
+    },
+    {
+      "distance_km": 9.783294419615357,
+      "duration_ticks": 392,
+      "source": 56,
+      "target": 63
+    },
+    {
+      "distance_km": 4.709593069639139,
+      "duration_ticks": 189,
+      "source": 56,
+      "target": 64
+    },
+    {
+      "distance_km": 13.106555962944652,
+      "duration_ticks": 525,
+      "source": 56,
+      "target": 65
+    },
+    {
+      "distance_km": 0.7912834227519249,
+      "duration_ticks": 32,
+      "source": 56,
+      "target": 66
+    },
+    {
+      "distance_km": 3.7277376675835163,
+      "duration_ticks": 150,
+      "source": 56,
+      "target": 67
+    },
+    {
+      "distance_km": 7.8078362847197305,
+      "duration_ticks": 313,
+      "source": 56,
+      "target": 68
+    },
+    {
+      "distance_km": 5.919767987232354,
+      "duration_ticks": 237,
+      "source": 56,
+      "target": 69
+    },
+    {
+      "distance_km": 7.599421213633708,
+      "duration_ticks": 304,
+      "source": 56,
+      "target": 70
+    },
+    {
+      "distance_km": 10.653044763634197,
+      "duration_ticks": 427,
+      "source": 56,
+      "target": 71
+    },
+    {
+      "distance_km": 15.381091732584522,
+      "duration_ticks": 616,
+      "source": 56,
+      "target": 72
+    },
+    {
+      "distance_km": 10.776874430550818,
+      "duration_ticks": 432,
+      "source": 56,
+      "target": 73
+    },
+    {
+      "distance_km": 15.438164515663122,
+      "duration_ticks": 618,
+      "source": 57,
+      "target": 49
+    },
+    {
+      "distance_km": 5.165337458640722,
+      "duration_ticks": 207,
+      "source": 57,
+      "target": 50
+    },
+    {
+      "distance_km": 4.30903399942493,
+      "duration_ticks": 173,
+      "source": 57,
+      "target": 51
+    },
+    {
+      "distance_km": 16.56600039579886,
+      "duration_ticks": 663,
+      "source": 57,
+      "target": 52
+    },
+    {
+      "distance_km": 4.9824146089720385,
+      "duration_ticks": 200,
+      "source": 57,
+      "target": 53
+    },
+    {
+      "distance_km": 14.455242993106687,
+      "duration_ticks": 579,
+      "source": 57,
+      "target": 54
+    },
+    {
+      "distance_km": 13.600041617469447,
+      "duration_ticks": 545,
+      "source": 57,
+      "target": 55
+    },
+    {
+      "distance_km": 8.332952313834515,
+      "duration_ticks": 334,
+      "source": 57,
+      "target": 56
+    },
+    {
+      "distance_km": 12.061369177434294,
+      "duration_ticks": 483,
+      "source": 57,
+      "target": 58
+    },
+    {
+      "distance_km": 13.323289748877228,
+      "duration_ticks": 533,
+      "source": 57,
+      "target": 59
+    },
+    {
+      "distance_km": 8.006589127899655,
+      "duration_ticks": 321,
+      "source": 57,
+      "target": 60
+    },
+    {
+      "distance_km": 14.57314908956609,
+      "duration_ticks": 583,
+      "source": 57,
+      "target": 61
+    },
+    {
+      "distance_km": 6.163439673322436,
+      "duration_ticks": 247,
+      "source": 57,
+      "target": 62
+    },
+    {
+      "distance_km": 12.885181651879533,
+      "duration_ticks": 516,
+      "source": 57,
+      "target": 63
+    },
+    {
+      "distance_km": 4.19307106090524,
+      "duration_ticks": 168,
+      "source": 57,
+      "target": 64
+    },
+    {
+      "distance_km": 5.482194779766952,
+      "duration_ticks": 220,
+      "source": 57,
+      "target": 65
+    },
+    {
+      "distance_km": 7.791383384132113,
+      "duration_ticks": 312,
+      "source": 57,
+      "target": 66
+    },
+    {
+      "distance_km": 9.869983582939993,
+      "duration_ticks": 395,
+      "source": 57,
+      "target": 67
+    },
+    {
+      "distance_km": 5.0833273621888635,
+      "duration_ticks": 204,
+      "source": 57,
+      "target": 68
+    },
+    {
+      "distance_km": 14.197547908426051,
+      "duration_ticks": 568,
+      "source": 57,
+      "target": 69
+    },
+    {
+      "distance_km": 4.445084010598899,
+      "duration_ticks": 178,
+      "source": 57,
+      "target": 70
+    },
+    {
+      "distance_km": 16.079612711135365,
+      "duration_ticks": 644,
+      "source": 57,
+      "target": 71
+    },
+    {
+      "distance_km": 14.073910364187062,
+      "duration_ticks": 563,
+      "source": 57,
+      "target": 72
+    },
+    {
+      "distance_km": 8.733039303882467,
+      "duration_ticks": 350,
+      "source": 57,
+      "target": 73
+    },
+    {
+      "distance_km": 18.85250841492288,
+      "duration_ticks": 755,
+      "source": 58,
+      "target": 49
+    },
+    {
+      "distance_km": 17.17921728962274,
+      "duration_ticks": 688,
+      "source": 58,
+      "target": 50
+    },
+    {
+      "distance_km": 14.849504897908549,
+      "duration_ticks": 594,
+      "source": 58,
+      "target": 51
+    },
+    {
+      "distance_km": 12.083519295060443,
+      "duration_ticks": 484,
+      "source": 58,
+      "target": 52
+    },
+    {
+      "distance_km": 17.011824706110747,
+      "duration_ticks": 681,
+      "source": 58,
+      "target": 53
+    },
+    {
+      "distance_km": 13.54559369423762,
+      "duration_ticks": 542,
+      "source": 58,
+      "target": 54
+    },
+    {
+      "distance_km": 19.588321749486376,
+      "duration_ticks": 784,
+      "source": 58,
+      "target": 55
+    },
+    {
+      "distance_km": 6.154462968676471,
+      "duration_ticks": 247,
+      "source": 58,
+      "target": 56
+    },
+    {
+      "distance_km": 12.061369177434294,
+      "duration_ticks": 483,
+      "source": 58,
+      "target": 57
+    },
+    {
+      "distance_km": 2.03965267236189,
+      "duration_ticks": 82,
+      "source": 58,
+      "target": 59
+    },
+    {
+      "distance_km": 4.439102848572558,
+      "duration_ticks": 178,
+      "source": 58,
+      "target": 60
+    },
+    {
+      "distance_km": 17.255057426017483,
+      "duration_ticks": 691,
+      "source": 58,
+      "target": 61
+    },
+    {
+      "distance_km": 16.136555766762402,
+      "duration_ticks": 646,
+      "source": 58,
+      "target": 62
+    },
+    {
+      "distance_km": 15.656459599950207,
+      "duration_ticks": 627,
+      "source": 58,
+      "target": 63
+    },
+    {
+      "distance_km": 9.91304435162786,
+      "duration_ticks": 397,
+      "source": 58,
+      "target": 64
+    },
+    {
+      "distance_km": 15.14528400439853,
+      "duration_ticks": 606,
+      "source": 58,
+      "target": 65
+    },
+    {
+      "distance_km": 5.89114372319026,
+      "duration_ticks": 236,
+      "source": 58,
+      "target": 66
+    },
+    {
+      "distance_km": 9.454400739905887,
+      "duration_ticks": 379,
+      "source": 58,
+      "target": 67
+    },
+    {
+      "distance_km": 13.44142580125561,
+      "duration_ticks": 538,
+      "source": 58,
+      "target": 68
+    },
+    {
+      "distance_km": 7.632784027527898,
+      "duration_ticks": 306,
+      "source": 58,
+      "target": 69
+    },
+    {
+      "distance_km": 13.081780002375213,
+      "duration_ticks": 524,
+      "source": 58,
+      "target": 70
+    },
+    {
+      "distance_km": 15.514585576452244,
+      "duration_ticks": 621,
+      "source": 58,
+      "target": 71
+    },
+    {
+      "distance_km": 21.529282173696593,
+      "duration_ticks": 862,
+      "source": 58,
+      "target": 72
+    },
+    {
+      "distance_km": 16.785518945691553,
+      "duration_ticks": 672,
+      "source": 58,
+      "target": 73
+    },
+    {
+      "distance_km": 20.89200072997943,
+      "duration_ticks": 836,
+      "source": 59,
+      "target": 49
+    },
+    {
+      "distance_km": 18.48626449428061,
+      "duration_ticks": 740,
+      "source": 59,
+      "target": 50
+    },
+    {
+      "distance_km": 15.67764669912768,
+      "duration_ticks": 628,
+      "source": 59,
+      "target": 51
+    },
+    {
+      "distance_km": 13.869235766707444,
+      "duration_ticks": 555,
+      "source": 59,
+      "target": 52
+    },
+    {
+      "distance_km": 18.18231416990876,
+      "duration_ticks": 728,
+      "source": 59,
+      "target": 53
+    },
+    {
+      "distance_km": 15.540023785346309,
+      "duration_ticks": 622,
+      "source": 59,
+      "target": 54
+    },
+    {
+      "distance_km": 21.58586534639948,
+      "duration_ticks": 864,
+      "source": 59,
+      "target": 55
+    },
+    {
+      "distance_km": 8.137447046011975,
+      "duration_ticks": 326,
+      "source": 59,
+      "target": 56
+    },
+    {
+      "distance_km": 13.323289748877228,
+      "duration_ticks": 533,
+      "source": 59,
+      "target": 57
+    },
+    {
+      "distance_km": 2.03965267236189,
+      "duration_ticks": 82,
+      "source": 59,
+      "target": 58
+    },
+    {
+      "distance_km": 6.202939283916617,
+      "duration_ticks": 249,
+      "source": 59,
+      "target": 60
+    },
+    {
+      "distance_km": 19.2945208643638,
+      "duration_ticks": 772,
+      "source": 59,
+      "target": 61
+    },
+    {
+      "distance_km": 17.819131292656945,
+      "duration_ticks": 713,
+      "source": 59,
+      "target": 62
+    },
+    {
+      "distance_km": 17.695036480219304,
+      "duration_ticks": 708,
+      "source": 59,
+      "target": 63
+    },
+    {
+      "distance_km": 11.615469162717881,
+      "duration_ticks": 465,
+      "source": 59,
+      "target": 64
+    },
+    {
+      "distance_km": 15.803158707468484,
+      "duration_ticks": 633,
+      "source": 59,
+      "target": 65
+    },
+    {
+      "distance_km": 7.81244610333441,
+      "duration_ticks": 313,
+      "source": 59,
+      "target": 66
+    },
+    {
+      "distance_km": 11.492387380736695,
+      "duration_ticks": 460,
+      "source": 59,
+      "target": 67
+    },
+    {
+      "distance_km": 15.18682938267185,
+      "duration_ticks": 608,
+      "source": 59,
+      "target": 68
+    },
+    {
+      "distance_km": 9.395929962883397,
+      "duration_ticks": 376,
+      "source": 59,
+      "target": 69
+    },
+    {
+      "distance_km": 14.786861534845352,
+      "duration_ticks": 592,
+      "source": 59,
+      "target": 70
+    },
+    {
+      "distance_km": 17.49618289170129,
+      "duration_ticks": 700,
+      "source": 59,
+      "target": 71
+    },
+    {
+      "distance_km": 23.479656762755134,
+      "duration_ticks": 940,
+      "source": 59,
+      "target": 72
+    },
+    {
+      "distance_km": 18.646088525727883,
+      "duration_ticks": 746,
+      "source": 59,
+      "target": 73
+    },
+    {
+      "distance_km": 15.45260851868412,
+      "duration_ticks": 619,
+      "source": 60,
+      "target": 49
+    },
+    {
+      "distance_km": 12.984262884663725,
+      "duration_ticks": 520,
+      "source": 60,
+      "target": 50
+    },
+    {
+      "distance_km": 11.407353621901487,
+      "duration_ticks": 457,
+      "source": 60,
+      "target": 51
+    },
+    {
+      "distance_km": 11.154723361835783,
+      "duration_ticks": 447,
+      "source": 60,
+      "target": 52
+    },
+    {
+      "distance_km": 12.985250895776058,
+      "duration_ticks": 520,
+      "source": 60,
+      "target": 53
+    },
+    {
+      "distance_km": 11.16077734883413,
+      "duration_ticks": 447,
+      "source": 60,
+      "target": 54
+    },
+    {
+      "distance_km": 15.636029784473871,
+      "duration_ticks": 626,
+      "source": 60,
+      "target": 55
+    },
+    {
+      "distance_km": 2.5373712595379105,
+      "duration_ticks": 102,
+      "source": 60,
+      "target": 56
+    },
+    {
+      "distance_km": 8.006589127899655,
+      "duration_ticks": 321,
+      "source": 60,
+      "target": 57
+    },
+    {
+      "distance_km": 4.439102848572558,
+      "duration_ticks": 178,
+      "source": 60,
+      "target": 58
+    },
+    {
+      "distance_km": 6.202939283916617,
+      "duration_ticks": 249,
+      "source": 60,
+      "target": 59
+    },
+    {
+      "distance_km": 13.969823074978223,
+      "duration_ticks": 559,
+      "source": 60,
+      "target": 61
+    },
+    {
+      "distance_km": 11.697491411789194,
+      "duration_ticks": 468,
+      "source": 60,
+      "target": 62
+    },
+    {
+      "distance_km": 12.243786496951014,
+      "duration_ticks": 490,
+      "source": 60,
+      "target": 63
+    },
+    {
+      "distance_km": 5.474072284483829,
+      "duration_ticks": 219,
+      "source": 60,
+      "target": 64
+    },
+    {
+      "distance_km": 11.99919931554189,
+      "duration_ticks": 480,
+      "source": 60,
+      "target": 65
+    },
+    {
+      "distance_km": 1.885159827472726,
+      "duration_ticks": 76,
+      "source": 60,
+      "target": 66
+    },
+    {
+      "distance_km": 6.262955210708759,
+      "duration_ticks": 251,
+      "source": 60,
+      "target": 67
+    },
+    {
+      "distance_km": 9.010641708125178,
+      "duration_ticks": 361,
+      "source": 60,
+      "target": 68
+    },
+    {
+      "distance_km": 7.405234047653726,
+      "duration_ticks": 297,
+      "source": 60,
+      "target": 69
+    },
+    {
+      "distance_km": 8.642988323994254,
+      "duration_ticks": 346,
+      "source": 60,
+      "target": 70
+    },
+    {
+      "distance_km": 13.16487873080588,
+      "duration_ticks": 527,
+      "source": 60,
+      "target": 71
+    },
+    {
+      "distance_km": 17.374317943730194,
+      "duration_ticks": 695,
+      "source": 60,
+      "target": 72
+    },
+    {
+      "distance_km": 12.449625665346609,
+      "duration_ticks": 498,
+      "source": 60,
+      "target": 73
+    },
+    {
+      "distance_km": 1.6732382980953429,
+      "duration_ticks": 67,
+      "source": 61,
+      "target": 49
+    },
+    {
+      "distance_km": 15.508772179994455,
+      "duration_ticks": 621,
+      "source": 61,
+      "target": 50
+    },
+    {
+      "distance_km": 18.614652569500535,
+      "duration_ticks": 745,
+      "source": 61,
+      "target": 51
+    },
+    {
+      "distance_km": 9.15473777705364,
+      "duration_ticks": 367,
+      "source": 61,
+      "target": 52
+    },
+    {
+      "distance_km": 16.76369079724823,
+      "duration_ticks": 671,
+      "source": 61,
+      "target": 53
+    },
+    {
+      "distance_km": 4.919858971534957,
+      "duration_ticks": 197,
+      "source": 61,
+      "target": 54
+    },
+    {
+      "distance_km": 4.793023729390456,
+      "duration_ticks": 192,
+      "source": 61,
+      "target": 55
+    },
+    {
+      "distance_km": 11.484635047134628,
+      "duration_ticks": 460,
+      "source": 61,
+      "target": 56
+    },
+    {
+      "distance_km": 14.57314908956609,
+      "duration_ticks": 583,
+      "source": 61,
+      "target": 57
+    },
+    {
+      "distance_km": 17.255057426017483,
+      "duration_ticks": 691,
+      "source": 61,
+      "target": 58
+    },
+    {
+      "distance_km": 19.2945208643638,
+      "duration_ticks": 772,
+      "source": 61,
+      "target": 59
+    },
+    {
+      "distance_km": 13.969823074978223,
+      "duration_ticks": 559,
+      "source": 61,
+      "target": 60
+    },
+    {
+      "distance_km": 10.714194123155506,
+      "duration_ticks": 429,
+      "source": 61,
+      "target": 62
+    },
+    {
+      "distance_km": 1.789501795298904,
+      "duration_ticks": 72,
+      "source": 61,
+      "target": 63
+    },
+    {
+      "distance_km": 11.140222969658192,
+      "duration_ticks": 446,
+      "source": 61,
+      "target": 64
+    },
+    {
+      "distance_km": 19.933565367035296,
+      "duration_ticks": 798,
+      "source": 61,
+      "target": 65
+    },
+    {
+      "distance_km": 12.08515684778005,
+      "duration_ticks": 484,
+      "source": 61,
+      "target": 66
+    },
+    {
+      "distance_km": 7.83692669053233,
+      "duration_ticks": 314,
+      "source": 61,
+      "target": 67
+    },
+    {
+      "distance_km": 9.726124427339649,
+      "duration_ticks": 390,
+      "source": 61,
+      "target": 68
+    },
+    {
+      "distance_km": 11.623378763413331,
+      "duration_ticks": 465,
+      "source": 61,
+      "target": 69
+    },
+    {
+      "distance_km": 10.290668711300787,
+      "duration_ticks": 412,
+      "source": 61,
+      "target": 70
+    },
+    {
+      "distance_km": 4.284587136321188,
+      "duration_ticks": 172,
+      "source": 61,
+      "target": 71
+    },
+    {
+      "distance_km": 7.559569264783608,
+      "duration_ticks": 303,
+      "source": 61,
+      "target": 72
+    },
+    {
+      "distance_km": 7.787571737264256,
+      "duration_ticks": 312,
+      "source": 61,
+      "target": 73
+    },
+    {
+      "distance_km": 11.020560822073303,
+      "duration_ticks": 441,
+      "source": 62,
+      "target": 49
+    },
+    {
+      "distance_km": 4.833489491966025,
+      "duration_ticks": 194,
+      "source": 62,
+      "target": 50
+    },
+    {
+      "distance_km": 8.932629349990124,
+      "duration_ticks": 358,
+      "source": 62,
+      "target": 51
+    },
+    {
+      "distance_km": 16.049512037249013,
+      "duration_ticks": 642,
+      "source": 62,
+      "target": 52
+    },
+    {
+      "distance_km": 6.195240490364922,
+      "duration_ticks": 248,
+      "source": 62,
+      "target": 53
+    },
+    {
+      "distance_km": 12.618798069612057,
+      "duration_ticks": 505,
+      "source": 62,
+      "target": 54
+    },
+    {
+      "distance_km": 8.204041048931922,
+      "duration_ticks": 329,
+      "source": 62,
+      "target": 55
+    },
+    {
+      "distance_km": 10.611255229743792,
+      "duration_ticks": 425,
+      "source": 62,
+      "target": 56
+    },
+    {
+      "distance_km": 6.163439673322436,
+      "duration_ticks": 247,
+      "source": 62,
+      "target": 57
+    },
+    {
+      "distance_km": 16.136555766762402,
+      "duration_ticks": 646,
+      "source": 62,
+      "target": 58
+    },
+    {
+      "distance_km": 17.819131292656945,
+      "duration_ticks": 713,
+      "source": 62,
+      "target": 59
+    },
+    {
+      "distance_km": 11.697491411789194,
+      "duration_ticks": 468,
+      "source": 62,
+      "target": 60
+    },
+    {
+      "distance_km": 10.714194123155506,
+      "duration_ticks": 429,
+      "source": 62,
+      "target": 61
+    },
+    {
+      "distance_km": 9.422232799935797,
+      "duration_ticks": 377,
+      "source": 62,
+      "target": 63
+    },
+    {
+      "distance_km": 6.223571287783243,
+      "duration_ticks": 249,
+      "source": 62,
+      "target": 64
+    },
+    {
+      "distance_km": 10.32593259398109,
+      "duration_ticks": 414,
+      "source": 62,
+      "target": 65
+    },
+    {
+      "distance_km": 10.506245722833109,
+      "duration_ticks": 421,
+      "source": 62,
+      "target": 66
+    },
+    {
+      "distance_km": 9.818515539422544,
+      "duration_ticks": 393,
+      "source": 62,
+      "target": 67
+    },
+    {
+      "distance_km": 2.8085951277941414,
+      "duration_ticks": 113,
+      "source": 62,
+      "target": 68
+    },
+    {
+      "distance_km": 15.342704271341605,
+      "duration_ticks": 614,
+      "source": 62,
+      "target": 69
+    },
+    {
+      "distance_km": 3.0607626241812658,
+      "duration_ticks": 123,
+      "source": 62,
+      "target": 70
+    },
+    {
+      "distance_km": 13.633540904161947,
+      "duration_ticks": 546,
+      "source": 62,
+      "target": 71
+    },
+    {
+      "distance_km": 8.090824904910068,
+      "duration_ticks": 324,
+      "source": 62,
+      "target": 72
+    },
+    {
+      "distance_km": 3.1751897431380374,
+      "duration_ticks": 128,
+      "source": 62,
+      "target": 73
+    },
+    {
+      "distance_km": 3.216989023208037,
+      "duration_ticks": 129,
+      "source": 63,
+      "target": 49
+    },
+    {
+      "distance_km": 14.134103295865357,
+      "duration_ticks": 566,
+      "source": 63,
+      "target": 50
+    },
+    {
+      "distance_km": 16.987073737123087,
+      "duration_ticks": 680,
+      "source": 63,
+      "target": 51
+    },
+    {
+      "distance_km": 8.618589973042285,
+      "duration_ticks": 345,
+      "source": 63,
+      "target": 52
+    },
+    {
+      "distance_km": 15.325387198302069,
+      "duration_ticks": 614,
+      "source": 63,
+      "target": 53
+    },
+    {
+      "distance_km": 4.334835529188738,
+      "duration_ticks": 174,
+      "source": 63,
+      "target": 54
+    },
+    {
+      "distance_km": 5.029063557476481,
+      "duration_ticks": 202,
+      "source": 63,
+      "target": 55
+    },
+    {
+      "distance_km": 9.783294419615357,
+      "duration_ticks": 392,
+      "source": 63,
+      "target": 56
+    },
+    {
+      "distance_km": 12.885181651879533,
+      "duration_ticks": 516,
+      "source": 63,
+      "target": 57
+    },
+    {
+      "distance_km": 15.656459599950207,
+      "duration_ticks": 627,
+      "source": 63,
+      "target": 58
+    },
+    {
+      "distance_km": 17.695036480219304,
+      "duration_ticks": 708,
+      "source": 63,
+      "target": 59
+    },
+    {
+      "distance_km": 12.243786496951014,
+      "duration_ticks": 490,
+      "source": 63,
+      "target": 60
+    },
+    {
+      "distance_km": 1.789501795298904,
+      "duration_ticks": 72,
+      "source": 63,
+      "target": 61
+    },
+    {
+      "distance_km": 9.422232799935797,
+      "duration_ticks": 377,
+      "source": 63,
+      "target": 62
+    },
+    {
+      "distance_km": 9.368205635416954,
+      "duration_ticks": 375,
+      "source": 63,
+      "target": 64
+    },
+    {
+      "distance_km": 18.287333700491413,
+      "duration_ticks": 732,
+      "source": 63,
+      "target": 65
+    },
+    {
+      "distance_km": 10.358871834015952,
+      "duration_ticks": 415,
+      "source": 63,
+      "target": 66
+    },
+    {
+      "distance_km": 6.20326081295765,
+      "duration_ticks": 249,
+      "source": 63,
+      "target": 67
+    },
+    {
+      "distance_km": 8.148519742417085,
+      "duration_ticks": 326,
+      "source": 63,
+      "target": 68
+    },
+    {
+      "distance_km": 10.467285910587616,
+      "duration_ticks": 419,
+      "source": 63,
+      "target": 69
+    },
+    {
+      "distance_km": 8.68290514865762,
+      "duration_ticks": 348,
+      "source": 63,
+      "target": 70
+    },
+    {
+      "distance_km": 4.4876386333265526,
+      "duration_ticks": 180,
+      "source": 63,
+      "target": 71
+    },
+    {
+      "distance_km": 7.746194996813144,
+      "duration_ticks": 310,
+      "source": 63,
+      "target": 72
+    },
+    {
+      "distance_km": 6.7255424897984994,
+      "duration_ticks": 270,
+      "source": 63,
+      "target": 73
+    },
+    {
+      "distance_km": 12.266404084254399,
+      "duration_ticks": 491,
+      "source": 64,
+      "target": 49
+    },
+    {
+      "distance_km": 8.141011029144352,
+      "duration_ticks": 326,
+      "source": 64,
+      "target": 50
+    },
+    {
+      "distance_km": 8.486562470914416,
+      "duration_ticks": 340,
+      "source": 64,
+      "target": 51
+    },
+    {
+      "distance_km": 12.383009108350564,
+      "duration_ticks": 496,
+      "source": 64,
+      "target": 52
+    },
+    {
+      "distance_km": 8.557818886305375,
+      "duration_ticks": 343,
+      "source": 64,
+      "target": 53
+    },
+    {
+      "distance_km": 10.360154396818272,
+      "duration_ticks": 415,
+      "source": 64,
+      "target": 54
+    },
+    {
+      "distance_km": 11.31296784824389,
+      "duration_ticks": 453,
+      "source": 64,
+      "target": 55
+    },
+    {
+      "distance_km": 4.709593069639139,
+      "duration_ticks": 189,
+      "source": 64,
+      "target": 56
+    },
+    {
+      "distance_km": 4.19307106090524,
+      "duration_ticks": 168,
+      "source": 64,
+      "target": 57
+    },
+    {
+      "distance_km": 9.91304435162786,
+      "duration_ticks": 397,
+      "source": 64,
+      "target": 58
+    },
+    {
+      "distance_km": 11.615469162717881,
+      "duration_ticks": 465,
+      "source": 64,
+      "target": 59
+    },
+    {
+      "distance_km": 5.474072284483829,
+      "duration_ticks": 219,
+      "source": 64,
+      "target": 60
+    },
+    {
+      "distance_km": 11.140222969658192,
+      "duration_ticks": 446,
+      "source": 64,
+      "target": 61
+    },
+    {
+      "distance_km": 6.223571287783243,
+      "duration_ticks": 249,
+      "source": 64,
+      "target": 62
+    },
+    {
+      "distance_km": 9.368205635416954,
+      "duration_ticks": 375,
+      "source": 64,
+      "target": 63
+    },
+    {
+      "distance_km": 9.585031766525816,
+      "duration_ticks": 384,
+      "source": 64,
+      "target": 65
+    },
+    {
+      "distance_km": 4.422763410184294,
+      "duration_ticks": 177,
+      "source": 64,
+      "target": 66
+    },
+    {
+      "distance_km": 5.677021976545272,
+      "duration_ticks": 228,
+      "source": 64,
+      "target": 67
+    },
+    {
+      "distance_km": 3.586722882352775,
+      "duration_ticks": 144,
+      "source": 64,
+      "target": 68
+    },
+    {
+      "distance_km": 10.280734979390726,
+      "duration_ticks": 412,
+      "source": 64,
+      "target": 69
+    },
+    {
+      "distance_km": 3.1735397071542994,
+      "duration_ticks": 127,
+      "source": 64,
+      "target": 70
+    },
+    {
+      "distance_km": 12.076509640959552,
+      "duration_ticks": 484,
+      "source": 64,
+      "target": 71
+    },
+    {
+      "distance_km": 12.553132782510545,
+      "duration_ticks": 503,
+      "source": 64,
+      "target": 72
+    },
+    {
+      "distance_km": 7.3007867519902945,
+      "duration_ticks": 293,
+      "source": 64,
+      "target": 73
+    },
+    {
+      "distance_km": 20.6832975815792,
+      "duration_ticks": 828,
+      "source": 65,
+      "target": 49
+    },
+    {
+      "distance_km": 6.505851967539457,
+      "duration_ticks": 261,
+      "source": 65,
+      "target": 50
+    },
+    {
+      "distance_km": 1.3934821379551319,
+      "duration_ticks": 56,
+      "source": 65,
+      "target": 51
+    },
+    {
+      "distance_km": 21.81694527577094,
+      "duration_ticks": 873,
+      "source": 65,
+      "target": 52
+    },
+    {
+      "distance_km": 5.112392403437945,
+      "duration_ticks": 205,
+      "source": 65,
+      "target": 53
+    },
+    {
+      "distance_km": 19.92025505787815,
+      "duration_ticks": 797,
+      "source": 65,
+      "target": 54
+    },
+    {
+      "distance_km": 18.426749207996753,
+      "duration_ticks": 738,
+      "source": 65,
+      "target": 55
+    },
+    {
+      "distance_km": 13.106555962944652,
+      "duration_ticks": 525,
+      "source": 65,
+      "target": 56
+    },
+    {
+      "distance_km": 5.482194779766952,
+      "duration_ticks": 220,
+      "source": 65,
+      "target": 57
+    },
+    {
+      "distance_km": 15.14528400439853,
+      "duration_ticks": 606,
+      "source": 65,
+      "target": 58
+    },
+    {
+      "distance_km": 15.803158707468484,
+      "duration_ticks": 633,
+      "source": 65,
+      "target": 59
+    },
+    {
+      "distance_km": 11.99919931554189,
+      "duration_ticks": 480,
+      "source": 65,
+      "target": 60
+    },
+    {
+      "distance_km": 19.933565367035296,
+      "duration_ticks": 798,
+      "source": 65,
+      "target": 61
+    },
+    {
+      "distance_km": 10.32593259398109,
+      "duration_ticks": 414,
+      "source": 65,
+      "target": 62
+    },
+    {
+      "distance_km": 18.287333700491413,
+      "duration_ticks": 732,
+      "source": 65,
+      "target": 63
+    },
+    {
+      "distance_km": 9.585031766525816,
+      "duration_ticks": 384,
+      "source": 65,
+      "target": 64
+    },
+    {
+      "distance_km": 12.427381006155159,
+      "duration_ticks": 498,
+      "source": 65,
+      "target": 66
+    },
+    {
+      "distance_km": 15.213001647768431,
+      "duration_ticks": 609,
+      "source": 65,
+      "target": 67
+    },
+    {
+      "distance_km": 10.243082582031349,
+      "duration_ticks": 410,
+      "source": 65,
+      "target": 68
+    },
+    {
+      "distance_km": 19.013259921357225,
+      "duration_ticks": 761,
+      "source": 65,
+      "target": 69
+    },
+    {
+      "distance_km": 9.65239018063205,
+      "duration_ticks": 387,
+      "source": 65,
+      "target": 70
+    },
+    {
+      "distance_km": 21.561331557275075,
+      "duration_ticks": 863,
+      "source": 65,
+      "target": 71
+    },
+    {
+      "distance_km": 18.37870377460881,
+      "duration_ticks": 736,
+      "source": 65,
+      "target": 72
+    },
+    {
+      "distance_km": 13.380784197109676,
+      "duration_ticks": 536,
+      "source": 65,
+      "target": 73
+    },
+    {
+      "distance_km": 13.56851306436376,
+      "duration_ticks": 543,
+      "source": 66,
+      "target": 49
+    },
+    {
+      "distance_km": 12.431416083162246,
+      "duration_ticks": 498,
+      "source": 66,
+      "target": 50
+    },
+    {
+      "distance_km": 11.646085959414947,
+      "duration_ticks": 466,
+      "source": 66,
+      "target": 51
+    },
+    {
+      "distance_km": 9.836545135651745,
+      "duration_ticks": 394,
+      "source": 66,
+      "target": 52
+    },
+    {
+      "distance_km": 12.648782148204623,
+      "duration_ticks": 506,
+      "source": 66,
+      "target": 53
+    },
+    {
+      "distance_km": 9.409225688338122,
+      "duration_ticks": 377,
+      "source": 66,
+      "target": 54
+    },
+    {
+      "distance_km": 13.836456904609829,
+      "duration_ticks": 554,
+      "source": 66,
+      "target": 55
+    },
+    {
+      "distance_km": 0.7912834227519249,
+      "duration_ticks": 32,
+      "source": 66,
+      "target": 56
+    },
+    {
+      "distance_km": 7.791383384132113,
+      "duration_ticks": 312,
+      "source": 66,
+      "target": 57
+    },
+    {
+      "distance_km": 5.89114372319026,
+      "duration_ticks": 236,
+      "source": 66,
+      "target": 58
+    },
+    {
+      "distance_km": 7.81244610333441,
+      "duration_ticks": 313,
+      "source": 66,
+      "target": 59
+    },
+    {
+      "distance_km": 1.885159827472726,
+      "duration_ticks": 76,
+      "source": 66,
+      "target": 60
+    },
+    {
+      "distance_km": 12.08515684778005,
+      "duration_ticks": 484,
+      "source": 66,
+      "target": 61
+    },
+    {
+      "distance_km": 10.506245722833109,
+      "duration_ticks": 421,
+      "source": 66,
+      "target": 62
+    },
+    {
+      "distance_km": 10.358871834015952,
+      "duration_ticks": 415,
+      "source": 66,
+      "target": 63
+    },
+    {
+      "distance_km": 4.422763410184294,
+      "duration_ticks": 177,
+      "source": 66,
+      "target": 64
+    },
+    {
+      "distance_km": 12.427381006155159,
+      "duration_ticks": 498,
+      "source": 66,
+      "target": 65
+    },
+    {
+      "distance_km": 4.418071630913763,
+      "duration_ticks": 177,
+      "source": 66,
+      "target": 67
+    },
+    {
+      "distance_km": 7.728158394361234,
+      "duration_ticks": 310,
+      "source": 66,
+      "target": 68
+    },
+    {
+      "distance_km": 6.586736521310155,
+      "duration_ticks": 264,
+      "source": 66,
+      "target": 69
+    },
+    {
+      "distance_km": 7.458243435632549,
+      "duration_ticks": 299,
+      "source": 66,
+      "target": 70
+    },
+    {
+      "distance_km": 11.399844265086783,
+      "duration_ticks": 456,
+      "source": 66,
+      "target": 71
+    },
+    {
+      "distance_km": 15.6679745809123,
+      "duration_ticks": 627,
+      "source": 66,
+      "target": 72
+    },
+    {
+      "distance_km": 10.905735512568514,
+      "duration_ticks": 437,
+      "source": 66,
+      "target": 73
+    },
+    {
+      "distance_km": 9.407432217407948,
+      "duration_ticks": 377,
+      "source": 67,
+      "target": 49
+    },
+    {
+      "distance_km": 13.281372462506122,
+      "duration_ticks": 532,
+      "source": 67,
+      "target": 50
+    },
+    {
+      "distance_km": 14.15505176052638,
+      "duration_ticks": 567,
+      "source": 67,
+      "target": 51
+    },
+    {
+      "distance_km": 6.732128969699037,
+      "duration_ticks": 270,
+      "source": 67,
+      "target": 52
+    },
+    {
+      "distance_km": 13.97045916710646,
+      "duration_ticks": 559,
+      "source": 67,
+      "target": 53
+    },
+    {
+      "distance_km": 5.105823272162973,
+      "duration_ticks": 205,
+      "source": 67,
+      "target": 54
+    },
+    {
+      "distance_km": 10.391773456242106,
+      "duration_ticks": 416,
+      "source": 67,
+      "target": 55
+    },
+    {
+      "distance_km": 3.7277376675835163,
+      "duration_ticks": 150,
+      "source": 67,
+      "target": 56
+    },
+    {
+      "distance_km": 9.869983582939993,
+      "duration_ticks": 395,
+      "source": 67,
+      "target": 57
+    },
+    {
+      "distance_km": 9.454400739905887,
+      "duration_ticks": 379,
+      "source": 67,
+      "target": 58
+    },
+    {
+      "distance_km": 11.492387380736695,
+      "duration_ticks": 460,
+      "source": 67,
+      "target": 59
+    },
+    {
+      "distance_km": 6.262955210708759,
+      "duration_ticks": 251,
+      "source": 67,
+      "target": 60
+    },
+    {
+      "distance_km": 7.83692669053233,
+      "duration_ticks": 314,
+      "source": 67,
+      "target": 61
+    },
+    {
+      "distance_km": 9.818515539422544,
+      "duration_ticks": 393,
+      "source": 67,
+      "target": 62
+    },
+    {
+      "distance_km": 6.20326081295765,
+      "duration_ticks": 249,
+      "source": 67,
+      "target": 63
+    },
+    {
+      "distance_km": 5.677021976545272,
+      "duration_ticks": 228,
+      "source": 67,
+      "target": 64
+    },
+    {
+      "distance_km": 15.213001647768431,
+      "duration_ticks": 609,
+      "source": 67,
+      "target": 65
+    },
+    {
+      "distance_km": 4.418071630913763,
+      "duration_ticks": 177,
+      "source": 67,
+      "target": 66
+    },
+    {
+      "distance_km": 7.191150872114769,
+      "duration_ticks": 288,
+      "source": 67,
+      "target": 68
+    },
+    {
+      "distance_km": 5.6086755407352635,
+      "duration_ticks": 225,
+      "source": 67,
+      "target": 69
+    },
+    {
+      "distance_km": 7.301752574161151,
+      "duration_ticks": 293,
+      "source": 67,
+      "target": 70
+    },
+    {
+      "distance_km": 7.051778570738662,
+      "duration_ticks": 283,
+      "source": 67,
+      "target": 71
+    },
+    {
+      "distance_km": 12.653688229087715,
+      "duration_ticks": 507,
+      "source": 67,
+      "target": 72
+    },
+    {
+      "distance_km": 8.889852692265324,
+      "duration_ticks": 356,
+      "source": 67,
+      "target": 73
+    },
+    {
+      "distance_km": 10.442639941143332,
+      "duration_ticks": 418,
+      "source": 68,
+      "target": 49
+    },
+    {
+      "distance_km": 6.333666549731283,
+      "duration_ticks": 254,
+      "source": 68,
+      "target": 50
+    },
+    {
+      "distance_km": 8.903202762046138,
+      "duration_ticks": 357,
+      "source": 68,
+      "target": 51
+    },
+    {
+      "distance_km": 13.667413974323965,
+      "duration_ticks": 547,
+      "source": 68,
+      "target": 52
+    },
+    {
+      "distance_km": 7.322354969274023,
+      "duration_ticks": 293,
+      "source": 68,
+      "target": 53
+    },
+    {
+      "distance_km": 10.610113883299558,
+      "duration_ticks": 425,
+      "source": 68,
+      "target": 54
+    },
+    {
+      "distance_km": 8.54715933098319,
+      "duration_ticks": 342,
+      "source": 68,
+      "target": 55
+    },
+    {
+      "distance_km": 7.8078362847197305,
+      "duration_ticks": 313,
+      "source": 68,
+      "target": 56
+    },
+    {
+      "distance_km": 5.0833273621888635,
+      "duration_ticks": 204,
+      "source": 68,
+      "target": 57
+    },
+    {
+      "distance_km": 13.44142580125561,
+      "duration_ticks": 538,
+      "source": 68,
+      "target": 58
+    },
+    {
+      "distance_km": 15.18682938267185,
+      "duration_ticks": 608,
+      "source": 68,
+      "target": 59
+    },
+    {
+      "distance_km": 9.010641708125178,
+      "duration_ticks": 361,
+      "source": 68,
+      "target": 60
+    },
+    {
+      "distance_km": 9.726124427339649,
+      "duration_ticks": 390,
+      "source": 68,
+      "target": 61
+    },
+    {
+      "distance_km": 2.8085951277941414,
+      "duration_ticks": 113,
+      "source": 68,
+      "target": 62
+    },
+    {
+      "distance_km": 8.148519742417085,
+      "duration_ticks": 326,
+      "source": 68,
+      "target": 63
+    },
+    {
+      "distance_km": 3.586722882352775,
+      "duration_ticks": 144,
+      "source": 68,
+      "target": 64
+    },
+    {
+      "distance_km": 10.243082582031349,
+      "duration_ticks": 410,
+      "source": 68,
+      "target": 65
+    },
+    {
+      "distance_km": 7.728158394361234,
+      "duration_ticks": 310,
+      "source": 68,
+      "target": 66
+    },
+    {
+      "distance_km": 7.191150872114769,
+      "duration_ticks": 288,
+      "source": 68,
+      "target": 67
+    },
+    {
+      "distance_km": 12.62250627690971,
+      "duration_ticks": 505,
+      "source": 68,
+      "target": 69
+    },
+    {
+      "distance_km": 0.6462516764635888,
+      "duration_ticks": 26,
+      "source": 68,
+      "target": 70
+    },
+    {
+      "distance_km": 11.908020759405822,
+      "duration_ticks": 477,
+      "source": 68,
+      "target": 71
+    },
+    {
+      "distance_km": 9.305544731980499,
+      "duration_ticks": 373,
+      "source": 68,
+      "target": 72
+    },
+    {
+      "distance_km": 3.9137566548953964,
+      "duration_ticks": 157,
+      "source": 68,
+      "target": 73
+    },
+    {
+      "distance_km": 13.294818315619699,
+      "duration_ticks": 532,
+      "source": 69,
+      "target": 49
+    },
+    {
+      "distance_km": 18.37327209881816,
+      "duration_ticks": 735,
+      "source": 69,
+      "target": 50
+    },
+    {
+      "distance_km": 18.204570502411777,
+      "duration_ticks": 729,
+      "source": 69,
+      "target": 51
+    },
+    {
+      "distance_km": 4.473351740666165,
+      "duration_ticks": 179,
+      "source": 69,
+      "target": 52
+    },
+    {
+      "distance_km": 18.836703792056532,
+      "duration_ticks": 754,
+      "source": 69,
+      "target": 53
+    },
+    {
+      "distance_km": 6.966480085686099,
+      "duration_ticks": 279,
+      "source": 69,
+      "target": 54
+    },
+    {
+      "distance_km": 15.315222090926007,
+      "duration_ticks": 613,
+      "source": 69,
+      "target": 55
+    },
+    {
+      "distance_km": 5.919767987232354,
+      "duration_ticks": 237,
+      "source": 69,
+      "target": 56
+    },
+    {
+      "distance_km": 14.197547908426051,
+      "duration_ticks": 568,
+      "source": 69,
+      "target": 57
+    },
+    {
+      "distance_km": 7.632784027527898,
+      "duration_ticks": 306,
+      "source": 69,
+      "target": 58
+    },
+    {
+      "distance_km": 9.395929962883397,
+      "duration_ticks": 376,
+      "source": 69,
+      "target": 59
+    },
+    {
+      "distance_km": 7.405234047653726,
+      "duration_ticks": 297,
+      "source": 69,
+      "target": 60
+    },
+    {
+      "distance_km": 11.623378763413331,
+      "duration_ticks": 465,
+      "source": 69,
+      "target": 61
+    },
+    {
+      "distance_km": 15.342704271341605,
+      "duration_ticks": 614,
+      "source": 69,
+      "target": 62
+    },
+    {
+      "distance_km": 10.467285910587616,
+      "duration_ticks": 419,
+      "source": 69,
+      "target": 63
+    },
+    {
+      "distance_km": 10.280734979390726,
+      "duration_ticks": 412,
+      "source": 69,
+      "target": 64
+    },
+    {
+      "distance_km": 19.013259921357225,
+      "duration_ticks": 761,
+      "source": 69,
+      "target": 65
+    },
+    {
+      "distance_km": 6.586736521310155,
+      "duration_ticks": 264,
+      "source": 69,
+      "target": 66
+    },
+    {
+      "distance_km": 5.6086755407352635,
+      "duration_ticks": 225,
+      "source": 69,
+      "target": 67
+    },
+    {
+      "distance_km": 12.62250627690971,
+      "duration_ticks": 505,
+      "source": 69,
+      "target": 68
+    },
+    {
+      "distance_km": 12.626697035684234,
+      "duration_ticks": 506,
+      "source": 69,
+      "target": 70
+    },
+    {
+      "distance_km": 8.682429806498007,
+      "duration_ticks": 348,
+      "source": 69,
+      "target": 71
+    },
+    {
+      "distance_km": 17.825177242228616,
+      "duration_ticks": 714,
+      "source": 69,
+      "target": 72
+    },
+    {
+      "distance_km": 14.478200456282991,
+      "duration_ticks": 580,
+      "source": 69,
+      "target": 73
+    },
+    {
+      "distance_km": 11.046724568547639,
+      "duration_ticks": 442,
+      "source": 70,
+      "target": 49
+    },
+    {
+      "distance_km": 6.045325227222186,
+      "duration_ticks": 242,
+      "source": 70,
+      "target": 50
+    },
+    {
+      "distance_km": 8.324475436366306,
+      "duration_ticks": 333,
+      "source": 70,
+      "target": 51
+    },
+    {
+      "distance_km": 13.88037674450121,
+      "duration_ticks": 556,
+      "source": 70,
+      "target": 52
+    },
+    {
+      "distance_km": 6.935964990163083,
+      "duration_ticks": 278,
+      "source": 70,
+      "target": 53
+    },
+    {
+      "distance_km": 10.969973211142587,
+      "duration_ticks": 439,
+      "source": 70,
+      "target": 54
+    },
+    {
+      "distance_km": 9.193386473794355,
+      "duration_ticks": 368,
+      "source": 70,
+      "target": 55
+    },
+    {
+      "distance_km": 7.599421213633708,
+      "duration_ticks": 304,
+      "source": 70,
+      "target": 56
+    },
+    {
+      "distance_km": 4.445084010598899,
+      "duration_ticks": 178,
+      "source": 70,
+      "target": 57
+    },
+    {
+      "distance_km": 13.081780002375213,
+      "duration_ticks": 524,
+      "source": 70,
+      "target": 58
+    },
+    {
+      "distance_km": 14.786861534845352,
+      "duration_ticks": 592,
+      "source": 70,
+      "target": 59
+    },
+    {
+      "distance_km": 8.642988323994254,
+      "duration_ticks": 346,
+      "source": 70,
+      "target": 60
+    },
+    {
+      "distance_km": 10.290668711300787,
+      "duration_ticks": 412,
+      "source": 70,
+      "target": 61
+    },
+    {
+      "distance_km": 3.0607626241812658,
+      "duration_ticks": 123,
+      "source": 70,
+      "target": 62
+    },
+    {
+      "distance_km": 8.68290514865762,
+      "duration_ticks": 348,
+      "source": 70,
+      "target": 63
+    },
+    {
+      "distance_km": 3.1735397071542994,
+      "duration_ticks": 127,
+      "source": 70,
+      "target": 64
+    },
+    {
+      "distance_km": 9.65239018063205,
+      "duration_ticks": 387,
+      "source": 70,
+      "target": 65
+    },
+    {
+      "distance_km": 7.458243435632549,
+      "duration_ticks": 299,
+      "source": 70,
+      "target": 66
+    },
+    {
+      "distance_km": 7.301752574161151,
+      "duration_ticks": 293,
+      "source": 70,
+      "target": 67
+    },
+    {
+      "distance_km": 0.6462516764635888,
+      "duration_ticks": 26,
+      "source": 70,
+      "target": 68
+    },
+    {
+      "distance_km": 12.626697035684234,
+      "duration_ticks": 506,
+      "source": 70,
+      "target": 69
+    },
+    {
+      "distance_km": 12.335308080668112,
+      "duration_ticks": 494,
+      "source": 70,
+      "target": 71
+    },
+    {
+      "distance_km": 9.926259776416995,
+      "duration_ticks": 398,
+      "source": 70,
+      "target": 72
+    },
+    {
+      "distance_km": 4.5276407982049545,
+      "duration_ticks": 182,
+      "source": 70,
+      "target": 73
+    },
+    {
+      "distance_km": 5.651691461854053,
+      "duration_ticks": 227,
+      "source": 71,
+      "target": 49
+    },
+    {
+      "distance_km": 18.164348699154093,
+      "duration_ticks": 727,
+      "source": 71,
+      "target": 50
+    },
+    {
+      "distance_km": 20.355552735312152,
+      "duration_ticks": 815,
+      "source": 71,
+      "target": 51
+    },
+    {
+      "distance_km": 5.231544661540222,
+      "duration_ticks": 210,
+      "source": 71,
+      "target": 52
+    },
+    {
+      "distance_km": 19.228904177893966,
+      "duration_ticks": 770,
+      "source": 71,
+      "target": 53
+    },
+    {
+      "distance_km": 2.010603439545949,
+      "duration_ticks": 81,
+      "source": 71,
+      "target": 54
+    },
+    {
+      "distance_km": 9.054049525394094,
+      "duration_ticks": 363,
+      "source": 71,
+      "target": 55
+    },
+    {
+      "distance_km": 10.653044763634197,
+      "duration_ticks": 427,
+      "source": 71,
+      "target": 56
+    },
+    {
+      "distance_km": 16.079612711135365,
+      "duration_ticks": 644,
+      "source": 71,
+      "target": 57
+    },
+    {
+      "distance_km": 15.514585576452244,
+      "duration_ticks": 621,
+      "source": 71,
+      "target": 58
+    },
+    {
+      "distance_km": 17.49618289170129,
+      "duration_ticks": 700,
+      "source": 71,
+      "target": 59
+    },
+    {
+      "distance_km": 13.16487873080588,
+      "duration_ticks": 527,
+      "source": 71,
+      "target": 60
+    },
+    {
+      "distance_km": 4.284587136321188,
+      "duration_ticks": 172,
+      "source": 71,
+      "target": 61
+    },
+    {
+      "distance_km": 13.633540904161947,
+      "duration_ticks": 546,
+      "source": 71,
+      "target": 62
+    },
+    {
+      "distance_km": 4.4876386333265526,
+      "duration_ticks": 180,
+      "source": 71,
+      "target": 63
+    },
+    {
+      "distance_km": 12.076509640959552,
+      "duration_ticks": 484,
+      "source": 71,
+      "target": 64
+    },
+    {
+      "distance_km": 21.561331557275075,
+      "duration_ticks": 863,
+      "source": 71,
+      "target": 65
+    },
+    {
+      "distance_km": 11.399844265086783,
+      "duration_ticks": 456,
+      "source": 71,
+      "target": 66
+    },
+    {
+      "distance_km": 7.051778570738662,
+      "duration_ticks": 283,
+      "source": 71,
+      "target": 67
+    },
+    {
+      "distance_km": 11.908020759405822,
+      "duration_ticks": 477,
+      "source": 71,
+      "target": 68
+    },
+    {
+      "distance_km": 8.682429806498007,
+      "duration_ticks": 348,
+      "source": 71,
+      "target": 69
+    },
+    {
+      "distance_km": 12.335308080668112,
+      "duration_ticks": 494,
+      "source": 71,
+      "target": 70
+    },
+    {
+      "distance_km": 11.828916018694612,
+      "duration_ticks": 474,
+      "source": 71,
+      "target": 72
+    },
+    {
+      "distance_km": 11.150135838394169,
+      "duration_ticks": 447,
+      "source": 71,
+      "target": 73
+    },
+    {
+      "distance_km": 6.540844028679173,
+      "duration_ticks": 262,
+      "source": 72,
+      "target": 49
+    },
+    {
+      "distance_km": 12.332965753195497,
+      "duration_ticks": 494,
+      "source": 72,
+      "target": 50
+    },
+    {
+      "distance_km": 16.9891067771022,
+      "duration_ticks": 680,
+      "source": 72,
+      "target": 51
+    },
+    {
+      "distance_km": 16.364399694380115,
+      "duration_ticks": 655,
+      "source": 72,
+      "target": 52
+    },
+    {
+      "distance_km": 13.835135485022546,
+      "duration_ticks": 554,
+      "source": 72,
+      "target": 53
+    },
+    {
+      "distance_km": 12.072736130171155,
+      "duration_ticks": 483,
+      "source": 72,
+      "target": 54
+    },
+    {
+      "distance_km": 2.776368058885744,
+      "duration_ticks": 112,
+      "source": 72,
+      "target": 55
+    },
+    {
+      "distance_km": 15.381091732584522,
+      "duration_ticks": 616,
+      "source": 72,
+      "target": 56
+    },
+    {
+      "distance_km": 14.073910364187062,
+      "duration_ticks": 563,
+      "source": 72,
+      "target": 57
+    },
+    {
+      "distance_km": 21.529282173696593,
+      "duration_ticks": 862,
+      "source": 72,
+      "target": 58
+    },
+    {
+      "distance_km": 23.479656762755134,
+      "duration_ticks": 940,
+      "source": 72,
+      "target": 59
+    },
+    {
+      "distance_km": 17.374317943730194,
+      "duration_ticks": 695,
+      "source": 72,
+      "target": 60
+    },
+    {
+      "distance_km": 7.559569264783608,
+      "duration_ticks": 303,
+      "source": 72,
+      "target": 61
+    },
+    {
+      "distance_km": 8.090824904910068,
+      "duration_ticks": 324,
+      "source": 72,
+      "target": 62
+    },
+    {
+      "distance_km": 7.746194996813144,
+      "duration_ticks": 310,
+      "source": 72,
+      "target": 63
+    },
+    {
+      "distance_km": 12.553132782510545,
+      "duration_ticks": 503,
+      "source": 72,
+      "target": 64
+    },
+    {
+      "distance_km": 18.37870377460881,
+      "duration_ticks": 736,
+      "source": 72,
+      "target": 65
+    },
+    {
+      "distance_km": 15.6679745809123,
+      "duration_ticks": 627,
+      "source": 72,
+      "target": 66
+    },
+    {
+      "distance_km": 12.653688229087715,
+      "duration_ticks": 507,
+      "source": 72,
+      "target": 67
+    },
+    {
+      "distance_km": 9.305544731980499,
+      "duration_ticks": 373,
+      "source": 72,
+      "target": 68
+    },
+    {
+      "distance_km": 17.825177242228616,
+      "duration_ticks": 714,
+      "source": 72,
+      "target": 69
+    },
+    {
+      "distance_km": 9.926259776416995,
+      "duration_ticks": 398,
+      "source": 72,
+      "target": 70
+    },
+    {
+      "distance_km": 11.828916018694612,
+      "duration_ticks": 474,
+      "source": 72,
+      "target": 71
+    },
+    {
+      "distance_km": 5.400608587824153,
+      "duration_ticks": 217,
+      "source": 72,
+      "target": 73
+    },
+    {
+      "distance_km": 7.920868262061427,
+      "duration_ticks": 317,
+      "source": 73,
+      "target": 49
+    },
+    {
+      "distance_km": 7.976505813498851,
+      "duration_ticks": 320,
+      "source": 73,
+      "target": 50
+    },
+    {
+      "distance_km": 11.98998765480015,
+      "duration_ticks": 480,
+      "source": 73,
+      "target": 51
+    },
+    {
+      "distance_km": 14.325879767791577,
+      "duration_ticks": 574,
+      "source": 73,
+      "target": 52
+    },
+    {
+      "distance_km": 9.366202747344838,
+      "duration_ticks": 375,
+      "source": 73,
+      "target": 53
+    },
+    {
+      "distance_km": 10.466210666995961,
+      "duration_ticks": 419,
+      "source": 73,
+      "target": 54
+    },
+    {
+      "distance_km": 5.056128719957297,
+      "duration_ticks": 203,
+      "source": 73,
+      "target": 55
+    },
+    {
+      "distance_km": 10.776874430550818,
+      "duration_ticks": 432,
+      "source": 73,
+      "target": 56
+    },
+    {
+      "distance_km": 8.733039303882467,
+      "duration_ticks": 350,
+      "source": 73,
+      "target": 57
+    },
+    {
+      "distance_km": 16.785518945691553,
+      "duration_ticks": 672,
+      "source": 73,
+      "target": 58
+    },
+    {
+      "distance_km": 18.646088525727883,
+      "duration_ticks": 746,
+      "source": 73,
+      "target": 59
+    },
+    {
+      "distance_km": 12.449625665346609,
+      "duration_ticks": 498,
+      "source": 73,
+      "target": 60
+    },
+    {
+      "distance_km": 7.787571737264256,
+      "duration_ticks": 312,
+      "source": 73,
+      "target": 61
+    },
+    {
+      "distance_km": 3.1751897431380374,
+      "duration_ticks": 128,
+      "source": 73,
+      "target": 62
+    },
+    {
+      "distance_km": 6.7255424897984994,
+      "duration_ticks": 270,
+      "source": 73,
+      "target": 63
+    },
+    {
+      "distance_km": 7.3007867519902945,
+      "duration_ticks": 293,
+      "source": 73,
+      "target": 64
+    },
+    {
+      "distance_km": 13.380784197109676,
+      "duration_ticks": 536,
+      "source": 73,
+      "target": 65
+    },
+    {
+      "distance_km": 10.905735512568514,
+      "duration_ticks": 437,
+      "source": 73,
+      "target": 66
+    },
+    {
+      "distance_km": 8.889852692265324,
+      "duration_ticks": 356,
+      "source": 73,
+      "target": 67
+    },
+    {
+      "distance_km": 3.9137566548953964,
+      "duration_ticks": 157,
+      "source": 73,
+      "target": 68
+    },
+    {
+      "distance_km": 14.478200456282991,
+      "duration_ticks": 580,
+      "source": 73,
+      "target": 69
+    },
+    {
+      "distance_km": 4.5276407982049545,
+      "duration_ticks": 182,
+      "source": 73,
+      "target": 70
+    },
+    {
+      "distance_km": 11.150135838394169,
+      "duration_ticks": 447,
+      "source": 73,
+      "target": 71
+    },
+    {
+      "distance_km": 5.400608587824153,
+      "duration_ticks": 217,
+      "source": 73,
+      "target": 72
+    }
+  ],
+  "horizon_tick": 28800,
+  "instance_id": "R25_confirmation_C15_clustered_g1_mesh",
+  "layout_id": "R25_confirmation_C15_clustered_g1",
+  "legacy": {
+    "air_positions": [
+      [
+        14.666189,
+        2.631051,
+        0.05
+      ],
+      [
+        15.092366,
+        6.705506,
+        0.05
+      ],
+      [
+        9.393967,
+        1.792316,
+        0.05
+      ],
+      [
+        11.943299,
+        10.360417,
+        0.05
+      ],
+      [
+        2.89181,
+        14.178933,
+        0.05
+      ],
+      [
+        13.167786,
+        13.214419,
+        0.05
+      ],
+      [
+        4.13937,
+        6.268841,
+        0.05
+      ],
+      [
+        7.785735,
+        16.437864,
+        0.05
+      ],
+      [
+        8.100393,
+        17.682801,
+        0.05
+      ],
+      [
+        15.973985,
+        11.109626,
+        0.05
+      ],
+      [
+        18.721845,
+        13.239344,
+        0.05
+      ],
+      [
+        16.78502,
+        18.104156,
+        0.05
+      ],
+      [
+        0.561176,
+        5.05716,
+        0.05
+      ],
+      [
+        18.826537,
+        14.746995,
+        0.05
+      ],
+      [
+        4.66963,
+        3.783646,
+        0.05
+      ],
+      [
+        13.677968,
+        1.351863,
+        0.05
+      ],
+      [
+        5.93263,
+        12.346926,
+        0.05
+      ],
+      [
+        13.848294,
+        14.950838,
+        0.05
+      ],
+      [
+        1.972413,
+        17.057987,
+        0.05
+      ],
+      [
+        1.128345,
+        18.914794,
+        0.05
+      ],
+      [
+        5.841995,
+        14.882678,
+        0.05
+      ],
+      [
+        8.886058,
+        1.248543,
+        0.05
+      ],
+      [
+        16.066656,
+        9.200459,
+        0.05
+      ],
+      [
+        8.939721,
+        3.03724,
+        0.05
+      ],
+      [
+        10.641218,
+        12.249633,
+        0.05
+      ],
+      [
+        16.920996,
+        19.490988,
+        0.05
+      ],
+      [
+        6.291841,
+        13.051977,
+        0.05
+      ],
+      [
+        6.264495,
+        8.63399,
+        0.05
+      ],
+      [
+        13.344661,
+        9.892521,
+        0.05
+      ],
+      [
+        0.727436,
+        9.527421,
+        0.05
+      ],
+      [
+        13.313625,
+        10.538027,
+        0.05
+      ],
+      [
+        4.633735,
+        1.773363,
+        0.05
+      ],
+      [
+        16.444508,
+        1.118462,
+        0.05
+      ],
+      [
+        14.835304,
+        6.273754,
+        0.05
+      ],
+      [
+        16.938304,
+        6.49763,
+        0.05
+      ],
+      [
+        10.328984,
+        15.475724,
+        0.05
+      ],
+      [
+        16.934853,
+        6.238297,
+        0.05
+      ],
+      [
+        16.34332,
+        7.230816,
+        0.05
+      ],
+      [
+        12.315784,
+        13.345032,
+        0.05
+      ],
+      [
+        15.271075,
+        4.53685,
+        0.05
+      ],
+      [
+        9.475306,
+        15.223443,
+        0.05
+      ],
+      [
+        16.506694,
+        6.570987,
+        0.05
+      ],
+      [
+        11.654174,
+        15.13747,
+        0.05
+      ],
+      [
+        16.164654,
+        6.374271,
+        0.05
+      ],
+      [
+        10.579647,
+        15.035606,
+        0.05
+      ],
+      [
+        11.830194,
+        15.640467,
+        0.05
+      ],
+      [
+        16.751981,
+        5.99037,
+        0.05
+      ],
+      [
+        9.182339,
+        16.210949,
+        0.05
+      ],
+      [
+        15.664286,
+        4.983026,
+        0.05
+      ]
+    ],
+    "air_types": [
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node"
+    ],
+    "ground_positions": [
+      [
+        10.0,
+        0.0,
+        0.0
+      ],
+      [
+        18.721845,
+        13.239344,
+        0.0
+      ],
+      [
+        16.78502,
+        18.104156,
+        0.0
+      ],
+      [
+        0.561176,
+        5.05716,
+        0.0
+      ],
+      [
+        18.826537,
+        14.746995,
+        0.0
+      ],
+      [
+        4.66963,
+        3.783646,
+        0.0
+      ],
+      [
+        13.677968,
+        1.351863,
+        0.0
+      ],
+      [
+        5.93263,
+        12.346926,
+        0.0
+      ],
+      [
+        13.848294,
+        14.950838,
+        0.0
+      ],
+      [
+        1.972413,
+        17.057987,
+        0.0
+      ],
+      [
+        1.128345,
+        18.914794,
+        0.0
+      ],
+      [
+        5.841995,
+        14.882678,
+        0.0
+      ],
+      [
+        8.886058,
+        1.248543,
+        0.0
+      ],
+      [
+        16.066656,
+        9.200459,
+        0.0
+      ],
+      [
+        8.939721,
+        3.03724,
+        0.0
+      ],
+      [
+        10.641218,
+        12.249633,
+        0.0
+      ],
+      [
+        16.920996,
+        19.490988,
+        0.0
+      ],
+      [
+        6.291841,
+        13.051977,
+        0.0
+      ],
+      [
+        6.264495,
+        8.63399,
+        0.0
+      ],
+      [
+        13.344661,
+        9.892521,
+        0.0
+      ],
+      [
+        0.727436,
+        9.527421,
+        0.0
+      ],
+      [
+        13.313625,
+        10.538027,
+        0.0
+      ],
+      [
+        4.633735,
+        1.773363,
+        0.0
+      ],
+      [
+        16.444508,
+        1.118462,
+        0.0
+      ],
+      [
+        14.835304,
+        6.273754,
+        0.0
+      ],
+      [
+        16.938304,
+        6.49763,
+        0.0
+      ],
+      [
+        10.328984,
+        15.475724,
+        0.0
+      ],
+      [
+        16.934853,
+        6.238297,
+        0.0
+      ],
+      [
+        16.34332,
+        7.230816,
+        0.0
+      ],
+      [
+        12.315784,
+        13.345032,
+        0.0
+      ],
+      [
+        15.271075,
+        4.53685,
+        0.0
+      ],
+      [
+        9.475306,
+        15.223443,
+        0.0
+      ],
+      [
+        16.506694,
+        6.570987,
+        0.0
+      ],
+      [
+        11.654174,
+        15.13747,
+        0.0
+      ],
+      [
+        16.164654,
+        6.374271,
+        0.0
+      ],
+      [
+        10.579647,
+        15.035606,
+        0.0
+      ],
+      [
+        11.830194,
+        15.640467,
+        0.0
+      ],
+      [
+        16.751981,
+        5.99037,
+        0.0
+      ],
+      [
+        9.182339,
+        16.210949,
+        0.0
+      ],
+      [
+        15.664286,
+        4.983026,
+        0.0
+      ]
+    ],
+    "ground_types": [
+      "DEPOT",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER"
+    ],
+    "num_points": 50,
+    "split": [
+      10,
+      24,
+      15
+    ]
+  },
+  "node_metadata": [
+    {
+      "capacity": 1,
+      "node": 0,
+      "position_km": [
+        14.666189,
+        2.631051,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 1,
+      "position_km": [
+        15.092366,
+        6.705506,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 2,
+      "position_km": [
+        9.393967,
+        1.792316,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 3,
+      "position_km": [
+        11.943299,
+        10.360417,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 4,
+      "position_km": [
+        2.89181,
+        14.178933,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 5,
+      "position_km": [
+        13.167786,
+        13.214419,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 6,
+      "position_km": [
+        4.13937,
+        6.268841,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 7,
+      "position_km": [
+        7.785735,
+        16.437864,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 8,
+      "position_km": [
+        8.100393,
+        17.682801,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 9,
+      "position_km": [
+        15.973985,
+        11.109626,
+        0.05
+      ],
+      "type": "Aerial Relay Node"
+    },
+    {
+      "capacity": 1,
+      "node": 10,
+      "position_km": [
+        18.721845,
+        13.239344,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 11,
+      "position_km": [
+        16.78502,
+        18.104156,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 12,
+      "position_km": [
+        0.561176,
+        5.05716,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 13,
+      "position_km": [
+        18.826537,
+        14.746995,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 14,
+      "position_km": [
+        4.66963,
+        3.783646,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 15,
+      "position_km": [
+        13.677968,
+        1.351863,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 16,
+      "position_km": [
+        5.93263,
+        12.346926,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 17,
+      "position_km": [
+        13.848294,
+        14.950838,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 18,
+      "position_km": [
+        1.972413,
+        17.057987,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 19,
+      "position_km": [
+        1.128345,
+        18.914794,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 20,
+      "position_km": [
+        5.841995,
+        14.882678,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 21,
+      "position_km": [
+        8.886058,
+        1.248543,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 22,
+      "position_km": [
+        16.066656,
+        9.200459,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 23,
+      "position_km": [
+        8.939721,
+        3.03724,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 24,
+      "position_km": [
+        10.641218,
+        12.249633,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 25,
+      "position_km": [
+        16.920996,
+        19.490988,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 26,
+      "position_km": [
+        6.291841,
+        13.051977,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 27,
+      "position_km": [
+        6.264495,
+        8.63399,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 28,
+      "position_km": [
+        13.344661,
+        9.892521,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 29,
+      "position_km": [
+        0.727436,
+        9.527421,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 30,
+      "position_km": [
+        13.313625,
+        10.538027,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 31,
+      "position_km": [
+        4.633735,
+        1.773363,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 32,
+      "position_km": [
+        16.444508,
+        1.118462,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 33,
+      "position_km": [
+        14.835304,
+        6.273754,
+        0.05
+      ],
+      "type": "VTP Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 34,
+      "position_km": [
+        16.938304,
+        6.49763,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 35,
+      "position_km": [
+        10.328984,
+        15.475724,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 36,
+      "position_km": [
+        16.934853,
+        6.238297,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 37,
+      "position_km": [
+        16.34332,
+        7.230816,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 38,
+      "position_km": [
+        12.315784,
+        13.345032,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 39,
+      "position_km": [
+        15.271075,
+        4.53685,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 40,
+      "position_km": [
+        9.475306,
+        15.223443,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 41,
+      "position_km": [
+        16.506694,
+        6.570987,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 42,
+      "position_km": [
+        11.654174,
+        15.13747,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 43,
+      "position_km": [
+        16.164654,
+        6.374271,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 44,
+      "position_km": [
+        10.579647,
+        15.035606,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 45,
+      "position_km": [
+        11.830194,
+        15.640467,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 46,
+      "position_km": [
+        16.751981,
+        5.99037,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 47,
+      "position_km": [
+        9.182339,
+        16.210949,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": 1,
+      "node": 48,
+      "position_km": [
+        15.664286,
+        4.983026,
+        0.05
+      ],
+      "type": "CUSTOMER Takeoff/Landing Node"
+    },
+    {
+      "capacity": "unlimited",
+      "node": 49,
+      "position_km": [
+        10.0,
+        0.0,
+        0.0
+      ],
+      "type": "DEPOT"
+    },
+    {
+      "air_portal": 10,
+      "capacity": "unlimited",
+      "node": 50,
+      "position_km": [
+        18.721845,
+        13.239344,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 11,
+      "capacity": "unlimited",
+      "node": 51,
+      "position_km": [
+        16.78502,
+        18.104156,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 12,
+      "capacity": "unlimited",
+      "node": 52,
+      "position_km": [
+        0.561176,
+        5.05716,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 13,
+      "capacity": "unlimited",
+      "node": 53,
+      "position_km": [
+        18.826537,
+        14.746995,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 14,
+      "capacity": "unlimited",
+      "node": 54,
+      "position_km": [
+        4.66963,
+        3.783646,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 15,
+      "capacity": "unlimited",
+      "node": 55,
+      "position_km": [
+        13.677968,
+        1.351863,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 16,
+      "capacity": "unlimited",
+      "node": 56,
+      "position_km": [
+        5.93263,
+        12.346926,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 17,
+      "capacity": "unlimited",
+      "node": 57,
+      "position_km": [
+        13.848294,
+        14.950838,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 18,
+      "capacity": "unlimited",
+      "node": 58,
+      "position_km": [
+        1.972413,
+        17.057987,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 19,
+      "capacity": "unlimited",
+      "node": 59,
+      "position_km": [
+        1.128345,
+        18.914794,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 20,
+      "capacity": "unlimited",
+      "node": 60,
+      "position_km": [
+        5.841995,
+        14.882678,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 21,
+      "capacity": "unlimited",
+      "node": 61,
+      "position_km": [
+        8.886058,
+        1.248543,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 22,
+      "capacity": "unlimited",
+      "node": 62,
+      "position_km": [
+        16.066656,
+        9.200459,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 23,
+      "capacity": "unlimited",
+      "node": 63,
+      "position_km": [
+        8.939721,
+        3.03724,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 24,
+      "capacity": "unlimited",
+      "node": 64,
+      "position_km": [
+        10.641218,
+        12.249633,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 25,
+      "capacity": "unlimited",
+      "node": 65,
+      "position_km": [
+        16.920996,
+        19.490988,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 26,
+      "capacity": "unlimited",
+      "node": 66,
+      "position_km": [
+        6.291841,
+        13.051977,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 27,
+      "capacity": "unlimited",
+      "node": 67,
+      "position_km": [
+        6.264495,
+        8.63399,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 28,
+      "capacity": "unlimited",
+      "node": 68,
+      "position_km": [
+        13.344661,
+        9.892521,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 29,
+      "capacity": "unlimited",
+      "node": 69,
+      "position_km": [
+        0.727436,
+        9.527421,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 30,
+      "capacity": "unlimited",
+      "node": 70,
+      "position_km": [
+        13.313625,
+        10.538027,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 31,
+      "capacity": "unlimited",
+      "node": 71,
+      "position_km": [
+        4.633735,
+        1.773363,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 32,
+      "capacity": "unlimited",
+      "node": 72,
+      "position_km": [
+        16.444508,
+        1.118462,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 33,
+      "capacity": "unlimited",
+      "node": 73,
+      "position_km": [
+        14.835304,
+        6.273754,
+        0.0
+      ],
+      "type": "VTP"
+    },
+    {
+      "air_portal": 34,
+      "capacity": 1,
+      "node": 74,
+      "position_km": [
+        16.938304,
+        6.49763,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 35,
+      "capacity": 1,
+      "node": 75,
+      "position_km": [
+        10.328984,
+        15.475724,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 36,
+      "capacity": 1,
+      "node": 76,
+      "position_km": [
+        16.934853,
+        6.238297,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 37,
+      "capacity": 1,
+      "node": 77,
+      "position_km": [
+        16.34332,
+        7.230816,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 38,
+      "capacity": 1,
+      "node": 78,
+      "position_km": [
+        12.315784,
+        13.345032,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 39,
+      "capacity": 1,
+      "node": 79,
+      "position_km": [
+        15.271075,
+        4.53685,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 40,
+      "capacity": 1,
+      "node": 80,
+      "position_km": [
+        9.475306,
+        15.223443,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 41,
+      "capacity": 1,
+      "node": 81,
+      "position_km": [
+        16.506694,
+        6.570987,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 42,
+      "capacity": 1,
+      "node": 82,
+      "position_km": [
+        11.654174,
+        15.13747,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 43,
+      "capacity": 1,
+      "node": 83,
+      "position_km": [
+        16.164654,
+        6.374271,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 44,
+      "capacity": 1,
+      "node": 84,
+      "position_km": [
+        10.579647,
+        15.035606,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 45,
+      "capacity": 1,
+      "node": 85,
+      "position_km": [
+        11.830194,
+        15.640467,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 46,
+      "capacity": 1,
+      "node": 86,
+      "position_km": [
+        16.751981,
+        5.99037,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 47,
+      "capacity": 1,
+      "node": 87,
+      "position_km": [
+        9.182339,
+        16.210949,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    },
+    {
+      "air_portal": 48,
+      "capacity": 1,
+      "node": 88,
+      "position_km": [
+        15.664286,
+        4.983026,
+        0.0
+      ],
+      "type": "CUSTOMER"
+    }
+  ],
+  "physical_settings": {
+    "clock_seconds": 3,
+    "drone_speed_kmh": 50.0,
+    "endurance_hours": 3.0,
+    "horizon_hours": 24.0,
+    "launch_seconds": 60,
+    "payload_capacity_lbs": 5,
+    "recovery_seconds": 30,
+    "safety_seconds": 3,
+    "service_seconds": 300,
+    "truck_speed_kmh": 30.0,
+    "vertical_ascent_kmh": 36.0,
+    "vertical_descent_kmh": 18.0
+  },
+  "portals": [
+    {
+      "air_node": 10,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 10,
+        "target": 50
+      },
+      "ground_node": 50,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 50,
+        "target": 10
+      }
+    },
+    {
+      "air_node": 11,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 11,
+        "target": 51
+      },
+      "ground_node": 51,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 51,
+        "target": 11
+      }
+    },
+    {
+      "air_node": 12,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 12,
+        "target": 52
+      },
+      "ground_node": 52,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 52,
+        "target": 12
+      }
+    },
+    {
+      "air_node": 13,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 13,
+        "target": 53
+      },
+      "ground_node": 53,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 53,
+        "target": 13
+      }
+    },
+    {
+      "air_node": 14,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 14,
+        "target": 54
+      },
+      "ground_node": 54,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 54,
+        "target": 14
+      }
+    },
+    {
+      "air_node": 15,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 15,
+        "target": 55
+      },
+      "ground_node": 55,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 55,
+        "target": 15
+      }
+    },
+    {
+      "air_node": 16,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 16,
+        "target": 56
+      },
+      "ground_node": 56,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 56,
+        "target": 16
+      }
+    },
+    {
+      "air_node": 17,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 17,
+        "target": 57
+      },
+      "ground_node": 57,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 57,
+        "target": 17
+      }
+    },
+    {
+      "air_node": 18,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 18,
+        "target": 58
+      },
+      "ground_node": 58,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 58,
+        "target": 18
+      }
+    },
+    {
+      "air_node": 19,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 19,
+        "target": 59
+      },
+      "ground_node": 59,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 59,
+        "target": 19
+      }
+    },
+    {
+      "air_node": 20,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 20,
+        "target": 60
+      },
+      "ground_node": 60,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 60,
+        "target": 20
+      }
+    },
+    {
+      "air_node": 21,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 21,
+        "target": 61
+      },
+      "ground_node": 61,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 61,
+        "target": 21
+      }
+    },
+    {
+      "air_node": 22,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 22,
+        "target": 62
+      },
+      "ground_node": 62,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 62,
+        "target": 22
+      }
+    },
+    {
+      "air_node": 23,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 23,
+        "target": 63
+      },
+      "ground_node": 63,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 63,
+        "target": 23
+      }
+    },
+    {
+      "air_node": 24,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 24,
+        "target": 64
+      },
+      "ground_node": 64,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 64,
+        "target": 24
+      }
+    },
+    {
+      "air_node": 25,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 25,
+        "target": 65
+      },
+      "ground_node": 65,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 65,
+        "target": 25
+      }
+    },
+    {
+      "air_node": 26,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 26,
+        "target": 66
+      },
+      "ground_node": 66,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 66,
+        "target": 26
+      }
+    },
+    {
+      "air_node": 27,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 27,
+        "target": 67
+      },
+      "ground_node": 67,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 67,
+        "target": 27
+      }
+    },
+    {
+      "air_node": 28,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 28,
+        "target": 68
+      },
+      "ground_node": 68,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 68,
+        "target": 28
+      }
+    },
+    {
+      "air_node": 29,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 29,
+        "target": 69
+      },
+      "ground_node": 69,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 69,
+        "target": 29
+      }
+    },
+    {
+      "air_node": 30,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 30,
+        "target": 70
+      },
+      "ground_node": 70,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 70,
+        "target": 30
+      }
+    },
+    {
+      "air_node": 31,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 31,
+        "target": 71
+      },
+      "ground_node": 71,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 71,
+        "target": 31
+      }
+    },
+    {
+      "air_node": 32,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 32,
+        "target": 72
+      },
+      "ground_node": 72,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 72,
+        "target": 32
+      }
+    },
+    {
+      "air_node": 33,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 33,
+        "target": 73
+      },
+      "ground_node": 73,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 73,
+        "target": 33
+      }
+    },
+    {
+      "air_node": 34,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 34,
+        "target": 74
+      },
+      "ground_node": 74,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 74,
+        "target": 34
+      }
+    },
+    {
+      "air_node": 35,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 35,
+        "target": 75
+      },
+      "ground_node": 75,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 75,
+        "target": 35
+      }
+    },
+    {
+      "air_node": 36,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 36,
+        "target": 76
+      },
+      "ground_node": 76,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 76,
+        "target": 36
+      }
+    },
+    {
+      "air_node": 37,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 37,
+        "target": 77
+      },
+      "ground_node": 77,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 77,
+        "target": 37
+      }
+    },
+    {
+      "air_node": 38,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 38,
+        "target": 78
+      },
+      "ground_node": 78,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 78,
+        "target": 38
+      }
+    },
+    {
+      "air_node": 39,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 39,
+        "target": 79
+      },
+      "ground_node": 79,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 79,
+        "target": 39
+      }
+    },
+    {
+      "air_node": 40,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 40,
+        "target": 80
+      },
+      "ground_node": 80,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 80,
+        "target": 40
+      }
+    },
+    {
+      "air_node": 41,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 41,
+        "target": 81
+      },
+      "ground_node": 81,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 81,
+        "target": 41
+      }
+    },
+    {
+      "air_node": 42,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 42,
+        "target": 82
+      },
+      "ground_node": 82,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 82,
+        "target": 42
+      }
+    },
+    {
+      "air_node": 43,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 43,
+        "target": 83
+      },
+      "ground_node": 83,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 83,
+        "target": 43
+      }
+    },
+    {
+      "air_node": 44,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 44,
+        "target": 84
+      },
+      "ground_node": 84,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 84,
+        "target": 44
+      }
+    },
+    {
+      "air_node": 45,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 45,
+        "target": 85
+      },
+      "ground_node": 85,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 85,
+        "target": 45
+      }
+    },
+    {
+      "air_node": 46,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 46,
+        "target": 86
+      },
+      "ground_node": 86,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 86,
+        "target": 46
+      }
+    },
+    {
+      "air_node": 47,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 47,
+        "target": 87
+      },
+      "ground_node": 87,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 87,
+        "target": 47
+      }
+    },
+    {
+      "air_node": 48,
+      "down": {
+        "distance_km": 0.05,
+        "duration_ticks": 4,
+        "source": 48,
+        "target": 88
+      },
+      "ground_node": 88,
+      "up": {
+        "distance_km": 0.05,
+        "duration_ticks": 2,
+        "source": 88,
+        "target": 48
+      }
+    }
+  ],
+  "provenance": {
+    "cluster_standard_deviation_km": 1.2,
+    "clustered_centers_km": [
+      [
+        4.92961629650138,
+        4.201622520887639
+      ],
+      [
+        15.422847488109896,
+        5.959939334867016
+      ],
+      [
+        10.594466465982867,
+        15.769348593696213
+      ]
+    ],
+    "data_family": "independent_synthetic_R25",
+    "domain_km": [
+      0.0,
+      20.0,
+      0.0,
+      20.0
+    ],
+    "external_benchmark_files_used": [],
+    "generator_sha256": "e6d3be61da760cd08e5f5a63c0dc458a785d8413400f242bca9c04ed9bce991a",
+    "geometry_rng": "python.random.Random",
+    "geometry_seed": 25125101,
+    "service_seed": 26125101,
+    "source": "procedural_generation",
+    "source_coordinates_reused": false,
+    "topology_design": "two bridge-free districts, equal 2N edges; 4 distinct-endpoint links versus 1 bridge"
+  },
+  "replication_index": 1,
+  "scale": 50,
+  "schema_version": "r29.instance.v1",
+  "source_customer_mapping": [
+    {
+      "air_node": 34,
+      "ground_local_node": 25,
+      "ground_node": 74,
+      "source_customer_id": 1
+    },
+    {
+      "air_node": 35,
+      "ground_local_node": 26,
+      "ground_node": 75,
+      "source_customer_id": 2
+    },
+    {
+      "air_node": 36,
+      "ground_local_node": 27,
+      "ground_node": 76,
+      "source_customer_id": 3
+    },
+    {
+      "air_node": 37,
+      "ground_local_node": 28,
+      "ground_node": 77,
+      "source_customer_id": 4
+    },
+    {
+      "air_node": 38,
+      "ground_local_node": 29,
+      "ground_node": 78,
+      "source_customer_id": 5
+    },
+    {
+      "air_node": 39,
+      "ground_local_node": 30,
+      "ground_node": 79,
+      "source_customer_id": 6
+    },
+    {
+      "air_node": 40,
+      "ground_local_node": 31,
+      "ground_node": 80,
+      "source_customer_id": 7
+    },
+    {
+      "air_node": 41,
+      "ground_local_node": 32,
+      "ground_node": 81,
+      "source_customer_id": 8
+    },
+    {
+      "air_node": 42,
+      "ground_local_node": 33,
+      "ground_node": 82,
+      "source_customer_id": 9
+    },
+    {
+      "air_node": 43,
+      "ground_local_node": 34,
+      "ground_node": 83,
+      "source_customer_id": 10
+    },
+    {
+      "air_node": 44,
+      "ground_local_node": 35,
+      "ground_node": 84,
+      "source_customer_id": 11
+    },
+    {
+      "air_node": 45,
+      "ground_local_node": 36,
+      "ground_node": 85,
+      "source_customer_id": 12
+    },
+    {
+      "air_node": 46,
+      "ground_local_node": 37,
+      "ground_node": 86,
+      "source_customer_id": 13
+    },
+    {
+      "air_node": 47,
+      "ground_local_node": 38,
+      "ground_node": 87,
+      "source_customer_id": 14
+    },
+    {
+      "air_node": 48,
+      "ground_local_node": 39,
+      "ground_node": 88,
+      "source_customer_id": 15
+    }
+  ],
+  "source_statistics": {
+    "air_edges": 98,
+    "air_nodes": 49,
+    "bridge_count": 0,
+    "connected": true,
+    "cross_district_link_count": 4,
+    "customer_count": 15,
+    "global_edge_connectivity": 2,
+    "max_path_stretch": 8.102824070289454,
+    "maximum_edge_betweenness": 0.3886054421768707,
+    "mean_customer_nearest_neighbor_km": 0.626319210088809,
+    "mean_degree": 4.0,
+    "mean_edge_length_km": 1.9220920202655596,
+    "mean_path_stretch": 1.6584594959253016,
+    "total_corridor_length_km": 188.36501798602484
+  },
+  "stage": "confirmation",
+  "tick_hours": 0.0008333333333333334,
+  "topology": "mesh",
+  "topology_seed": 25125101,
+  "trucks": [
+    {
+      "capacity_drones": 10,
+      "initial_drone_ids": [
+        11,
+        12
+      ],
+      "truck_id": 1
+    },
+    {
+      "capacity_drones": 10,
+      "initial_drone_ids": [
+        13,
+        14
+      ],
+      "truck_id": 2
+    }
+  ],
+  "vtps": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+  ],
+  "wait_nodes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

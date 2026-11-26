@@ -1,0 +1,1858 @@
+{
+  "schema_version": "r29.instance.v1",
+  "instance_id": "R13_S4_C6_uniform_mesh",
+  "layout_id": "R13_S4_C6_uniform",
+  "stage": "r13_bounds",
+  "distribution": "uniform",
+  "topology": "mesh",
+  "scale": 17,
+  "customer_count": 6,
+  "topology_seed": 26117700,
+  "geometry_seed": 26117700,
+  "replication_index": 0,
+  "tick_hours": 0.0008333333333333334,
+  "epsilon_ticks": 1,
+  "horizon_tick": 28800,
+  "depot": 16,
+  "vtps": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "air_arcs": [
+    {
+      "source": 0,
+      "target": 9,
+      "distance_km": 4.347831562508946,
+      "duration_ticks": 105
+    },
+    {
+      "source": 9,
+      "target": 0,
+      "distance_km": 4.347831562508946,
+      "duration_ticks": 105
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "distance_km": 3.1464586465874613,
+      "duration_ticks": 76
+    },
+    {
+      "source": 12,
+      "target": 0,
+      "distance_km": 3.1464586465874613,
+      "duration_ticks": 76
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "distance_km": 2.88528678559931,
+      "duration_ticks": 70
+    },
+    {
+      "source": 14,
+      "target": 0,
+      "distance_km": 2.88528678559931,
+      "duration_ticks": 70
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "distance_km": 3.308969089398842,
+      "duration_ticks": 80
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "distance_km": 3.308969089398842,
+      "duration_ticks": 80
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "distance_km": 2.046305939696459,
+      "duration_ticks": 50
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "distance_km": 2.046305939696459,
+      "duration_ticks": 50
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "distance_km": 15.293627695075944,
+      "duration_ticks": 368
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "distance_km": 15.293627695075944,
+      "duration_ticks": 368
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "distance_km": 12.628703422502644,
+      "duration_ticks": 304
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "distance_km": 12.628703422502644,
+      "duration_ticks": 304
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "distance_km": 11.61297600566061,
+      "duration_ticks": 279
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "distance_km": 11.61297600566061,
+      "duration_ticks": 279
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "distance_km": 5.441640258808092,
+      "duration_ticks": 131
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "distance_km": 5.441640258808092,
+      "duration_ticks": 131
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "distance_km": 2.3802339837009714,
+      "duration_ticks": 58
+    },
+    {
+      "source": 11,
+      "target": 3,
+      "distance_km": 2.3802339837009714,
+      "duration_ticks": 58
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "distance_km": 5.518885272239042,
+      "duration_ticks": 133
+    },
+    {
+      "source": 12,
+      "target": 3,
+      "distance_km": 5.518885272239042,
+      "duration_ticks": 133
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "distance_km": 6.099582668265838,
+      "duration_ticks": 147
+    },
+    {
+      "source": 13,
+      "target": 3,
+      "distance_km": 6.099582668265838,
+      "duration_ticks": 147
+    },
+    {
+      "source": 3,
+      "target": 14,
+      "distance_km": 5.370228022779854,
+      "duration_ticks": 129
+    },
+    {
+      "source": 14,
+      "target": 3,
+      "distance_km": 5.370228022779854,
+      "duration_ticks": 129
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "distance_km": 7.049430063298806,
+      "duration_ticks": 170
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "distance_km": 7.049430063298806,
+      "duration_ticks": 170
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "distance_km": 0.9905275323609133,
+      "duration_ticks": 24
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "distance_km": 0.9905275323609133,
+      "duration_ticks": 24
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "distance_km": 8.805738877275264,
+      "duration_ticks": 212
+    },
+    {
+      "source": 10,
+      "target": 4,
+      "distance_km": 8.805738877275264,
+      "duration_ticks": 212
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "distance_km": 6.683913630398586,
+      "duration_ticks": 161
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "distance_km": 6.683913630398586,
+      "duration_ticks": 161
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "distance_km": 5.968459829712184,
+      "duration_ticks": 144
+    },
+    {
+      "source": 8,
+      "target": 5,
+      "distance_km": 5.968459829712184,
+      "duration_ticks": 144
+    },
+    {
+      "source": 5,
+      "target": 15,
+      "distance_km": 1.7867054778169233,
+      "duration_ticks": 43
+    },
+    {
+      "source": 15,
+      "target": 5,
+      "distance_km": 1.7867054778169233,
+      "duration_ticks": 43
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "distance_km": 3.8869330303035836,
+      "duration_ticks": 94
+    },
+    {
+      "source": 12,
+      "target": 6,
+      "distance_km": 3.8869330303035836,
+      "duration_ticks": 94
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "distance_km": 6.866405417462618,
+      "duration_ticks": 165
+    },
+    {
+      "source": 13,
+      "target": 7,
+      "distance_km": 6.866405417462618,
+      "duration_ticks": 165
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "distance_km": 5.120427500760557,
+      "duration_ticks": 123
+    },
+    {
+      "source": 15,
+      "target": 8,
+      "distance_km": 5.120427500760557,
+      "duration_ticks": 123
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "distance_km": 5.799261718431752,
+      "duration_ticks": 140
+    },
+    {
+      "source": 10,
+      "target": 9,
+      "distance_km": 5.799261718431752,
+      "duration_ticks": 140
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "distance_km": 4.785822199199841,
+      "duration_ticks": 115
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "distance_km": 4.785822199199841,
+      "duration_ticks": 115
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "distance_km": 4.941933305672588,
+      "duration_ticks": 119
+    },
+    {
+      "source": 12,
+      "target": 9,
+      "distance_km": 4.941933305672588,
+      "duration_ticks": 119
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "distance_km": 6.467540687997255,
+      "duration_ticks": 156
+    },
+    {
+      "source": 13,
+      "target": 9,
+      "distance_km": 6.467540687997255,
+      "duration_ticks": 156
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "distance_km": 4.4678010921236195,
+      "duration_ticks": 108
+    },
+    {
+      "source": 14,
+      "target": 9,
+      "distance_km": 4.4678010921236195,
+      "duration_ticks": 108
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "distance_km": 5.076640102929692,
+      "duration_ticks": 122
+    },
+    {
+      "source": 11,
+      "target": 10,
+      "distance_km": 5.076640102929692,
+      "duration_ticks": 122
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "distance_km": 2.365941830186026,
+      "duration_ticks": 57
+    },
+    {
+      "source": 13,
+      "target": 10,
+      "distance_km": 2.365941830186026,
+      "duration_ticks": 57
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "distance_km": 3.7437424158649057,
+      "duration_ticks": 90
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "distance_km": 3.7437424158649057,
+      "duration_ticks": 90
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "distance_km": 6.585266365082358,
+      "duration_ticks": 159
+    },
+    {
+      "source": 14,
+      "target": 11,
+      "distance_km": 6.585266365082358,
+      "duration_ticks": 159
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "distance_km": 0.47820083991666035,
+      "duration_ticks": 12
+    },
+    {
+      "source": 14,
+      "target": 12,
+      "distance_km": 0.47820083991666035,
+      "duration_ticks": 12
+    }
+  ],
+  "portals": [
+    {
+      "ground_node": 17,
+      "air_node": 4,
+      "up": {
+        "source": 17,
+        "target": 4,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 4,
+        "target": 17,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 18,
+      "air_node": 5,
+      "up": {
+        "source": 18,
+        "target": 5,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 5,
+        "target": 18,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 19,
+      "air_node": 6,
+      "up": {
+        "source": 19,
+        "target": 6,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 6,
+        "target": 19,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 20,
+      "air_node": 7,
+      "up": {
+        "source": 20,
+        "target": 7,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 7,
+        "target": 20,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 21,
+      "air_node": 8,
+      "up": {
+        "source": 21,
+        "target": 8,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 8,
+        "target": 21,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 22,
+      "air_node": 9,
+      "up": {
+        "source": 22,
+        "target": 9,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 9,
+        "target": 22,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 23,
+      "air_node": 10,
+      "up": {
+        "source": 23,
+        "target": 10,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 10,
+        "target": 23,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 24,
+      "air_node": 11,
+      "up": {
+        "source": 24,
+        "target": 11,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 11,
+        "target": 24,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 25,
+      "air_node": 12,
+      "up": {
+        "source": 25,
+        "target": 12,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 12,
+        "target": 25,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 26,
+      "air_node": 13,
+      "up": {
+        "source": 26,
+        "target": 13,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 13,
+        "target": 26,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 27,
+      "air_node": 14,
+      "up": {
+        "source": 27,
+        "target": 14,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 14,
+        "target": 27,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    },
+    {
+      "ground_node": 28,
+      "air_node": 15,
+      "up": {
+        "source": 28,
+        "target": 15,
+        "distance_km": 0.05,
+        "duration_ticks": 2
+      },
+      "down": {
+        "source": 15,
+        "target": 28,
+        "distance_km": 0.05,
+        "duration_ticks": 4
+      }
+    }
+  ],
+  "ground_arcs": [
+    {
+      "source": 16,
+      "target": 17,
+      "distance_km": 3.1457644365082396,
+      "duration_ticks": 126
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "distance_km": 5.122295188231639,
+      "duration_ticks": 205
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "distance_km": 19.319481625257186,
+      "duration_ticks": 773
+    },
+    {
+      "source": 16,
+      "target": 20,
+      "distance_km": 3.545774739388418,
+      "duration_ticks": 142
+    },
+    {
+      "source": 16,
+      "target": 21,
+      "distance_km": 9.17390184673855,
+      "duration_ticks": 367
+    },
+    {
+      "source": 16,
+      "target": 22,
+      "distance_km": 16.39045254534435,
+      "duration_ticks": 656
+    },
+    {
+      "source": 17,
+      "target": 16,
+      "distance_km": 3.1457644365082396,
+      "duration_ticks": 126
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "distance_km": 7.049430063298806,
+      "duration_ticks": 282
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "distance_km": 18.27895390831899,
+      "duration_ticks": 732
+    },
+    {
+      "source": 17,
+      "target": 20,
+      "distance_km": 0.9905275323609133,
+      "duration_ticks": 40
+    },
+    {
+      "source": 17,
+      "target": 21,
+      "distance_km": 12.045661065414095,
+      "duration_ticks": 482
+    },
+    {
+      "source": 17,
+      "target": 22,
+      "distance_km": 14.215931072101643,
+      "duration_ticks": 569
+    },
+    {
+      "source": 18,
+      "target": 16,
+      "distance_km": 5.122295188231639,
+      "duration_ticks": 205
+    },
+    {
+      "source": 18,
+      "target": 17,
+      "distance_km": 7.049430063298806,
+      "duration_ticks": 282
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "distance_km": 16.394156275881386,
+      "duration_ticks": 656
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "distance_km": 6.683913630398586,
+      "duration_ticks": 268
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "distance_km": 5.968459829712184,
+      "duration_ticks": 239
+    },
+    {
+      "source": 18,
+      "target": 22,
+      "distance_km": 15.653780798747631,
+      "duration_ticks": 627
+    },
+    {
+      "source": 19,
+      "target": 16,
+      "distance_km": 19.319481625257186,
+      "duration_ticks": 773
+    },
+    {
+      "source": 19,
+      "target": 17,
+      "distance_km": 18.27895390831899,
+      "duration_ticks": 732
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "distance_km": 16.394156275881386,
+      "duration_ticks": 656
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "distance_km": 17.288607361686047,
+      "duration_ticks": 692
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "distance_km": 20.793814247999645,
+      "duration_ticks": 832
+    },
+    {
+      "source": 19,
+      "target": 22,
+      "distance_km": 7.976311427715508,
+      "duration_ticks": 320
+    },
+    {
+      "source": 20,
+      "target": 16,
+      "distance_km": 3.545774739388418,
+      "duration_ticks": 142
+    },
+    {
+      "source": 20,
+      "target": 17,
+      "distance_km": 0.9905275323609133,
+      "duration_ticks": 40
+    },
+    {
+      "source": 20,
+      "target": 18,
+      "distance_km": 6.683913630398586,
+      "duration_ticks": 268
+    },
+    {
+      "source": 20,
+      "target": 19,
+      "distance_km": 17.288607361686047,
+      "duration_ticks": 692
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "distance_km": 11.999277275025024,
+      "duration_ticks": 480
+    },
+    {
+      "source": 20,
+      "target": 22,
+      "distance_km": 13.313562883812132,
+      "duration_ticks": 533
+    },
+    {
+      "source": 21,
+      "target": 16,
+      "distance_km": 9.17390184673855,
+      "duration_ticks": 367
+    },
+    {
+      "source": 21,
+      "target": 17,
+      "distance_km": 12.045661065414095,
+      "duration_ticks": 482
+    },
+    {
+      "source": 21,
+      "target": 18,
+      "distance_km": 5.968459829712184,
+      "duration_ticks": 239
+    },
+    {
+      "source": 21,
+      "target": 19,
+      "distance_km": 20.793814247999645,
+      "duration_ticks": 832
+    },
+    {
+      "source": 21,
+      "target": 20,
+      "distance_km": 11.999277275025024,
+      "duration_ticks": 480
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "distance_km": 21.34819978804995,
+      "duration_ticks": 854
+    },
+    {
+      "source": 22,
+      "target": 16,
+      "distance_km": 16.39045254534435,
+      "duration_ticks": 656
+    },
+    {
+      "source": 22,
+      "target": 17,
+      "distance_km": 14.215931072101643,
+      "duration_ticks": 569
+    },
+    {
+      "source": 22,
+      "target": 18,
+      "distance_km": 15.653780798747631,
+      "duration_ticks": 627
+    },
+    {
+      "source": 22,
+      "target": 19,
+      "distance_km": 7.976311427715508,
+      "duration_ticks": 320
+    },
+    {
+      "source": 22,
+      "target": 20,
+      "distance_km": 13.313562883812132,
+      "duration_ticks": 533
+    },
+    {
+      "source": 22,
+      "target": 21,
+      "distance_km": 21.34819978804995,
+      "duration_ticks": 854
+    }
+  ],
+  "wait_nodes": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "customers": [
+    {
+      "customer_id": 1,
+      "air_node": 10,
+      "ground_node": 23,
+      "payload_lbs": 5,
+      "window_start": 4116,
+      "window_end": 7188,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 1,
+        "ready_h": 3.43,
+        "due_h": 5.99,
+        "service_h": 0.08333333333333333
+      }
+    },
+    {
+      "customer_id": 2,
+      "air_node": 11,
+      "ground_node": 24,
+      "payload_lbs": 2,
+      "window_start": 1400,
+      "window_end": 2992,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 2,
+        "ready_h": 1.1666666666666667,
+        "due_h": 2.4933333333333336,
+        "service_h": 0.08333333333333333
+      }
+    },
+    {
+      "customer_id": 3,
+      "air_node": 12,
+      "ground_node": 25,
+      "payload_lbs": 4,
+      "window_start": 3926,
+      "window_end": 5274,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 3,
+        "ready_h": 3.271666666666667,
+        "due_h": 4.3950000000000005,
+        "service_h": 0.08333333333333333
+      }
+    },
+    {
+      "customer_id": 4,
+      "air_node": 13,
+      "ground_node": 26,
+      "payload_lbs": 4,
+      "window_start": 731,
+      "window_end": 4256,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 4,
+        "ready_h": 0.6091666666666667,
+        "due_h": 3.546666666666667,
+        "service_h": 0.08333333333333333
+      }
+    },
+    {
+      "customer_id": 5,
+      "air_node": 14,
+      "ground_node": 27,
+      "payload_lbs": 5,
+      "window_start": 766,
+      "window_end": 3881,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 5,
+        "ready_h": 0.6383333333333334,
+        "due_h": 3.234166666666667,
+        "service_h": 0.08333333333333333
+      }
+    },
+    {
+      "customer_id": 6,
+      "air_node": 15,
+      "ground_node": 28,
+      "payload_lbs": 3,
+      "window_start": 3954,
+      "window_end": 7051,
+      "service_ticks": 100,
+      "source_window_hours": {
+        "cust": 6,
+        "ready_h": 3.2950000000000004,
+        "due_h": 5.8758333333333335,
+        "service_h": 0.08333333333333333
+      }
+    }
+  ],
+  "trucks": [
+    {
+      "truck_id": 1,
+      "capacity_drones": 10,
+      "initial_drone_ids": [
+        11,
+        12
+      ]
+    },
+    {
+      "truck_id": 2,
+      "capacity_drones": 10,
+      "initial_drone_ids": [
+        13,
+        14
+      ]
+    }
+  ],
+  "drones": [
+    {
+      "drone_id": 11,
+      "capacity_lbs": 5,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    },
+    {
+      "drone_id": 12,
+      "capacity_lbs": 5,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    },
+    {
+      "drone_id": 13,
+      "capacity_lbs": 5,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    },
+    {
+      "drone_id": 14,
+      "capacity_lbs": 5,
+      "endurance_ticks": 3600,
+      "launch_handling_ticks": 20,
+      "recovery_handling_ticks": 10
+    }
+  ],
+  "costs": {
+    "truck_per_km": 2.0,
+    "drone_per_km": 1.5,
+    "early_per_hour": 5.0,
+    "late_per_hour": 20.0
+  },
+  "physical_settings": {
+    "endurance_hours": 3.0,
+    "horizon_hours": 24.0,
+    "truck_speed_kmh": 30.0,
+    "drone_speed_kmh": 50.0,
+    "vertical_ascent_kmh": 36.0,
+    "vertical_descent_kmh": 18.0,
+    "payload_capacity_lbs": 5,
+    "launch_seconds": 60,
+    "recovery_seconds": 30,
+    "service_seconds": 300,
+    "safety_seconds": 3,
+    "clock_seconds": 3
+  },
+  "node_metadata": [
+    {
+      "node": 0,
+      "type": "Aerial Relay Node",
+      "capacity": 1,
+      "position_km": [
+        0.684333,
+        18.300841,
+        0.05
+      ]
+    },
+    {
+      "node": 1,
+      "type": "Aerial Relay Node",
+      "capacity": 1,
+      "position_km": [
+        7.139414,
+        17.191059,
+        0.05
+      ]
+    },
+    {
+      "node": 2,
+      "type": "Aerial Relay Node",
+      "capacity": 1,
+      "position_km": [
+        18.857626,
+        13.372108,
+        0.05
+      ]
+    },
+    {
+      "node": 3,
+      "type": "Aerial Relay Node",
+      "capacity": 1,
+      "position_km": [
+        6.978743,
+        13.885993,
+        0.05
+      ]
+    },
+    {
+      "node": 4,
+      "type": "VTP Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        6.98802,
+        0.90764,
+        0.05
+      ]
+    },
+    {
+      "node": 5,
+      "type": "VTP Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        13.404441,
+        3.82723,
+        0.05
+      ]
+    },
+    {
+      "node": 6,
+      "type": "VTP Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        7.641055,
+        19.174925,
+        0.05
+      ]
+    },
+    {
+      "node": 7,
+      "type": "VTP Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        7.004999,
+        1.898022,
+        0.05
+      ]
+    },
+    {
+      "node": 8,
+      "type": "VTP Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        19.003483,
+        1.760048,
+        0.05
+      ]
+    },
+    {
+      "node": 9,
+      "type": "VTP Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        1.539223,
+        14.037884,
+        0.05
+      ]
+    },
+    {
+      "node": 10,
+      "type": "CUSTOMER Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        2.160211,
+        8.271966,
+        0.05
+      ]
+    },
+    {
+      "node": 11,
+      "type": "CUSTOMER Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        5.783946,
+        11.827359,
+        0.05
+      ]
+    },
+    {
+      "node": 12,
+      "type": "CUSTOMER Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        3.828627,
+        18.417534,
+        0.05
+      ]
+    },
+    {
+      "node": 13,
+      "type": "CUSTOMER Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        4.525971,
+        8.301298,
+        0.05
+      ]
+    },
+    {
+      "node": 14,
+      "type": "CUSTOMER Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        3.556348,
+        18.024418,
+        0.05
+      ]
+    },
+    {
+      "node": 15,
+      "type": "CUSTOMER Takeoff/Landing Node",
+      "capacity": 1,
+      "position_km": [
+        13.894972,
+        2.10918,
+        0.05
+      ]
+    },
+    {
+      "node": 16,
+      "type": "DEPOT",
+      "capacity": "unlimited",
+      "position_km": [
+        10.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "node": 17,
+      "type": "VTP",
+      "capacity": "unlimited",
+      "position_km": [
+        6.98802,
+        0.90764,
+        0.0
+      ],
+      "air_portal": 4
+    },
+    {
+      "node": 18,
+      "type": "VTP",
+      "capacity": "unlimited",
+      "position_km": [
+        13.404441,
+        3.82723,
+        0.0
+      ],
+      "air_portal": 5
+    },
+    {
+      "node": 19,
+      "type": "VTP",
+      "capacity": "unlimited",
+      "position_km": [
+        7.641055,
+        19.174925,
+        0.0
+      ],
+      "air_portal": 6
+    },
+    {
+      "node": 20,
+      "type": "VTP",
+      "capacity": "unlimited",
+      "position_km": [
+        7.004999,
+        1.898022,
+        0.0
+      ],
+      "air_portal": 7
+    },
+    {
+      "node": 21,
+      "type": "VTP",
+      "capacity": "unlimited",
+      "position_km": [
+        19.003483,
+        1.760048,
+        0.0
+      ],
+      "air_portal": 8
+    },
+    {
+      "node": 22,
+      "type": "VTP",
+      "capacity": "unlimited",
+      "position_km": [
+        1.539223,
+        14.037884,
+        0.0
+      ],
+      "air_portal": 9
+    },
+    {
+      "node": 23,
+      "type": "CUSTOMER",
+      "capacity": 1,
+      "position_km": [
+        2.160211,
+        8.271966,
+        0.0
+      ],
+      "air_portal": 10
+    },
+    {
+      "node": 24,
+      "type": "CUSTOMER",
+      "capacity": 1,
+      "position_km": [
+        5.783946,
+        11.827359,
+        0.0
+      ],
+      "air_portal": 11
+    },
+    {
+      "node": 25,
+      "type": "CUSTOMER",
+      "capacity": 1,
+      "position_km": [
+        3.828627,
+        18.417534,
+        0.0
+      ],
+      "air_portal": 12
+    },
+    {
+      "node": 26,
+      "type": "CUSTOMER",
+      "capacity": 1,
+      "position_km": [
+        4.525971,
+        8.301298,
+        0.0
+      ],
+      "air_portal": 13
+    },
+    {
+      "node": 27,
+      "type": "CUSTOMER",
+      "capacity": 1,
+      "position_km": [
+        3.556348,
+        18.024418,
+        0.0
+      ],
+      "air_portal": 14
+    },
+    {
+      "node": 28,
+      "type": "CUSTOMER",
+      "capacity": 1,
+      "position_km": [
+        13.894972,
+        2.10918,
+        0.0
+      ],
+      "air_portal": 15
+    }
+  ],
+  "source_customer_mapping": [
+    {
+      "source_customer_id": 1,
+      "air_node": 10,
+      "ground_local_node": 7,
+      "ground_node": 23
+    },
+    {
+      "source_customer_id": 2,
+      "air_node": 11,
+      "ground_local_node": 8,
+      "ground_node": 24
+    },
+    {
+      "source_customer_id": 3,
+      "air_node": 12,
+      "ground_local_node": 9,
+      "ground_node": 25
+    },
+    {
+      "source_customer_id": 4,
+      "air_node": 13,
+      "ground_local_node": 10,
+      "ground_node": 26
+    },
+    {
+      "source_customer_id": 5,
+      "air_node": 14,
+      "ground_local_node": 11,
+      "ground_node": 27
+    },
+    {
+      "source_customer_id": 6,
+      "air_node": 15,
+      "ground_local_node": 12,
+      "ground_node": 28
+    }
+  ],
+  "district_split": {
+    "left_nodes": [
+      0,
+      3,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "right_nodes": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      15
+    ],
+    "cross_district_edges": [
+      [
+        3,
+        1
+      ],
+      [
+        12,
+        6
+      ],
+      [
+        13,
+        7
+      ],
+      [
+        10,
+        4
+      ]
+    ],
+    "cut_x_km": 6.9833815
+  },
+  "source_statistics": {
+    "air_nodes": 16,
+    "air_edges": 32,
+    "mean_degree": 4.0,
+    "total_corridor_length_km": 171.95142126961815,
+    "mean_edge_length_km": 5.373481914675567,
+    "bridge_count": 0,
+    "global_edge_connectivity": 2,
+    "cross_district_link_count": 4,
+    "mean_path_stretch": 1.16333318400263,
+    "max_path_stretch": 1.7428537635062908,
+    "maximum_edge_betweenness": 0.2833333333333333,
+    "mean_customer_nearest_neighbor_km": 3.4437277259618106,
+    "customer_count": 6,
+    "connected": true
+  },
+  "legacy": {
+    "num_points": 17,
+    "split": [
+      4,
+      6,
+      6
+    ],
+    "air_positions": [
+      [
+        0.684333,
+        18.300841,
+        0.05
+      ],
+      [
+        7.139414,
+        17.191059,
+        0.05
+      ],
+      [
+        18.857626,
+        13.372108,
+        0.05
+      ],
+      [
+        6.978743,
+        13.885993,
+        0.05
+      ],
+      [
+        6.98802,
+        0.90764,
+        0.05
+      ],
+      [
+        13.404441,
+        3.82723,
+        0.05
+      ],
+      [
+        7.641055,
+        19.174925,
+        0.05
+      ],
+      [
+        7.004999,
+        1.898022,
+        0.05
+      ],
+      [
+        19.003483,
+        1.760048,
+        0.05
+      ],
+      [
+        1.539223,
+        14.037884,
+        0.05
+      ],
+      [
+        2.160211,
+        8.271966,
+        0.05
+      ],
+      [
+        5.783946,
+        11.827359,
+        0.05
+      ],
+      [
+        3.828627,
+        18.417534,
+        0.05
+      ],
+      [
+        4.525971,
+        8.301298,
+        0.05
+      ],
+      [
+        3.556348,
+        18.024418,
+        0.05
+      ],
+      [
+        13.894972,
+        2.10918,
+        0.05
+      ]
+    ],
+    "air_types": [
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "Aerial Relay Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "VTP Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node",
+      "CUSTOMER Takeoff/Landing Node"
+    ],
+    "ground_positions": [
+      [
+        10.0,
+        0.0,
+        0.0
+      ],
+      [
+        6.98802,
+        0.90764,
+        0.0
+      ],
+      [
+        13.404441,
+        3.82723,
+        0.0
+      ],
+      [
+        7.641055,
+        19.174925,
+        0.0
+      ],
+      [
+        7.004999,
+        1.898022,
+        0.0
+      ],
+      [
+        19.003483,
+        1.760048,
+        0.0
+      ],
+      [
+        1.539223,
+        14.037884,
+        0.0
+      ],
+      [
+        2.160211,
+        8.271966,
+        0.0
+      ],
+      [
+        5.783946,
+        11.827359,
+        0.0
+      ],
+      [
+        3.828627,
+        18.417534,
+        0.0
+      ],
+      [
+        4.525971,
+        8.301298,
+        0.0
+      ],
+      [
+        3.556348,
+        18.024418,
+        0.0
+      ],
+      [
+        13.894972,
+        2.10918,
+        0.0
+      ]
+    ],
+    "ground_types": [
+      "DEPOT",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "VTP",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER",
+      "CUSTOMER"
+    ]
+  },
+  "provenance": {
+    "data_family": "independent_synthetic_R25",
+    "source": "procedural_generation",
+    "external_benchmark_files_used": [],
+    "source_coordinates_reused": false,
+    "geometry_rng": "python.random.Random",
+    "geometry_seed": 26117700,
+    "service_seed": 27117700,
+    "domain_km": [
+      0.0,
+      20.0,
+      0.0,
+      20.0
+    ],
+    "clustered_centers_km": [
+      [
+        4.259204736055743,
+        4.38854177465366
+      ],
+      [
+        15.414904080490981,
+        5.230005156396366
+      ],
+      [
+        10.951546480410764,
+        14.045920242271816
+      ]
+    ],
+    "cluster_standard_deviation_km": 1.2,
+    "topology_design": "two bridge-free districts, equal 2N edges; 4 distinct-endpoint links versus 1 bridge",
+    "generator_sha256": "e6d3be61da760cd08e5f5a63c0dc458a785d8413400f242bca9c04ed9bce991a"
+  },
+  "construction_options": [
+    {
+      "customer_id": 1,
+      "ranked_vtps": [
+        {
+          "vtp": 22,
+          "distance_km": 11.798523436863503,
+          "nominal_ticks": 392
+        },
+        {
+          "vtp": 17,
+          "distance_km": 17.811477754550527,
+          "nominal_ticks": 536
+        },
+        {
+          "vtp": 20,
+          "distance_km": 18.664694495297287,
+          "nominal_ticks": 556
+        },
+        {
+          "vtp": 19,
+          "distance_km": 25.824298231451927,
+          "nominal_ticks": 732
+        },
+        {
+          "vtp": 18,
+          "distance_km": 31.91033788114814,
+          "nominal_ticks": 876
+        },
+        {
+          "vtp": 21,
+          "distance_km": 43.847257540572514,
+          "nominal_ticks": 1164
+        }
+      ]
+    },
+    {
+      "customer_id": 2,
+      "ranked_vtps": [
+        {
+          "vtp": 22,
+          "distance_km": 9.771644398399681,
+          "nominal_ticks": 342
+        },
+        {
+          "vtp": 19,
+          "distance_km": 15.671018025592545,
+          "nominal_ticks": 488
+        },
+        {
+          "vtp": 20,
+          "distance_km": 21.420295666655047,
+          "nominal_ticks": 622
+        },
+        {
+          "vtp": 17,
+          "distance_km": 23.401350731376873,
+          "nominal_ticks": 670
+        },
+        {
+          "vtp": 18,
+          "distance_km": 34.78812292745222,
+          "nominal_ticks": 944
+        },
+        {
+          "vtp": 21,
+          "distance_km": 46.72504258687659,
+          "nominal_ticks": 1232
+        }
+      ]
+    },
+    {
+      "customer_id": 3,
+      "ranked_vtps": [
+        {
+          "vtp": 19,
+          "distance_km": 7.973866060607167,
+          "nominal_ticks": 300
+        },
+        {
+          "vtp": 22,
+          "distance_km": 10.083866611345176,
+          "nominal_ticks": 350
+        },
+        {
+          "vtp": 20,
+          "distance_km": 35.547230076653086,
+          "nominal_ticks": 964
+        },
+        {
+          "vtp": 17,
+          "distance_km": 37.528285141374916,
+          "nominal_ticks": 1012
+        },
+        {
+          "vtp": 18,
+          "distance_km": 48.91505733745026,
+          "nominal_ticks": 1286
+        },
+        {
+          "vtp": 21,
+          "distance_km": 56.457224916933676,
+          "nominal_ticks": 1466
+        }
+      ]
+    },
+    {
+      "customer_id": 4,
+      "ranked_vtps": [
+        {
+          "vtp": 22,
+          "distance_km": 13.13508137599451,
+          "nominal_ticks": 424
+        },
+        {
+          "vtp": 20,
+          "distance_km": 13.932810834925235,
+          "nominal_ticks": 442
+        },
+        {
+          "vtp": 17,
+          "distance_km": 15.91386589964706,
+          "nominal_ticks": 490
+        },
+        {
+          "vtp": 19,
+          "distance_km": 23.10971539472228,
+          "nominal_ticks": 666
+        },
+        {
+          "vtp": 18,
+          "distance_km": 27.30063809572241,
+          "nominal_ticks": 764
+        },
+        {
+          "vtp": 21,
+          "distance_km": 39.23755775514678,
+          "nominal_ticks": 1052
+        }
+      ]
+    },
+    {
+      "customer_id": 5,
+      "ranked_vtps": [
+        {
+          "vtp": 19,
+          "distance_km": 8.930267740440486,
+          "nominal_ticks": 324
+        },
+        {
+          "vtp": 22,
+          "distance_km": 9.135602184247238,
+          "nominal_ticks": 328
+        },
+        {
+          "vtp": 20,
+          "distance_km": 34.59082839681977,
+          "nominal_ticks": 940
+        },
+        {
+          "vtp": 17,
+          "distance_km": 36.571883461541596,
+          "nominal_ticks": 988
+        },
+        {
+          "vtp": 18,
+          "distance_km": 47.95865565761694,
+          "nominal_ticks": 1262
+        },
+        {
+          "vtp": 21,
+          "distance_km": 57.413626596766996,
+          "nominal_ticks": 1490
+        }
+      ]
+    },
+    {
+      "customer_id": 6,
+      "ranked_vtps": [
+        {
+          "vtp": 18,
+          "distance_km": 3.773410955633847,
+          "nominal_ticks": 198
+        },
+        {
+          "vtp": 21,
+          "distance_km": 10.440855001521113,
+          "nominal_ticks": 358
+        },
+        {
+          "vtp": 20,
+          "distance_km": 17.141238216431017,
+          "nominal_ticks": 520
+        },
+        {
+          "vtp": 17,
+          "distance_km": 17.87227108223146,
+          "nominal_ticks": 538
+        },
+        {
+          "vtp": 22,
+          "distance_km": 43.809130427350766,
+          "nominal_ticks": 1162
+        },
+        {
+          "vtp": 19,
+          "distance_km": 51.82110548597583,
+          "nominal_ticks": 1356
+        }
+      ]
+    }
+  ]
+}

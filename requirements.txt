@@ -1,0 +1,7 @@
+numpy>=1.23
+scipy>=1.10
+networkx>=3.0
+pandas>=1.5
+matplotlib>=3.7
+# Optional (only for TSP callback helper in src/solve_tsp_callback.py):
+# gurobipy>=10.0
